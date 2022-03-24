@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkVillains:878716125117026404><:bkUnderworld:908101788870279230><:bkUnderworld:908101788870279230><:bkQuest:878952454601986068><:bkDoomsday:908101944302764042>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicmask_v1:878715312453873674>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Atacante de Água com habilidades com Afogado e Fervendo",
+				"value": "```\nGwalirn adora causar, dentro e fora do campo de batalha. Metade-anão e metade-tritão, ele deve se infiltrar e ocupar corpos d'água fora do Submundo para sobreviver, o que dá a ele muitas oportunidades de aprontar com os outros.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Água Fervendo",
+				"value": "```\nRemove os efeitos positivos de todos os inimigos. Desativa a Característica de todos os inimigos. Causa dano de Água muito pesado a todos os inimigos. Aplica Incendiar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_gwalirn_3_v1.png"
+		},
+		"author": {
+			"name": "GWALIRN",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkVillains:878716125117026404><:bkUnderworld:908101788870279230><:bkUnderworld:908101788870279230><:bkQuest:878952454601986068><:bkDoomsday:908101944302764042>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicmask_v1:878715312453873674>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Atacante de Água com habilidades com Afogado e Fervendo",
+						"value": "```\nGwalirn adora causar, dentro e fora do campo de batalha. Metade-anão e metade-tritão, ele deve se infiltrar e ocupar corpos d'água fora do Submundo para sobreviver, o que dá a ele muitas oportunidades de aprontar com os outros.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Água Fervendo",
+						"value": "```\nRemove os efeitos positivos de todos os inimigos. Desativa a Característica de todos os inimigos. Causa dano de Água muito pesado a todos os inimigos. Aplica Incendiar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_gwalirn_1_v1.png"
+				},
+				"author": {
+					"name": "GWALIRN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 957**\n<:mlMythic:877987779185872906> <:mlWater:877986936227254272>\n>>> **ATTACKER `&` TORTURER**\n**QUEST**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:tdemontmpt:950771687799025707>  `DEMÔNIO`\n> **Ｒ１   **<:timmunityfreezet:949339369314086952>  `IMUNE A CONGELAR`\n> **Ｒ３   **<:tprecisionsct:949341541535739985>  `ED: AUTO PRECISÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkVillains:878716125117026404> `VILÕES`\n> <:bkUnderworld:908101788870279230> `HABITANTES DO SUBMUNDO`\n> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkQuest:878952454601986068> `MISSÃO`\n> <:bkDoomsday:908101944302764042> `ERA APOCALÍPTICA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_gwalirn_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "GWALIRN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２５３     <:icMlPower:879715624115380284> ６０１   **\n> **<:icMlSpeed:879715530011971624> ４３５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:tdemontmpt:950771687799025707>  `EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE. IMUNE A QUEIMAR E INCENDIAR.`\n> **Ｒ１   **<:timmunityfreezet:949339369314086952>  `DÁ IMUNIDADE CONTRA CONGELAR.`\n> **Ｒ３   **<:tprecisionsct:949341541535739985>  `AUMENTA SUA PRÓPRIA PRECISÃO EM 50%`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Água em Ebulição",
+						"value": "```\nAplica Fervendo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureboilings:950390823596490862> `𝙵𝙴𝚁𝚅𝙴𝙽𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Nas Profundezas",
+						"value": "```\nCausa dano de Água muito baixo a um inimigo. Aplica Afogado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟷𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_gwalirn_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "GWALIRN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE GWALIRN:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Lago em Ebulição",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Fervendo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureboilings:950390823596490862> `𝙵𝙴𝚁𝚅𝙴𝙽𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Onda Malígna",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Afogado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Portões Submarinos",
+						"value": "```\nCausa dano de Água muito pesado a um inimigo. Aplica Fervendo e Afogado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureboilings:950390823596490862> `𝙵𝙴𝚁𝚅𝙴𝙽𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Gelo Afiado",
+						"value": "```\nAplica Congelar a um inimigo. Aplica Sangrar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Mar em Ebulição",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Fervendo a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureboilings:950390823596490862> `𝙵𝙴𝚁𝚅𝙴𝙽𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Maré Maligna",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Afogado a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_gwalirn_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "GWALIRN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

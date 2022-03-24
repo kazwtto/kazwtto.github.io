@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlMagic:877987316529000568><:mlFire:877986746883788800>  <:bkWinter:878716273243095040><:bkAdventures:878951902925176842><:bkDoomsday:908101944302764042><:bkGLegion:878716018359402566>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicsword_v1:878715312596476004>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Atacante de Magia e Fogo com habilidades com Perfurar, efeitos aleatórios e Tormento.",
+				"value": "```\nVocê já ouviu falar das estrelas cadentes, mas tem alguma ideia de quem as atira lá de cima? Seu nome é Jaeger Yearend. Esse monstro pirotécnico intergalático usa sua magia para capturar as estrelas e depois usá-las como munição! Quando o tiro é certeiro, ele pode até criar toda uma constelação.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlMagic:877987316529000568> Que Rolem os Dados",
+				"value": "```\nGera dano de Magia pesado a todos os inimigos. Aplica Fraqueza a um elemento aleatório a todos os inimigos. Aplica um Incentivo de dano a si mesmo, e uma Proteção aleatória a todos os aliados.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_jaeger_yearend_3_v1.png"
+		},
+		"author": {
+			"name": "JAEGER YEAREND",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlMagic:877987316529000568><:mlFire:877986746883788800>  <:bkWinter:878716273243095040><:bkAdventures:878951902925176842><:bkDoomsday:908101944302764042><:bkGLegion:878716018359402566>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicsword_v1:878715312596476004>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Atacante de Magia e Fogo com habilidades com Perfurar, efeitos aleatórios e Tormento.",
+						"value": "```\nVocê já ouviu falar das estrelas cadentes, mas tem alguma ideia de quem as atira lá de cima? Seu nome é Jaeger Yearend. Esse monstro pirotécnico intergalático usa sua magia para capturar as estrelas e depois usá-las como munição! Quando o tiro é certeiro, ele pode até criar toda uma constelação.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlMagic:877987316529000568> Que Rolem os Dados",
+						"value": "```\nGera dano de Magia pesado a todos os inimigos. Aplica Fraqueza a um elemento aleatório a todos os inimigos. Aplica um Incentivo de dano a si mesmo, e uma Proteção aleatória a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_jaeger_yearend_1_v1.png"
+				},
+				"author": {
+					"name": "JAEGER YEAREND",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 951**\n<:mlMythic:877987779185872906> <:mlMagic:877987316529000568><:mlFire:877986746883788800>\n>>> **ATTACKER `&` TORTURER**\n**BOUNTY HUNT OFFER**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `REFORÇADO`\n> **Ｒ１   **<:timmunitycurset:949341485562732634>  `IMUNE A MALDIÇÃO`\n> **Ｒ３   **<:ttruevisiont:948776533957431386>  `VISÃO REAL`\n> **Ｒ４   **<:tweaknessmagicsct:949341440083914762>  `ED: FRAQUEZA MÁGICA`\n> **Ｒ５   **<:timmunitycontrolsct:949339377392312400>  `ED: IMUNE AO CONTROLE`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkWinter:878716273243095040> `INVERNO`\n> <:bkAdventures:878951902925176842> `AVENTUREIROS`\n> <:bkDoomsday:908101944302764042> `ERA APOCALÍPTICA`\n> <:bkGLegion:878716018359402566> `LEGIÕES DO BEM`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_jaeger_yearend_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "JAEGER YEAREND",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２５３     <:icMlPower:879715624115380284> ６０５   **\n> **<:icMlSpeed:879715530011971624> ４２９    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ１   **<:timmunitycurset:949341485562732634>  `DÁ IMUNIDADE A MALDIÇÃO`\n> **Ｒ３   **<:ttruevisiont:948776533957431386>  `DOBRO DE PRECISÃO`\n> **Ｒ４   **<:tweaknessmagicsct:949341440083914762>  `APLICA FRAQUEZA À MAGIA NO INÍCIO DA BATALHA A TODOS OS INIMIGOS. OS MONSTROS FICAM FRACOS CONTRA ATAQUES DE MAGIA.`\n> **Ｒ５   **<:timmunitycontrolsct:949339377392312400>  `IMUNE AO CONTROLE`",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Fiiiium Pow!",
+						"value": "```\nCausa dano de Magia moderado a um inimigo. Aplica Incendiar a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Imagina se Pega no Olho!",
+						"value": "```\nAplica Tortura aleatória a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_jaeger_yearend_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "JAEGER YEAREND",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE JAEGER YEAREND:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> O Que Eu Ganho Com Isso?",
+						"value": "```\nAplica Imunidade aleatoriamente contra Atordoar, Congelar e Possessão a si mesmo. Dá Incentivo de Dano a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Aranha no Céu",
+						"value": "```\nCausa dano de Magia moderado a todos os inimigos. Aplica Tormento a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturebanes:950390770886639626> `𝙼𝙰𝙻𝙳𝙸𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Festa Explosiva",
+						"value": "```\nAplica Perfurar a si mesmo. Causa dano de Magia pesado a um inimigo. Remove Perfurar de si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> O Que Tem na Caixa?",
+						"value": "```\nCausa dano de Fogo moderado a todos os inimigos. Aplica Tortura aleatória a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Kamurro na Cara!",
+						"value": "```\nCausa dano de Magia pesado a um inimigo. Aplica um efeito negativo aleatório e Tormento a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebanes:950390770886639626> `𝙼𝙰𝙻𝙳𝙸𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Golpe de Sorte",
+						"value": "```\nAplica Perfurar a si mesmo. Aplica uma Tortura aleatória e Fraqueza a um elemento aleatório a todos os inimigos. Remove Perfurar de si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_jaeger_yearend_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "JAEGER YEAREND",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkMechanical:878716018359410729>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicmask_v1:878715312453873674>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> TANQUE",
+				"value": "```\nUma massa de matéria negra que fica mais forte a cada inimigo derrotado? Quando Captain Copperbeard ouviu falar sobre Himass, soube que precisava tê-lo em sua tripulação imediatamente. Ele não desistiu de sua busca até encontrar e recrutar Himass! ```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> A matéria negra contra-ataca!",
+				"value": "```\nCausa dano Especial imenso a todos os inimigos. Cura em 100%. Pode Atordoar todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_himass_3_v1.png"
+		},
+		"author": {
+			"name": "HIMASS"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkMechanical:878716018359410729>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicmask_v1:878715312453873674>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> TANQUE",
+						"value": "```\nUma massa de matéria negra que fica mais forte a cada inimigo derrotado? Quando Captain Copperbeard ouviu falar sobre Himass, soube que precisava tê-lo em sua tripulação imediatamente. Ele não desistiu de sua busca até encontrar e recrutar Himass! ```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> A matéria negra contra-ataca!",
+						"value": "```\nCausa dano Especial imenso a todos os inimigos. Cura em 100%. Pode Atordoar todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_himass_1_v1.png"
+				},
+				"author": {
+					"name": "HIMASS"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 421**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>\n>>> **TANK**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunityblindt:949339386993053837>  `IMUNE À CEGUEIRA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkMechanical:878716018359410729> `MECÂNICO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_himass_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIMASS"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７８　     <:icMlPower:879715624115380284> ２１９   **\n> **<:icMlSpeed:879715530011971624> ２２０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunityblindt:949339386993053837>  `DÁ IMUNIDADE À CEGUEIRA.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Impacto sideral",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> É um golpe!",
+						"value": "```\nCausa dano de Escuridão moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_himass_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIMASS"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HIMASS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Manto negro",
+						"value": "```\nCausa dano de Escuridão moderado. Rouba Vida do alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Foco no alvo",
+						"value": "```\nCausa dano Especial moderado. O monstro recebe todos os ataques direcionados a um único alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Justiça cósmica",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Pode aplicar Redução de Dano a todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Qual é o problema?",
+						"value": "```\nCausa dano de Escuridão pesado. Rouba Vida do alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Pirata invencível",
+						"value": "```\nCausa dano de Escuridão moderado. Concede 1 rodada extra e Evasão a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxevasion2ts:950390814272548915> `𝙴𝚅𝙰𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Massa incontrolável",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Ganha 40% de Resistência. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Ataque brutal de Himass",
+						"value": "```\nCausa dano de Escuridão pesado. Rouba Vida do alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Poder da gravidade",
+						"value": "```\nCausa dano Especial muito pesado. O monstro recebe todos os ataques direcionados a um único alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Golpe galáctico",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Ganha Incentivo de dano. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_himass_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIMASS"
+				},
+				"footer": null
+			}
+		}
+	}
+}

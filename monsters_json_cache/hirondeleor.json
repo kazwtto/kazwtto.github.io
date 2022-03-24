@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkSea:878716019617722378>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicsword_v1:878715312596476004>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> ATACANTE",
+				"value": "```\nNão resta nenhum predador natural de Hirondeleor, já que ele matou todos eles. No entanto, ele tornou-se ambiciosos e também quer destruir a única criatura que pode ameaçá-lo: Enypiast.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Serrasalmus",
+				"value": "```\nCausa dano Especial muito pesado a todos os inimigos. Pode fazer todos os alvos Sangrarem. Pode dar Pesadelos a todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hirondelleor_3_v1.png"
+		},
+		"author": {
+			"name": "HIRONDELEOR"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkSea:878716019617722378>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicsword_v1:878715312596476004>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> ATACANTE",
+						"value": "```\nNão resta nenhum predador natural de Hirondeleor, já que ele matou todos eles. No entanto, ele tornou-se ambiciosos e também quer destruir a única criatura que pode ameaçá-lo: Enypiast.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Serrasalmus",
+						"value": "```\nCausa dano Especial muito pesado a todos os inimigos. Pode fazer todos os alvos Sangrarem. Pode dar Pesadelos a todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hirondelleor_1_v1.png"
+				},
+				"author": {
+					"name": "HIRONDELEOR"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 448**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>\n>>> **ATTACKER**\n**PROGRESSIVE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:thardenedt:949339379279740978>  `REFORÇADO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSea:878716019617722378> `MAR`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hirondelleor_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIRONDELEOR"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７２　     <:icMlPower:879715624115380284> ２３１   **\n> **<:icMlSpeed:879715530011971624> ２２４    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Perigo das profundezas",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Do abismo à praia",
+						"value": "```\nCausa dano de Escuridão moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hirondelleor_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIRONDELEOR"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HIRONDELEOR:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Dentadura afiada",
+						"value": "```\nCausa dano Especial moderado. 50% de chance de fazer o alvo Sangrar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Primeiro nos olhos",
+						"value": "```\nCausa dano de Escuridão moderado. 50% de chance de dar Pesadelos ao alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Profundo mar azul",
+						"value": "```\n50% de chance de Sangrar todos os alvos. 50% de chance de dar Pesadelos a todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Mandíbula adutora",
+						"value": "```\nCausa dano Especial muito pesado. Pode fazer o alvo Sangrar. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Carícia subaquática",
+						"value": "```\nCausa dano de Escuridão muito pesado. Pode dar Pesadelos ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Frias águas profundas",
+						"value": "```\nDá Incentivo de dano e Imunidade contra Congelar a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunityfreezes:950390769531912272> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙵𝚁𝙴𝙴𝚉𝙴𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Cardume de piranhas",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Pode fazer todos os alvos Sangrarem. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Sombras na costa",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Pode dar Pesadelos a todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Fluxo do rio morno",
+						"value": "```\nGanha o Dobro de dano e Precisão. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hirondelleor_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIRONDELEOR"
+				},
+				"footer": null
+			}
+		}
+	}
+}

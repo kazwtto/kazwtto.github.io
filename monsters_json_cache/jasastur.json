@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkUnderworld:908101788870279230><:bkELegion:878716018090975292>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelicessence_v1:878715312445460490>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Monstro de Controle que pode Possuir e remover a Resistência dos inimigos",
+				"value": "```\nJasastur vivia apenas na dimensão dos sonhos, atormentando o sono dos monstros. Até que, um dia, Baba Yaga teve um pesadelo tão real que fez Jasastur atravessar dimensões. Agora, ele pode se tornar seu medo mais profundo, mesmo de olhos abertos.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Perseguidor de estrelas",
+				"value": "```\nCausa dano de Escuridão muito pesado a todos os inimigos. Pode fazer todos os alvos Sangrarem. Pode Atordoar todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_jasastur_3_v1.png"
+		},
+		"author": {
+			"name": "JASASTUR"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkUnderworld:908101788870279230><:bkELegion:878716018090975292>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelicessence_v1:878715312445460490>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Monstro de Controle que pode Possuir e remover a Resistência dos inimigos",
+						"value": "```\nJasastur vivia apenas na dimensão dos sonhos, atormentando o sono dos monstros. Até que, um dia, Baba Yaga teve um pesadelo tão real que fez Jasastur atravessar dimensões. Agora, ele pode se tornar seu medo mais profundo, mesmo de olhos abertos.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Perseguidor de estrelas",
+						"value": "```\nCausa dano de Escuridão muito pesado a todos os inimigos. Pode fazer todos os alvos Sangrarem. Pode Atordoar todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_jasastur_1_v1.png"
+				},
+				"author": {
+					"name": "JASASTUR"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 454**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>\n>>> **CONTROL `&` Possession**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tabominationtmpt:950771671424434186>  `ABOMINAÇÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`\n> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_jasastur_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "JASASTUR"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７４　     <:icMlPower:879715624115380284> ２１１   **\n> **<:icMlSpeed:879715530011971624> ２２９    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tabominationtmpt:950771671424434186>  `DÁ IMUNIDADE A POSSESSÃO, CORRUPÇÃO, PESADELOS E SANGRAMENTO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Alterador de forma",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Mil formas",
+						"value": "```\nCausa dano de Escuridão moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_jasastur_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "JASASTUR"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE JASASTUR:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Comida cósmica",
+						"value": "```\nCausa dano Especial moderado. Remove 25% de Resistência do alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Sem limites",
+						"value": "```\nCausa dano de Escuridão moderado. 50% de chance de causar Possessão o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Ser complexo",
+						"value": "```\nCausa dano de Escuridão moderado. Aplica Vazamento de Resistência ao alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Dentáculo",
+						"value": "```\nCausa dano Especial pesado. Remove 50% de Resistência do alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Mil formas",
+						"value": "```\nCausa dano de Escuridão pesado. Pode Possuir alvos por 2 rodadas. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolmegapossessions:950390805435150437> `𝙼𝙴𝙶𝙰𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Criatura sem rosto",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Causa Pesadelos e pode Possuir todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟻 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Caos rastejante",
+						"value": "```\nRemove 50% de Resistência de todos os alvos. Aplica Vazamento de Resistência a todos os alvos. Dá 50% de Resistência a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Avenida do olmo",
+						"value": "```\nCausa dano Especial muito pesado. Pode dar Pesadelos ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Noite do tentáculo",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Dá Imunidade contra Escuridão a todos os aliados. Dá Imunidade contra Possessão e Pesadelos a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟷 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitydarks:950390829388795984> `𝙸𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 𝙰 𝙴𝚂𝙲𝚄𝚁𝙸𝙳𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfximmunitypossessions:950390739605528576> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙴𝙳𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfximmunitynightmaress:950390727630794772> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙽𝙸𝙶𝙷𝚃𝙼𝙰𝚁𝙴𝚂𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_jasastur_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "JASASTUR"
+				},
+				"footer": null
+			}
+		}
+	}
+}

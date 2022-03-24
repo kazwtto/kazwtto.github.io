@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlThunder:877987116024479774>  <:bkSHeroes:878716124567572562><:bkSpirit:878716124097810483><:bkMechanical:878716018359410729><:bkCorrupted:878949315303858176>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicessence_v1:878715312445460490>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Um monstro de Suporte de Trovão com Imunidades a Controle e Proteção de efeitos positivos",
+				"value": "```\nQuando a onda de Corrupção bloqueou a entrada do Portal Cósmico, Igoribuki ficou preso entre duas dimensões. Mas esse monstro é esperto e conhece todos os truques possíveis! Rapidamente, ele encontrou uma maneira de se projetar como um holograma no campo de batalha. Você vai encontrar Igoribuki onde quer que suas habilidades de Suporte sejam necessárias!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Igor!",
+				"value": "```\nCausa dano de Trovão moderado a todos os inimigos. Aplica Atordoar todos os inimigos. Aplica Choque a todos os inimigos. Aplica Bloqueio de efeitos positivos a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxblockpositiveeffects:950390814494830672> `𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂 𝙱𝙻𝙾𝚀𝚄𝙴𝙰𝙳𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_igoribuki_3_v1.png"
+		},
+		"author": {
+			"name": "IGORIBUKI",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlThunder:877987116024479774>  <:bkSHeroes:878716124567572562><:bkSpirit:878716124097810483><:bkMechanical:878716018359410729><:bkCorrupted:878949315303858176>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicessence_v1:878715312445460490>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Um monstro de Suporte de Trovão com Imunidades a Controle e Proteção de efeitos positivos",
+						"value": "```\nQuando a onda de Corrupção bloqueou a entrada do Portal Cósmico, Igoribuki ficou preso entre duas dimensões. Mas esse monstro é esperto e conhece todos os truques possíveis! Rapidamente, ele encontrou uma maneira de se projetar como um holograma no campo de batalha. Você vai encontrar Igoribuki onde quer que suas habilidades de Suporte sejam necessárias!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Igor!",
+						"value": "```\nCausa dano de Trovão moderado a todos os inimigos. Aplica Atordoar todos os inimigos. Aplica Choque a todos os inimigos. Aplica Bloqueio de efeitos positivos a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxblockpositiveeffects:950390814494830672> `𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂 𝙱𝙻𝙾𝚀𝚄𝙴𝙰𝙳𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_igoribuki_1_v1.png"
+				},
+				"author": {
+					"name": "IGORIBUKI",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 812**\n<:mlMythic:877987779185872906> <:mlThunder:877987116024479774>\n>>> **SUPPORT `&` BUFFER**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:timmunitydazet:949643045886910545>  `IMUNE À TONTURA`\n> **Ｒ１   **<:timmunitystunt:949339313450135622>  `IMUNE A ATORDOAMENTO`\n> **Ｒ３   **<:tprotectpositivesct:949341507658326027>  `ED: PROTEÇÃO DE EFEITOS POSITIVOS`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkSpirit:878716124097810483> `ESPÍRITOS`\n> <:bkMechanical:878716018359410729> `MECÂNICO`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_igoribuki_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IGORIBUKI",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １８２     <:icMlPower:879715624115380284> ４５０   **\n> **<:icMlSpeed:879715530011971624> ３６５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:timmunitydazet:949643045886910545>  `DÁ IMUNIDADE À TONTURA.`\n> **Ｒ１   **<:timmunitystunt:949339313450135622>  `DÁ IMUNIDADE A ATORDOAR.`\n> **Ｒ３   **<:tprotectpositivesct:949341507658326027>  `PROTEGE TODOS OS EFEITOS POSITIVOS ATIVOS, EXCETO A PRÓPRIA PROTEÇÃO DE STATUS.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Buki Oriental",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Campeão 13 Vezes",
+						"value": "```\nAplica Imunidade a controle a um aliado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_igoribuki_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IGORIBUKI",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE IGORIBUKI:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Jah de Marley",
+						"value": "```\nRemove todos os efeitos negativos de um aliado. Cura um aliado em 30%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Desbravador-AL",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo. Aplica Bloqueio de efeitos positivos a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxblockpositiveeffects:950390814494830672> `𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂 𝙱𝙻𝙾𝚀𝚄𝙴𝙰𝙳𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> QC-Athena",
+						"value": "```\nCausa dano de Trovão baixo a todos os inimigos. Aplica Bloqueio de efeitos positivos a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxblockpositiveeffects:950390814494830672> `𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂 𝙱𝙻𝙾𝚀𝚄𝙴𝙰𝙳𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Vapor de Arábica",
+						"value": "```\nAplica Proteção de efeitos positivos e Renegeração de Vida a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxprotectpositives:950390751316045854> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙳𝙴 𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Holovapores",
+						"value": "```\nRemove todos os efeitos negativos dos aliados. Cura 30% em todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟻𝟹 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> RG-Branco-7",
+						"value": "```\nAplica Imunidade a Controle e Regeneração de Vida a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟻𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_igoribuki_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IGORIBUKI",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

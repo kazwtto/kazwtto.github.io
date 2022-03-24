@@ -1,0 +1,332 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>  <:bkSea:878716019617722378><:bkGLegion:878716018359402566><:bkExclusive:878716018137108550><:bkNemesis:878716019038900304>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> CONTROLE",
+				"value": "```\nO General Thetys expulsou Hydratila de seu exército quando ele o confrontou sobre uma decisão de estratégia. Lutar era a vida de Hydratila, então ele sentiu que não havia mais nada. Ele se rebelou contra o exército da Água, mas foi derrotado. Agora ele está de volta, mais forte e com uma nova arma!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Boltcaster",
+				"value": "```\nCausa dano de Natureza imenso a todos os inimigos. Pode Estontear todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_water_hydratila_c_3_v2.png"
+		},
+		"author": {
+			"name": "HYDRATILA THE BOLTCASTER",
+			"icon_url": "https://i.ibb.co/4PVGVD3/gr-badge-nemesis.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>  <:bkSea:878716019617722378><:bkGLegion:878716018359402566><:bkExclusive:878716018137108550><:bkNemesis:878716019038900304>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> CONTROLE",
+						"value": "```\nO General Thetys expulsou Hydratila de seu exército quando ele o confrontou sobre uma decisão de estratégia. Lutar era a vida de Hydratila, então ele sentiu que não havia mais nada. Ele se rebelou contra o exército da Água, mas foi derrotado. Agora ele está de volta, mais forte e com uma nova arma!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Boltcaster",
+						"value": "```\nCausa dano de Natureza imenso a todos os inimigos. Pode Estontear todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_water_hydratila_c_1_v1.png"
+				},
+				"author": {
+					"name": "HYDRATILA THE BOLTCASTER",
+					"icon_url": "https://i.ibb.co/4PVGVD3/gr-badge-nemesis.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 428**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>\n>>> **CONTROL**\n**NEMESIS**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tnemesist:949339411903021106>  `TRAIT_NEMESISHYDRATILA_NAMEKEY`:\n> 　<:timmunityfreezet:949339369314086952>  `IMUNE A CONGELAR`\n> 　<:tsuperattunedt:949339288967970856>  `SUPER-HARMONIZADO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSea:878716019617722378> `MAR`\n> <:bkGLegion:878716018359402566> `LEGIÕES DO BEM`\n> <:bkExclusive:878716018137108550> `EXCLUSIVO`\n> <:bkNemesis:878716019038900304> `NEMESIS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_water_hydratila_c_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HYDRATILA THE BOLTCASTER",
+					"icon_url": "https://i.ibb.co/4PVGVD3/gr-badge-nemesis.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ８２　     <:icMlPower:879715624115380284> ２２８   **\n> **<:icMlSpeed:879715530011971624> ２２８    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tnemesist:949339411903021106>  `TRAIT_NEMESISHYDRATILA_DESCRIPTIONKEY`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Thetys Nemesis",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Vingança fria",
+						"value": "```\nCausa dano de Água moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_water_hydratila_c_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HYDRATILA THE BOLTCASTER",
+					"icon_url": "https://i.ibb.co/4PVGVD3/gr-badge-nemesis.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HYDRATILA THE BOLTCASTER:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Thetys, página 3",
+						"value": "```\nCausa dano Especial moderado. Remove 30% de Resistência do alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Desventurado",
+						"value": "```\nCausa dano de Água moderado. Remove todos os efeitos positivos de status do alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Corrente estável",
+						"value": "```\nCausa dano de Trovão moderado. 50% de chance de Estontear o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Thetys, página 12",
+						"value": "```\nCausa dano Especial moderado. Dá Regeneração de Resistência a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxstaminaregenerations:950390803803566152> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾 𝙳𝙴 𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Área desventurada",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Remove todos os efeitos de status positivo de todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Indutor de espasmo",
+						"value": "```\nCausa dano de Trovão moderado. Pode Estontear o alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Thetys, página 24",
+						"value": "```\nCausa dano Especial pesado. Dá Imunidade contra Congelar a todos os aliados. Dá Regeneração de Resistência a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunityfreezes:950390769531912272> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙵𝚁𝙴𝙴𝚉𝙴𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxstaminaregenerations:950390803803566152> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾 𝙳𝙴 𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Energia inviável",
+						"value": "```\nCausa dano de Água muito pesado. Aplica Vazamento de Resistência ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Resistor da agonia",
+						"value": "```\nCausa dano de Trovão pesado. 50% de chance de Estontear toda a equipe inimiga. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Thetys, página 32",
+						"value": "```\nCausa dano Especial muito pesado. Aplica Vazamento de Energia ao alvo. Dá Regeneração de Energia a toda a equipe aliada.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxstaminaregenerations:950390803803566152> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾 𝙳𝙴 𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Administrador do gelo",
+						"value": "```\nCausa dano de Água pesado a toda a equipe inimiga. Congela toda a equipe inimiga. Dá imunidade contra Congelar a toda a equipe aliada.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟺 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunityfreezes:950390769531912272> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙵𝚁𝙴𝙴𝚉𝙴𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Condensador de dor",
+						"value": "```\nCausa dano de Trovão muito pesado. Faz toda a equipe inimiga Estontear.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_water_hydratila_c_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HYDRATILA THE BOLTCASTER",
+					"icon_url": "https://i.ibb.co/4PVGVD3/gr-badge-nemesis.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

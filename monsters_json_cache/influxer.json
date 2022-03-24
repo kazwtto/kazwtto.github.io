@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlThunder:877987116024479774>  <:bkELegion:878716018090975292><:bkMechanical:878716018359410729><:bkVillains:878716125117026404><:bkCorrupted:878949315303858176>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicarmor_v1:878715312080560139>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Tanque de Trovão com Imunidade a Controle e Provocação",
+				"value": "```\nInfluxer costumava trabalhar como eletricista no Laboratório do Dr. Viktor, mas o temperamento terrível dele acabou custando seu emprego. Depois que foi despedido, ele ficou tão furioso que entrou escondido no Laboratório e conseguiu roubar o recurso gosmento que o Dr. Viktor estava usando em suas experiências. Depois que colocou as mãos naquilo, seu temperamento ficou mil vezes pior. Agora Influxer está à solta, e sem ninguém em quem descontar sua raiva. Você pode ser sua próxima vítima!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Saraivada de Raios",
+				"value": "```\nCausa dano de Trovão moderado a todos os inimigos. Aplica Choque e Mega-atordoar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_influxer_3_v1.png"
+		},
+		"author": {
+			"name": "INFLUXER",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlThunder:877987116024479774>  <:bkELegion:878716018090975292><:bkMechanical:878716018359410729><:bkVillains:878716125117026404><:bkCorrupted:878949315303858176>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicarmor_v1:878715312080560139>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Tanque de Trovão com Imunidade a Controle e Provocação",
+						"value": "```\nInfluxer costumava trabalhar como eletricista no Laboratório do Dr. Viktor, mas o temperamento terrível dele acabou custando seu emprego. Depois que foi despedido, ele ficou tão furioso que entrou escondido no Laboratório e conseguiu roubar o recurso gosmento que o Dr. Viktor estava usando em suas experiências. Depois que colocou as mãos naquilo, seu temperamento ficou mil vezes pior. Agora Influxer está à solta, e sem ninguém em quem descontar sua raiva. Você pode ser sua próxima vítima!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Saraivada de Raios",
+						"value": "```\nCausa dano de Trovão moderado a todos os inimigos. Aplica Choque e Mega-atordoar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_influxer_1_v1.png"
+				},
+				"author": {
+					"name": "INFLUXER",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 816**\n<:mlMythic:877987779185872906> <:mlThunder:877987116024479774>\n>>> **TANK `&` TAUNTER**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:timmunitycontrolt:949339326666395690>  `IMUNE AO CONTROLE`\n> **Ｒ１   **<:timmunitydazet:949643045886910545>  `IMUNE À TONTURA`\n> **Ｒ３   **<:ttauntsct:949339324267233400>  `ED: PROVOCAÇÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkMechanical:878716018359410729> `MECÂNICO`\n> <:bkVillains:878716125117026404> `VILÕES`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_influxer_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INFLUXER",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １９５     <:icMlPower:879715624115380284> ４６０   **\n> **<:icMlSpeed:879715530011971624> ３５５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:timmunitycontrolt:949339326666395690>  `CONCEDE IMUNIDADE A ATORDOAR, CONGELAR, POSSESSÃO E CORRUPÇÃO, E TODAS SUAS VERSÕES \"MEGA\".`\n> **Ｒ１   **<:timmunitydazet:949643045886910545>  `DÁ IMUNIDADE À TONTURA.`\n> **Ｒ３   **<:ttauntsct:949339324267233400>  `EFEITO DISPERSADO: RECEBE TODOS OS ATAQUES DE ALVO ÚNICO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Soco de Eletricista",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo. Aplica Tontura a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Testador de Voltagem",
+						"value": "```\nCausa dano de Trovão baixo a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_influxer_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INFLUXER",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE INFLUXER:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Luvas de Borracha",
+						"value": "```\nAplica Imunidade a Controle a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Raio",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo. Aplica Tontura e Choque a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Capacete de Segurança",
+						"value": "```\nAplica Imunidade a Controle a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Para-raios",
+						"value": "```\nRemove todos os efeitos negativos de si mesmo. Aplica Provocação a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Lanterna Tática",
+						"value": "```\nCausa dano de Trovão moderado a todos os inimigos. Aplica Tontura a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Equipe Eletrizante",
+						"value": "```\nCausa dano de Trovão muito pesado a um inimigo. Aplica Choque e Atordoar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_thunder_influxer_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INFLUXER",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

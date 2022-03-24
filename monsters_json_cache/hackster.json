@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>  <:bkMechanical:878716018359410729>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Monstro de Controle de Metal que consegue Hackear os inimigos",
+				"value": "```\nHackster compreende uma dimensão desconhecida. Ele descobriu uma maneira de hackear disquetes, multiplicando sua capacidade de armazenamento. Esta técnica permite que ele mantenha um banco de dados das habilidades de seus oponentes e use-as contra eles.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Mouse de Troia",
+				"value": "```\nAplica Corrupção a todos os alvos em dois turnos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolmegapossessions:950390805435150437> `𝙼𝙴𝙶𝙰𝙲𝙾𝚁𝚁𝚄𝙿𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_light_metal_hackster_3_v1.png"
+		},
+		"author": {
+			"name": "HACKSTER"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>  <:bkMechanical:878716018359410729>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Monstro de Controle de Metal que consegue Hackear os inimigos",
+						"value": "```\nHackster compreende uma dimensão desconhecida. Ele descobriu uma maneira de hackear disquetes, multiplicando sua capacidade de armazenamento. Esta técnica permite que ele mantenha um banco de dados das habilidades de seus oponentes e use-as contra eles.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Mouse de Troia",
+						"value": "```\nAplica Corrupção a todos os alvos em dois turnos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolmegapossessions:950390805435150437> `𝙼𝙴𝙶𝙰𝙲𝙾𝚁𝚁𝚄𝙿𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_light_metal_hackster_1_v1.png"
+				},
+				"author": {
+					"name": "HACKSTER"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 397**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>\n>>> **CONTROL `&` Possession**\n**PROGRESSIVE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunitymagnetizet:949339409822674995>  `IMUNE A MAGNETIZAR.`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkMechanical:878716018359410729> `MECÂNICO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_light_metal_hackster_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HACKSTER"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ６８　     <:icMlPower:879715624115380284> ２０３   **\n> **<:icMlSpeed:879715530011971624> ２２６    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunitymagnetizet:949339409822674995>  `DÁ IMUNIDADE AO MAGNETISMO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Mouse e teclado",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Mousedore 64",
+						"value": "```\nCausa dano de Metal baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_light_metal_hackster_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HACKSTER"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HACKSTER:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Roteirista infantil",
+						"value": "```\nCausa dano Especial moderado. 50% de chance de Corromper o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Chapéu cinza",
+						"value": "```\nCausa dano de Metal moderado. 50% de chance de Atordoar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Grupo de dados",
+						"value": "```\nCausa dano de Metal moderado. Aplica Vazamento de energia ao alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Disquete",
+						"value": "```\nCausa dano de Metal moderado. Remove 50% de Resistência do alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Chapéu preto",
+						"value": "```\nPode Corromper todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Editor da Phrack",
+						"value": "```\nAplica Fraqueza Metálica e Parado no Tempo a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxweaknessmetals:950390826524086342> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙼𝙴𝚃𝙰𝙻𝙸𝙲𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontroltimestops:950390844962242611> `𝙿𝙰𝚁𝙰𝙳𝙾 𝙽𝙾 𝚃𝙴𝙼𝙿𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> 1,44 Megabytes",
+						"value": "```\nCausa dano Especial pesado. Aplica Vazamento de energia ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Bombinha original",
+						"value": "```\nCausa dano de Metal baixo a todos os inimigos. Pode Atordoar todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Explorador ARPANET",
+						"value": "```\nDá o Dobro de dano e pode Corromper o alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_light_metal_hackster_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HACKSTER"
+				},
+				"footer": null
+			}
+		}
+	}
+}

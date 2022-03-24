@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkDragon:878716017973551134><:bkSHeroes:878716124567572562><:bkELegion:878716018090975292><:bkVillains:878716125117026404>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelicbanner_v1:878736171105144923>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Atacante das trevas que pode usar bônus em si mesmo e Possuir os inimigos",
+				"value": "```\nAparecendo sempre sem convite, esta criatura a princípio foi confundida com uma estrela cadente ou um símbolo de sorte. Mas esse malvado parasita de outro mundo é extremamente perigoso, já que extrai vida do hospedeiro e cresce exponencialmente rápido.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Existência interrompida",
+				"value": "```\nDesativa Característica de todos os inimigos. Aplica Possessão a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_titan_beefio_3_v2.png"
+		},
+		"author": {
+			"name": "IXOFEX"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkDragon:878716017973551134><:bkSHeroes:878716124567572562><:bkELegion:878716018090975292><:bkVillains:878716125117026404>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelicbanner_v1:878736171105144923>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Atacante das trevas que pode usar bônus em si mesmo e Possuir os inimigos",
+						"value": "```\nAparecendo sempre sem convite, esta criatura a princípio foi confundida com uma estrela cadente ou um símbolo de sorte. Mas esse malvado parasita de outro mundo é extremamente perigoso, já que extrai vida do hospedeiro e cresce exponencialmente rápido.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Existência interrompida",
+						"value": "```\nDesativa Característica de todos os inimigos. Aplica Possessão a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_titan_beefio_1_v1.png"
+				},
+				"author": {
+					"name": "IXOFEX"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 535**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>\n>>> **ATTACKER**\n**PROGRESSIVE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tabominationtmpt:950771671424434186>  `ABOMINAÇÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`\n> <:btfilterrelicbanner_v1:878736171105144923> `BANDEIRA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkDragon:878716017973551134> `DRAGÕES`\n> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkVillains:878716125117026404> `VILÕES`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_titan_beefio_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IXOFEX"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７４　     <:icMlPower:879715624115380284> ２３０   **\n> **<:icMlSpeed:879715530011971624> ２２３    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tabominationtmpt:950771671424434186>  `DÁ IMUNIDADE A POSSESSÃO, CORRUPÇÃO, PESADELOS E SANGRAMENTO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Pitada do universo",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Parasita afiado",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_titan_beefio_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IXOFEX"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE IXOFEX:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Troca de pele",
+						"value": "```\nRemove todos os efeitos negativos e aplica Regeneração a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Xenogarras",
+						"value": "```\nCausa dano de Escuridão pesado a um inimigo. 50% de chance de aplicar Sangramento a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Xenomordida",
+						"value": "```\nCausa dano Especial moderado a um inimigo. 50% de chance de aplicar Tontura a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Xenófobo raivoso",
+						"value": "```\nAplica Incentivo de dano e 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Garras de Ixofex",
+						"value": "```\nCausa dano muito pesado a um inimigo. Aplica Sangramento a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Mordida de Ixofex",
+						"value": "```\nCausa dano Especial imenso a um inimigo. Aplica Tontura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Xenófobo colérico",
+						"value": "```\nAplica Dobro de dano e Aumento de cura a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟻 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxhealingincreases:950390826909974528> `𝙲𝚄𝚁𝙰 𝙰𝚄𝙼𝙴𝙽𝚃𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Punhos de outro mundo",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Além de tempo e espaço",
+						"value": "```\nAplica Possessão a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_titan_beefio_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IXOFEX"
+				},
+				"footer": null
+			}
+		}
+	}
+}

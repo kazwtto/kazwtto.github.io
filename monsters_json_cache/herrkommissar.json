@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlEpic:877987719870046239> <:mlDark:877986886780600371><:mlFire:877986746883788800>  <:bkELegion:878716018090975292><:bkWinter:878716273243095040>  <:btfilterrelicamulet_v1:878715312453857290><:btfilterrelicstaff_v1:878715312336433204>​",
+		"url": null,
+		"timestamp": null,
+		"color": 9428306,
+		"fields": [
+			{
+				"name": "> SUPORTE",
+				"value": "```\nHerr Kommissar comanda batalhões há anos. Graças à sua experiência, ele desenvolveu a habilidade de detectar covardes em sua unidade e, com isso, garante que ninguém escape. Se é preciso fazer uso da violência para manter todo mundo na linha, que seja.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Marcha eterna",
+				"value": "```\nDá 3 rodadas extras a si mesmo.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+				"value": "​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_dark_fire_herr_kommissar_3_v1.png"
+		},
+		"author": {
+			"name": "HERR KOMMISSAR"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlEpic:877987719870046239> <:mlDark:877986886780600371><:mlFire:877986746883788800>  <:bkELegion:878716018090975292><:bkWinter:878716273243095040>  <:btfilterrelicamulet_v1:878715312453857290><:btfilterrelicstaff_v1:878715312336433204>​",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "> SUPORTE",
+						"value": "```\nHerr Kommissar comanda batalhões há anos. Graças à sua experiência, ele desenvolveu a habilidade de detectar covardes em sua unidade e, com isso, garante que ninguém escape. Se é preciso fazer uso da violência para manter todo mundo na linha, que seja.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Marcha eterna",
+						"value": "```\nDá 3 rodadas extras a si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_dark_fire_herr_kommissar_1_v1.png"
+				},
+				"author": {
+					"name": "HERR KOMMISSAR"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 514**\n<:mlEpic:877987719870046239> <:mlDark:877986886780600371><:mlFire:877986746883788800>\n>>> **SUPPORT**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:thardenedt:949339379279740978>  `REFORÇADO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`\n> <:btfilterrelicstaff_v1:878715312336433204> `BASTÃO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkWinter:878716273243095040> `INVERNO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟹𝟽ｈ  <:icMlCraftTime:898444916273860618> 𝟹𝟽ｈ  <:icMlRankUpTime:898444858954489857> 𝟷𝟿ｈ\n<:icMlBreedingTime:898444766541414400> 𝟹𝟹ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟷𝟿ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_dark_fire_herr_kommissar_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HERR KOMMISSAR"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ５６　     <:icMlPower:879715624115380284> ２２２   **\n> **<:icMlSpeed:879715530011971624> ２２６    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Ataque preventivo",
+						"value": "```\nCausa dano Físico baixo a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Fogo no traidor",
+						"value": "```\nAplica Queimadura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_dark_fire_herr_kommissar_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HERR KOMMISSAR"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HERR KOMMISSAR:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Lealdade infinita",
+						"value": "```\nAplica Imunidade a Possessão a todos os aliados. Dá 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitypossessions:950390739605528576> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙴𝙳𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Fogo e fúria",
+						"value": "```\nAplica Dobro de dano, Queima e Incendiar a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Punição dos traidores",
+						"value": "```\nCausa dano de Fogo moderado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Purificação rival",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Lealdade ígnea",
+						"value": "```\nDá Incentivo de dano e Queima a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Sacrifício inspirador",
+						"value": "```\nConcede 100% de Resistência a um aliado. Remove 100% de Resistência de si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟽 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Punição terrível",
+						"value": "```\nCausa dano muito pesado a um inimigo. Aplica Pesadelos a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟽 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Carga de exaustão",
+						"value": "```\nDá uma rodada adicional a um aliado. Remove 50% de Resistência de um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Pelo General!",
+						"value": "```\nAplica Dobro de dano e Incendiar a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_dark_fire_herr_kommissar_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HERR KOMMISSAR"
+				},
+				"footer": null
+			}
+		}
+	}
+}

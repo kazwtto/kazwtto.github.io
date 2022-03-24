@@ -1,0 +1,302 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkUndead:878716125179940924>  <:btfilterrelicstaff_v1:878715312336433204><:btfilterrelicarmor_v1:878715312080560139>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> ARCANISTA",
+				"value": "```\nA colheita é a época do ano mais temida pelos fazendeiros, pois é quando o Hayman se esgueira nos celeiros e aguarda pelo momento certo de entrar nas casas, para amaldiçoar os moradores com má sorte eterna.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Criança Maldita",
+				"value": "```\nCriança Maldita```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hayman_3_v1.png"
+		},
+		"author": {
+			"name": "HAYMAN",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_halloweenexc_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>  <:bkUndead:878716125179940924>  <:btfilterrelicstaff_v1:878715312336433204><:btfilterrelicarmor_v1:878715312080560139>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> ARCANISTA",
+						"value": "```\nA colheita é a época do ano mais temida pelos fazendeiros, pois é quando o Hayman se esgueira nos celeiros e aguarda pelo momento certo de entrar nas casas, para amaldiçoar os moradores com má sorte eterna.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Criança Maldita",
+						"value": "```\nCriança Maldita```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hayman_1_v2.png"
+				},
+				"author": {
+					"name": "HAYMAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_halloweenexc_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 342**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlDark:877986886780600371>\n>>> **DEFAULT**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunitydazet:949643045886910545>  `IMUNE À TONTURA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicstaff_v1:878715312336433204> `BASTÃO`\n> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUndead:878716125179940924> `MORIBUNDO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hayman_1_v2.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HAYMAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_halloweenexc_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １１５     <:icMlPower:879715624115380284> ３２０   **\n> **<:icMlSpeed:879715530011971624> ２７０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunitydazet:949643045886910545>  `DÁ IMUNIDADE À TONTURA.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Na Teia",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Que mordam as pulgas do colchão",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hayman_1_v2.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HAYMAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_halloweenexc_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HAYMAN:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Assassino Cereal",
+						"value": "```\nCausa dano Especial baixo a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Lanterna noturna ",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo. Aplica Pesadelos a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Consciência",
+						"value": "```\nAplica um efeito negativo aleatório a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Contra o Grão",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Aplica Pesadelos a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Drenagem de grãos",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Rouba Vida do alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Casca opaca",
+						"value": "```\nAplica Imunidade a Escuridão a si mesmo. Aplica um efeito negativo aleatório a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟺 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitydarks:950390829388795984> `𝙸𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 𝙰 𝙴𝚂𝙲𝚄𝚁𝙸𝙳𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Piñata de abóbora",
+						"value": "```\nAplica um efeito negativo aleatório e remove os efeitos positivos de um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Época de colheita",
+						"value": "```\nCausa dano de Escuridão pesado a um inimigo. Aplica Pesadelos a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Calda de vida com muita frutose",
+						"value": "```\nCausa dano de Escuridão muito pesado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_dark_hayman_1_v2.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HAYMAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_halloweenexc_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

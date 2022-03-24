@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlFire:877986746883788800>  <:bkUnderworld:908101788870279230><:bkELegion:878716018090975292><:bkFamily:878716018275528735><:bkFieryPits:948266231255937084>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Tanque de Fogo com dano alto",
+				"value": "```\nEm meio a uma guerra, Pandalf precisou de ajuda para vencer. Ele então lançou um feitiço em uma montanha e a dividiu em duas partes: Da face norte, fria e coberta de neve, nasceu Ouros. Da face sul, um vulcão quente e poderoso chamado Igursus levantou-se e começou a andar.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Eyjafjallajökull",
+				"value": "```\nCausa dano Especial imenso a todos os inimigos. Aplica Combustão e Areia movediça a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_fire_igursus_3_v1.png"
+		},
+		"author": {
+			"name": "IGURSUS"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlFire:877986746883788800>  <:bkUnderworld:908101788870279230><:bkELegion:878716018090975292><:bkFamily:878716018275528735><:bkFieryPits:948266231255937084>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Tanque de Fogo com dano alto",
+						"value": "```\nEm meio a uma guerra, Pandalf precisou de ajuda para vencer. Ele então lançou um feitiço em uma montanha e a dividiu em duas partes: Da face norte, fria e coberta de neve, nasceu Ouros. Da face sul, um vulcão quente e poderoso chamado Igursus levantou-se e começou a andar.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Eyjafjallajökull",
+						"value": "```\nCausa dano Especial imenso a todos os inimigos. Aplica Combustão e Areia movediça a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_fire_igursus_1_v1.png"
+				},
+				"author": {
+					"name": "IGURSUS"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 436**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlFire:877986746883788800>\n>>> **TANK**\n**DIRECT OFFER**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tmountaintmpt:950771678693171220>  `MONTANHA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> undefined `CORRIDA`\n> <:bkFieryPits:948266231255937084> `FORÇAS ÍGNEAS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_fire_igursus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IGURSUS"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １０１     <:icMlPower:879715624115380284> ２２５   **\n> **<:icMlSpeed:879715530011971624> １９０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tmountaintmpt:950771678693171220>  `DÁ IMUNIDADE A ATORDOAR E CONGELAR.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Bromo",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Pinatubo",
+						"value": "```\nCausa dano de Fogo moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_fire_igursus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IGURSUS"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE IGURSUS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Mauna Loa",
+						"value": "```\nCausa dano Especial moderado. Dá 30% de Escudo a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield25s:950390743908896778> `𝙴𝚂𝙲𝚄𝙳𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Fuji",
+						"value": "```\nCausa dano de Fogo moderado. 50% de chance de Queimar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Cotopaxi",
+						"value": "```\nCausa dano Especial moderado. 50% de chance de aplicar Areia movediça ao alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Pacaya",
+						"value": "```\nCausa dano de Fogo moderado a todos os inimigos. Pode Queimar todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Irazú",
+						"value": "```\nCausa dano de Fogo pesado. Pode Queimar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Etna",
+						"value": "```\nCausa dano Especial muito pesado. Aplica Areia movediça ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Teide",
+						"value": "```\nCausa dano de Fogo imenso. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Vesúvio",
+						"value": "```\nAplica Provocação e Reflexo de habilidade ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxskillmirror1ts:950390749164367872> `𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙷𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Krakatoa",
+						"value": "```\nCausa dano de Fogo muito pesado. Dá 50% de Escudo a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_fire_igursus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "IGURSUS"
+				},
+				"footer": null
+			}
+		}
+	}
+}

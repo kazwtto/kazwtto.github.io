@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>  <:bkGLegion:878716018359402566><:bkFamily:878716018275528735><:bkPalace:878716019072458803>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelicshield_v1:878715312290279496>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Tanque de Trovão que aplica Escudo à sua equipe",
+				"value": "```\nInquisitor Fulmen costumava ser um sacerdote e guardião dos livros e orações dos anjos em tempo integral, mas isso mudou quando Elvira decidiu que era um desperdício manter todo esse conhecimento escondido com ele e chamou-o para a batalha!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Dever nobre",
+				"value": "```\nGera grande dano Especial a toda a equipe inimiga. Aplica Choque a todos os inimigos. Remove 100% de Resistência de todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_inquisitor_fulmen_3_v1.png"
+		},
+		"author": {
+			"name": "INQUISITOR FULMEN"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>  <:bkGLegion:878716018359402566><:bkFamily:878716018275528735><:bkPalace:878716019072458803>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelicshield_v1:878715312290279496>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Tanque de Trovão que aplica Escudo à sua equipe",
+						"value": "```\nInquisitor Fulmen costumava ser um sacerdote e guardião dos livros e orações dos anjos em tempo integral, mas isso mudou quando Elvira decidiu que era um desperdício manter todo esse conhecimento escondido com ele e chamou-o para a batalha!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Dever nobre",
+						"value": "```\nGera grande dano Especial a toda a equipe inimiga. Aplica Choque a todos os inimigos. Remove 100% de Resistência de todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureshocks:950390839484510258> `𝙲𝙷𝙾𝚀𝚄𝙴(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_inquisitor_fulmen_1_v1.png"
+				},
+				"author": {
+					"name": "INQUISITOR FULMEN"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 582**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>\n>>> **TANK `&` Shielder**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:thardenedt:949339379279740978>  `REFORÇADA E CONJURADORA DE EFEITOS`:\n> 　<:thardenedt:949339379279740978>  `REFORÇADO`\n> 　<:tshield50sct:949339318651080784>  `ED: 50% DE ESCUDO DE ÁREA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`\n> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkGLegion:878716018359402566> `LEGIÕES DO BEM`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> <:bkPalace:878716019072458803> `CORTE JUSTA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_inquisitor_fulmen_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INQUISITOR FULMEN"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １００     <:icMlPower:879715624115380284> ２２２   **\n> **<:icMlSpeed:879715530011971624> ２２４    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:thardenedt:949339379279740978>  `OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE. CONJURADOR DE EFEITOS: ESCUDO DE ÁREA DE 50%.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Ascender da luz",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Fim do oculto",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_inquisitor_fulmen_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INQUISITOR FULMEN"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE INQUISITOR FULMEN:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Luz do alvorecer",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo. Aplica Tontura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Proteção de respeito",
+						"value": "```\nAplica 33% de Escudo a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield25s:950390743908896778> `𝙴𝚂𝙲𝚄𝙳𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Começos honráveis",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo. 50% de chance de aplicar Tontura e Redução de dano a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Martelo da virtude",
+						"value": "```\nCausa dano de Escuridão imenso a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Defesa honrável",
+						"value": "```\nAplica 50% de Escudo e Antiespírito a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxhaterspirits:950390812947124254> `𝙾𝙳𝙸𝙾 𝙴𝚂𝙿𝙸𝚁𝙸𝚃𝚄𝙰𝙻(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Devoção esmagadora",
+						"value": "```\nCausa dano de Trovão pesado a um inimigo. Aplica grande Redução de dano a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductionmajors:950390819637051392> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝙼𝙰𝙹𝙾𝚁𝙳𝙰𝙼𝙰𝙶𝙴𝚁𝙴𝙳𝚄𝙲𝚃𝙸𝙾𝙽_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Graça que cura",
+						"value": "```\nAplica 50% de Escudo a si mesmo. Cura a si mesmo em 50%. Perde todos os efeitos de status negativo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Defesa honrada",
+						"value": "```\nAplica Provocação e Reflexo de dano a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgmirror100s:950390807179952199> `100% 𝙳𝙴 𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Abraço debilitante",
+						"value": "```\nGera médio dano de Trovão a todos os inimigos. Aplica Tontura e Grande redução de dano a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟹 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgreductionmajors:950390819637051392> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝙼𝙰𝙹𝙾𝚁𝙳𝙰𝙼𝙰𝙶𝙴𝚁𝙴𝙳𝚄𝙲𝚃𝙸𝙾𝙽_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_inquisitor_fulmen_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INQUISITOR FULMEN"
+				},
+				"footer": null
+			}
+		}
+	}
+}

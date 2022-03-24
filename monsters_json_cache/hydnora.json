@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlEpic:877987719870046239> <:mlMagic:877987316529000568><:mlNature:877987160513470484>  <:bkFemale:878716018309087272><:bkPureGaia:948266175391993906>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicstaff_v1:878715312336433204>​",
+		"url": null,
+		"timestamp": null,
+		"color": 9428306,
+		"fields": [
+			{
+				"name": "> SUPORTE",
+				"value": "```\nA natureza é linda e Hydnora é o avatar da natureza. A natureza também é uma das forças mais poderosas da Terra, então você pode imaginar o quanto a Hydnora é poderosa...```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlNature:877987160513470484> Fúria Gigante",
+				"value": "```\nGera grande dano da Natureza contra toda a equipe inimiga. Pode envenenar.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_poisonivy_3_v4.png"
+		},
+		"author": {
+			"name": "HYDNORA"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlEpic:877987719870046239> <:mlMagic:877987316529000568><:mlNature:877987160513470484>  <:bkFemale:878716018309087272><:bkPureGaia:948266175391993906>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicstaff_v1:878715312336433204>​",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "> SUPORTE",
+						"value": "```\nA natureza é linda e Hydnora é o avatar da natureza. A natureza também é uma das forças mais poderosas da Terra, então você pode imaginar o quanto a Hydnora é poderosa...```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlNature:877987160513470484> Fúria Gigante",
+						"value": "```\nGera grande dano da Natureza contra toda a equipe inimiga. Pode envenenar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_poisonivy_1_v3.png"
+				},
+				"author": {
+					"name": "HYDNORA"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 114**\n<:mlEpic:877987719870046239> <:mlMagic:877987316529000568><:mlNature:877987160513470484>\n>>> **DEFAULT**\n**Old**",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunitypoisont:949339331548545024>  `IMUNE AO VENENO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicstaff_v1:878715312336433204> `BASTÃO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkFemale:878716018309087272> `FÊMEA`\n> <:bkPureGaia:948266175391993906> `GAIA PURA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟹𝟽ｈ  <:icMlCraftTime:898444916273860618> 𝟹𝟽ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟹ｈ\n<:icMlBreedingTime:898444766541414400> 𝟹𝟹ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟿ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_poisonivy_1_v3.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HYDNORA"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ４９　     <:icMlPower:879715624115380284> ２０１   **\n> **<:icMlSpeed:879715530011971624> ２１９    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunitypoisont:949339331548545024>  `DÁ IMUNIDADE A VENENO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Protetor das Plantas",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Natureza Agressiva",
+						"value": "```\nCausa dano baixo de Natureza.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_poisonivy_1_v3.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HYDNORA"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HYDNORA:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Pólen Pesado",
+						"value": "```\nGera dano Especial baixo. 50% de chance de redução de dano.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟾 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Garras Afiadas",
+						"value": "```\nGera baixo dano da Natureza. 50% de chance de envenenar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟾 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Essências Herbais",
+						"value": "```\nCura 25% da vida do alvo e de si próprio. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Pólen de Asfixia",
+						"value": "```\nCausa dano de Magia moderado. Pode aplicar Redução de dano.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Garras Envenenadas",
+						"value": "```\nCausa médio dano de Natureza. Pode envenenar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Flor da Vida",
+						"value": "```\nCura 35% da vida do alvo e 25% de si próprio. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Pólen Sufocante",
+						"value": "```\nGera dano Especial médio. Pode causar redução de dano a toda a equipe inimiga. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟸 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductionmajors:950390819637051392> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝙼𝙰𝙹𝙾𝚁𝙳𝙰𝙼𝙰𝙶𝙴𝚁𝙴𝙳𝚄𝙲𝚃𝙸𝙾𝙽_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Garras Tóxicas",
+						"value": "```\nGera baixo dano da Natureza a todos os inimigos. Pode envenenar os alvos. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Grama Saudável",
+						"value": "```\nCura 35% dos pontos de vida e causa regeneração de todos os monstros amigos. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_poisonivy_1_v3.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HYDNORA"
+				},
+				"footer": null
+			}
+		}
+	}
+}

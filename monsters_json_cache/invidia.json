@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlEpic:877987719870046239> <:mlMagic:877987316529000568><:mlNature:877987160513470484>  <:bkUnderworld:908101788870279230><:bkFamily:878716018275528735><:bkUnderworld:908101788870279230>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 9428306,
+		"fields": [
+			{
+				"name": "> CONTROLE",
+				"value": "```\nInvidia era adorado por seus pais até que seu irmão mais novo, Vanitas, nasceu. A partir de então, o bebê roubou a atenção e Invidia foi ignorado. A inveja que ele sente por seu irmão o afeta fisicamente: Toda vez que olha para ele, se torna mais feio.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlNature:877987160513470484> Inveja podre",
+				"value": "```\nCausa dano de Natureza pesado a todos os inimigos. Pode Envenenar todos os alvos. Aplica Vazamento de Resistência a todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_magic_nature_invidia_3_v1.png"
+		},
+		"author": {
+			"name": "INVIDIA"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlEpic:877987719870046239> <:mlMagic:877987316529000568><:mlNature:877987160513470484>  <:bkUnderworld:908101788870279230><:bkFamily:878716018275528735><:bkUnderworld:908101788870279230>  <:btfilterrelictrap_v1:878715312697122816><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "> CONTROLE",
+						"value": "```\nInvidia era adorado por seus pais até que seu irmão mais novo, Vanitas, nasceu. A partir de então, o bebê roubou a atenção e Invidia foi ignorado. A inveja que ele sente por seu irmão o afeta fisicamente: Toda vez que olha para ele, se torna mais feio.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlNature:877987160513470484> Inveja podre",
+						"value": "```\nCausa dano de Natureza pesado a todos os inimigos. Pode Envenenar todos os alvos. Aplica Vazamento de Resistência a todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_magic_nature_invidia_1_v1.png"
+				},
+				"author": {
+					"name": "INVIDIA"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 406**\n<:mlEpic:877987719870046239> <:mlMagic:877987316529000568><:mlNature:877987160513470484>\n>>> **DEFAULT**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunitypoisont:949339331548545024>  `IMUNE AO VENENO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> <:bkUnderworld:908101788870279230> `HABITANTES DO SUBMUNDO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟹𝟽ｈ  <:icMlCraftTime:898444916273860618> 𝟹𝟽ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟹ｈ\n<:icMlBreedingTime:898444766541414400> 𝟹𝟹ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟷𝟿ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_magic_nature_invidia_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INVIDIA"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７０　     <:icMlPower:879715624115380284> ２１４   **\n> **<:icMlSpeed:879715530011971624> ２１９    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunitypoisont:949339331548545024>  `DÁ IMUNIDADE A VENENO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Golpe corcunda",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Mais sortudo que eu",
+						"value": "```\nCausa dano de Magia baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_magic_nature_invidia_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INVIDIA"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "HABILIDADES DE INVIDIA:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Descontentamento",
+						"value": "```\nCausa dano de Natureza moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Desejo de ressentimento",
+						"value": "```\nCausa dano de Natureza baixo. 50% de chance de Envenenar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Reflexo ruim",
+						"value": "```\nCausa dano de Magia baixo. Aplica Vazamento de Resistência ao alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Ele é melhor",
+						"value": "```\nCausa dano de Magia pesado. Aplica Vazamento de Resistência ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Inveja mata",
+						"value": "```\nCausa dano de Magia pesado. Remove 25% de Resistência do alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Espelho falso",
+						"value": "```\nAplica Vazamento de Resistência a todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Inveja ardente",
+						"value": "```\nCausa dano de Natureza pesado. Pode Envenenar o alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Verde de inveja",
+						"value": "```\nPode Envenenar o alvo. Aplica Vazamento de Resistência ao alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Invejosos vão invejar",
+						"value": "```\nCausa dano de Natureza baixo a todos inimigos. 50% de chance de Envenenar todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_magic_nature_invidia_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "INVIDIA"
+				},
+				"footer": null
+			}
+		}
+	}
+}

@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkUnderworld:908101788870279230><:bkFemale:878716018309087272><:bkVillains:878716125117026404><:bkBarbarians:908101884001284146>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicamulet_v1:878715312453857290>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Monstro de Suporte de Terra que consegue remover e bloquear efeitos positivos",
+				"value": "```\nMountezuma tem a fama de ser um imperador arrogante e traiçoeiro, mas ele tem o direito de ser assim: Todos o odeiam. Todos menos Itzanami, que fará tudo que for necessário para defender o líder. Ela é capaz de defendê-lo porque, ironicamente, a súdita é muito mais poderosa do que ele jamais será!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Contagem regressiva de Jiratikot",
+				"value": "```\nCausa dano de Terra imenso a um inimigo. Aplica nanovírus a todos os inimigos. Aplica Areia movediça a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+				"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_itzanami_3_v1.png"
+		},
+		"author": {
+			"name": "ITZANAMI"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkUnderworld:908101788870279230><:bkFemale:878716018309087272><:bkVillains:878716125117026404><:bkBarbarians:908101884001284146>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicamulet_v1:878715312453857290>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Monstro de Suporte de Terra que consegue remover e bloquear efeitos positivos",
+						"value": "```\nMountezuma tem a fama de ser um imperador arrogante e traiçoeiro, mas ele tem o direito de ser assim: Todos o odeiam. Todos menos Itzanami, que fará tudo que for necessário para defender o líder. Ela é capaz de defendê-lo porque, ironicamente, a súdita é muito mais poderosa do que ele jamais será!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Contagem regressiva de Jiratikot",
+						"value": "```\nCausa dano de Terra imenso a um inimigo. Aplica nanovírus a todos os inimigos. Aplica Areia movediça a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_itzanami_1_v1.png"
+				},
+				"author": {
+					"name": "ITZANAMI"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 596**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>\n>>> **SUPPORT**\n**PROGRESSIVE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> [?] `?`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkFemale:878716018309087272> `FÊMEA`\n> <:bkVillains:878716125117026404> `VILÕES`\n> <:bkBarbarians:908101884001284146> `BÁRBAROS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_itzanami_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "ITZANAMI"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ８３　     <:icMlPower:879715624115380284> ２１６   **\n> **<:icMlSpeed:879715530011971624> ２３３    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> [?] `?`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Servo de Mountezuma",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Sacerdote-chefe",
+						"value": "```\nCausa dano de Terra moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_itzanami_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "ITZANAMI"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE ITZANAMI:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Flagelo Carolomaco",
+						"value": "```\nAplica Cura anulada a todos os aliados. Aplica Cura anulada a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Bebida para Charlotok ",
+						"value": "```\nCausa dano de Terra moderado a um inimigo. 50% de chance de aplicar Atordoar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Campeões Igózhauki",
+						"value": "```\nCausa dano Especial moderado a um inimigo. 50% de chance de aplicar Nanovírus a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Doença de Xaleflok",
+						"value": "```\nCausa dano de Terra moderado a um inimigo. Aplica Tontura a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Fúria Carolomaco",
+						"value": "```\nAtacante remove efeitos positivos de um inimigo. Aplica Nanovírus a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Olhar de Javioxtil",
+						"value": "```\nDesativa Características em um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Sopro de Henrilipuzili",
+						"value": "```\nCausa dano de Terra pesado a um inimigo. Aplica Tontura a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Maldição de Charlotok",
+						"value": "```\nAtacante remove efeitos positivos de todos os inimigos. Aplica nanovírus a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Raiva de Igózhauki",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Desativa Característica de todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟹 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_itzanami_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "ITZANAMI"
+				},
+				"footer": null
+			}
+		}
+	}
+}

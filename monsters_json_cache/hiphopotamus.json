@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlEpic:877987719870046239> <:mlLight:877987351069081620><:mlWater:877986936227254272>  <:bkMechanical:878716018359410729>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicamulet_v1:878715312453857290>​",
+		"url": null,
+		"timestamp": null,
+		"color": 9428306,
+		"fields": [
+			{
+				"name": "> SUPORTE",
+				"value": "```\nE aí?! O HipHopotamus é a incarnação do ritmo. Suas rimas são grandes e gorduchas e ele proporciona momentos incríveis e maravilhosos. Levante as mãos para o rei do rio! Suas batidas são altas e fazem o público tremer!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLight:877987351069081620> Shake Me Up Before You Go Go",
+				"value": "```\nRemove todos os efeitos de status negativo dos alvos, ganha Incentivo de dano e cura em 30%.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_hiphopotamus_3_v1.png"
+		},
+		"author": {
+			"name": "HIPHOPOTAMUS"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlEpic:877987719870046239> <:mlLight:877987351069081620><:mlWater:877986936227254272>  <:bkMechanical:878716018359410729>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicamulet_v1:878715312453857290>​",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "> SUPORTE",
+						"value": "```\nE aí?! O HipHopotamus é a incarnação do ritmo. Suas rimas são grandes e gorduchas e ele proporciona momentos incríveis e maravilhosos. Levante as mãos para o rei do rio! Suas batidas são altas e fazem o público tremer!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLight:877987351069081620> Shake Me Up Before You Go Go",
+						"value": "```\nRemove todos os efeitos de status negativo dos alvos, ganha Incentivo de dano e cura em 30%.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_hiphopotamus_1_v1.png"
+				},
+				"author": {
+					"name": "HIPHOPOTAMUS"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 398**\n<:mlEpic:877987719870046239> <:mlLight:877987351069081620><:mlWater:877986936227254272>\n>>> **DEFAULT**\n**PROGRESSIVE**",
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunityfreezet:949339369314086952>  `IMUNE A CONGELAR`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkMechanical:878716018359410729> `MECÂNICO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟹𝟽ｈ  <:icMlCraftTime:898444916273860618> 𝟹𝟽ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟹ｈ\n<:icMlBreedingTime:898444766541414400> 𝟹𝟹ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟷𝟿ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_hiphopotamus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIPHOPOTAMUS"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ６５　     <:icMlPower:879715624115380284> １９０   **\n> **<:icMlSpeed:879715530011971624> ２２０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunityfreezet:949339369314086952>  `DÁ IMUNIDADE CONTRA CONGELAR.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Beat Hip",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Glue Monday",
+						"value": "```\nCausa dano de Luz baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_hiphopotamus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIPHOPOTAMUS"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 9428306,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HIPHOPOTAMUS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Tainted Move",
+						"value": "```\nCausa dano de Água moderado. Cura em 20%.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Come On All-Clean",
+						"value": "```\nRemove todos os efeitos de status negativo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Take On Hip",
+						"value": "```\nCura o alvo em 25%. Pode dar Precisão ao aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Every Heat you Take",
+						"value": "```\nCausa dano de Água moderado. Cura em 20%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> A Kick of Magic",
+						"value": "```\nRemove todos os efeitos de status negativo. Cura o alvo em 25%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Healing On A Prayer",
+						"value": "```\nCura o alvo em 30%. Pode aplicar Incentivo de Dano a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Like a Slayer",
+						"value": "```\nCausa dano de Água pesado. Cura em 20%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Back in Track",
+						"value": "```\nRemove todos os efeitos de status negativo dos aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Mad Mad Word",
+						"value": "```\nCura o alvo em 25%. Pode dar Precisão ao aliado. Pode aplicar Incentivo de Dano a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_hiphopotamus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HIPHOPOTAMUS"
+				},
+				"footer": null
+			}
+		}
+	}
+}

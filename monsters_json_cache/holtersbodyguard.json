@@ -1,0 +1,302 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>  <:bkTeamwars:878716124722778182><:bkMechanical:878716018359410729>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicshield_v1:878715312290279496>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> SUPORTE",
+				"value": "```\nQuando o General Holter terminou de construir o tanque blindado, sobraram algumas peças, as quais ele decidiu dar a um frágil monstrinho que brincava no galpão. O tempo passou e o monstrinho se tornou um forte soldado. Holter então decidiu recrutá-lo para ser seu guarda-costas!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Evacuação médica",
+				"value": "```\nCura todos os aliados em 100%. Desativa todas as recargas de todos os aliados. Aplica Escudo de 50% em todos os aliados.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_holters_bodyguard_3_v1.png"
+		},
+		"author": {
+			"name": "HOLTER'S BODYGUARD",
+			"icon_url": "https://i.ibb.co/GxnrdvR/gr-badge-teamwars.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>  <:bkTeamwars:878716124722778182><:bkMechanical:878716018359410729>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicshield_v1:878715312290279496>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> SUPORTE",
+						"value": "```\nQuando o General Holter terminou de construir o tanque blindado, sobraram algumas peças, as quais ele decidiu dar a um frágil monstrinho que brincava no galpão. O tempo passou e o monstrinho se tornou um forte soldado. Holter então decidiu recrutá-lo para ser seu guarda-costas!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Evacuação médica",
+						"value": "```\nCura todos os aliados em 100%. Desativa todas as recargas de todos os aliados. Aplica Escudo de 50% em todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_holters_bodyguard_1_v1.png"
+				},
+				"author": {
+					"name": "HOLTER'S BODYGUARD",
+					"icon_url": "https://i.ibb.co/GxnrdvR/gr-badge-teamwars.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 511**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>\n>>> **SUPPORT**\n**TEAM WARS**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:thardenedt:949339379279740978>  `REFORÇADO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkTeamwars:878716124722778182> `GUERRAS DE EQUIPES`\n> <:bkMechanical:878716018359410729> `MECÂNICO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_holters_bodyguard_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HOLTER'S BODYGUARD",
+					"icon_url": "https://i.ibb.co/GxnrdvR/gr-badge-teamwars.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ８６　     <:icMlPower:879715624115380284> ２０６   **\n> **<:icMlSpeed:879715530011971624> ２２３    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Lutadores com rodas",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Gás e armas",
+						"value": "```\nCausa dano de Metal moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_holters_bodyguard_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HOLTER'S BODYGUARD",
+					"icon_url": "https://i.ibb.co/GxnrdvR/gr-badge-teamwars.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE HOLTER'S BODYGUARD:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Truque de campo de batalha",
+						"value": "```\nCura um aliado em 50%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟶 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Sabotagem focada",
+						"value": "```\nCausa dano de Metal moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealingnegates:950390773675864144> `𝙲𝚄𝚁𝙰 𝙰𝙽𝚄𝙻𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Posição vantajosa",
+						"value": "```\nAplica 50% de Escudo a um aliado. Remove todos os efeitos negativos de status de um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Protetor todo-terreno",
+						"value": "```\nCura todos os aliados em 40%. Remove todos os efeitos negativos de status dos aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Sabotagem remota",
+						"value": "```\nCausa dano de Metal moderado a todos os inimigos. Aplica Cura Anulada a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxhealingnegates:950390773675864144> `𝙲𝚄𝚁𝙰 𝙰𝙽𝚄𝙻𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Vantagem do terreno",
+						"value": "```\nAplica Escudo de 50% a todos os aliados. Aplica Precisão a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Restaurador todo-terreno",
+						"value": "```\nCura todos os aliados em 60%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Barragem de cobertura",
+						"value": "```\nCausa dano de Metal moderado a todos os inimigos. Cura a si mesmo em 40%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Dano relampejante",
+						"value": "```\nCausa dano de Metal moderado a todos os inimigos. Remove efeitos positivos e aplica Cura Reversa a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_holters_bodyguard_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "HOLTER'S BODYGUARD",
+					"icon_url": "https://i.ibb.co/GxnrdvR/gr-badge-teamwars.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

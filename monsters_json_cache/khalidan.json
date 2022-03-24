@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkVillains:878716125117026404><:bkFamily:878716018275528735><:bkELegion:878716018090975292><:bkDoomsday:908101944302764042>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicmask_v1:878715312453873674>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Atacante de Escuridão com habilidades com Quebra de escudo, Vulnerável e Sangrar.\t\t\t",
+				"value": "```\n​​Esse orc foi repudiado pela sua tribo por causa de seu tamanho quando recém-nascido, então ele foi criado no Reino da Luz. Conforme Khalidan cresceu, ficou claro que o orc pode até deixar sua tribo, mas sempre será um orc. Ele era agressivo e amava objetos afiados, então, para tentar canalizar sua violência, ele assumiu o cargo perfeito: executor!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Cortem as Cabeças!",
+				"value": "```\nRemove 100% do total de Vida de um inimigo e 50% do total de Vida de todos os inimigos. Remove 100% de Resistência de si mesmo.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+				"value": "​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_khallidan_3_v1.png"
+		},
+		"author": {
+			"name": "KHALIDAN",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkVillains:878716125117026404><:bkFamily:878716018275528735><:bkELegion:878716018090975292><:bkDoomsday:908101944302764042>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicmask_v1:878715312453873674>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Atacante de Escuridão com habilidades com Quebra de escudo, Vulnerável e Sangrar.\t\t\t",
+						"value": "```\n​​Esse orc foi repudiado pela sua tribo por causa de seu tamanho quando recém-nascido, então ele foi criado no Reino da Luz. Conforme Khalidan cresceu, ficou claro que o orc pode até deixar sua tribo, mas sempre será um orc. Ele era agressivo e amava objetos afiados, então, para tentar canalizar sua violência, ele assumiu o cargo perfeito: executor!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Cortem as Cabeças!",
+						"value": "```\nRemove 100% do total de Vida de um inimigo e 50% do total de Vida de todos os inimigos. Remove 100% de Resistência de si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_khallidan_1_v1.png"
+				},
+				"author": {
+					"name": "KHALIDAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 961**\n<:mlMythic:877987779185872906> <:mlDark:877986886780600371>\n>>> **ATTACKER `&` HEAVY HITTER**\n**FRATERNITY + BREEDING**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:torctmpt:950771676692488204>  `ORC`\n> **Ｒ１   **<:timmunitybleedt:949339365983789137>  `IMUNIDADE A SANGRAMENTO`\n> **Ｒ３   **<:ttruevisionsct:949341536011825203>  `ED: TRAIT_SCTRUEVISION_NAMEKEY`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkVillains:878716125117026404> `VILÕES`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkDoomsday:908101944302764042> `ERA APOCALÍPTICA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_khallidan_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KHALIDAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２５３     <:icMlPower:879715624115380284> ６０２   **\n> **<:icMlSpeed:879715530011971624> ４３５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:torctmpt:950771676692488204>  `TODOS OS EFEITOS TÊM 25% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ１   **<:timmunitybleedt:949339365983789137>  `CONCEDE IMUNIDADE A SANGRAMENTO.`\n> **Ｒ３   **<:ttruevisionsct:949341536011825203>  `DOBRO DE PRECISÃO`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Punho Forte",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo. Aplica Sangrar a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Focado na Batalha",
+						"value": "```\nCausa dano de Metal baixo a um inimigo. Aplica Visão real a si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtruevisions:950390814356410368> `𝚅𝙸𝚂𝙰𝙾 𝚁𝙴𝙰𝙻(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_khallidan_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KHALIDAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE KHALIDAN:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Executorc",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Aplica Precisão a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Luxúria Sanguinária",
+						"value": "```\nDá 100% de Resistência, Dobro de dano e Morte em 3 rodadas a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Quebra-nariz",
+						"value": "```\nCausa dano de Escuridão pesado a um inimigo. Remove o Escudo de um inimigo. Aplica Sangrar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Que Nem Manteiga",
+						"value": "```\nAplica Vulnerável a um inimigo e Antissangrar a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxhaterbleedings:950390821725806672> `𝙰𝙽𝚃𝙸𝚂𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Quebra-crânio",
+						"value": "```\nCausa dano de Metal moderado a todos os inimigos. Remove Escudo e aplica Vulnerável a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Machado na Caveira",
+						"value": "```\nCausa dano de Escuridão muito pesado a um inimigo. Aplica Sangrar e Morte em 3 rodadas a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_khallidan_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KHALIDAN",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}
