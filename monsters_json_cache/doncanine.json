@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlLight:877987351069081620>  <:bkELegion:878716018090975292><:bkMetropolitan:878716018812403813><:bkSyndicate:878716124764712981><:bkFamily:878716018275528735><:bkYoutubers:878716273096273961>  <:btfilterrelicstaff_v1:878715312336433204><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Controlador de Luz com habilidades de Ativação de recarga e Atordoar",
+				"value": "```\nAl Canine era o chefão da cidade, sem nenhum adversário páreo para ele. Ele achava que as coisas não podiam melhorar, mas então, Malairion bateu à sua porta e fez uma oferta que ele não podia recusar. Depois de fecharem o acordo, ele transformou Al Canine em Don Canine, o novo chefão dos gângsteres em Monstown.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLight:877987351069081620> Código de Silêncio",
+				"value": "```\nCausa dano de Luz muito pesado a todos os inimigos. Aplica Mega-atordoar, Sangrar e Vulnerável a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_don_canine_3_v1.png"
+		},
+		"author": {
+			"name": "DON CANINE",
+			"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlLight:877987351069081620>  <:bkELegion:878716018090975292><:bkMetropolitan:878716018812403813><:bkSyndicate:878716124764712981><:bkFamily:878716018275528735><:bkYoutubers:878716273096273961>  <:btfilterrelicstaff_v1:878715312336433204><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Controlador de Luz com habilidades de Ativação de recarga e Atordoar",
+						"value": "```\nAl Canine era o chefão da cidade, sem nenhum adversário páreo para ele. Ele achava que as coisas não podiam melhorar, mas então, Malairion bateu à sua porta e fez uma oferta que ele não podia recusar. Depois de fecharem o acordo, ele transformou Al Canine em Don Canine, o novo chefão dos gângsteres em Monstown.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLight:877987351069081620> Código de Silêncio",
+						"value": "```\nCausa dano de Luz muito pesado a todos os inimigos. Aplica Mega-atordoar, Sangrar e Vulnerável a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_don_canine_1_v1.png"
+				},
+				"author": {
+					"name": "DON CANINE",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 882**\n<:mlMythic:877987779185872906> <:mlLight:877987351069081620>\n>>> **CONTROL `&` COOLDOWNS**\n**MONSTER PASS**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `REFORÇADO`\n> **Ｒ１   **<:ttought:949339405401870378>  `RESISTENTE`\n> **Ｒ３   **<:timmunitycontrolsct:949339377392312400>  `ED: IMUNE AO CONTROLE`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicstaff_v1:878715312336433204> `BASTÃO`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkMetropolitan:878716018812403813> `ERA URBANA`\n> <:bkSyndicate:878716124764712981> `O SINDICATO`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> <:bkYoutubers:878716273096273961> `LIVRO DE MR. BEAST ECO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_don_canine_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DON CANINE",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２３４     <:icMlPower:879715624115380284> ５５０   **\n> **<:icMlSpeed:879715530011971624> ４２０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ１   **<:ttought:949339405401870378>  `TODOS OS EFEITOS TÊM 35% MENOS PRECISÃO CONTRA ESTE ALVO.`\n> **Ｒ３   **<:timmunitycontrolsct:949339377392312400>  `IMUNE AO CONTROLE`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Seu Novo Prefeito",
+						"value": "```\nCausa dano de Luz moderado a um inimigo. Aplica Queimadura a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Pai dos Gângsteres",
+						"value": "```\nCausa dano de Luz moderado a um inimigo. Aplica Baixar guarda a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_don_canine_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DON CANINE",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE DON CANINE:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Você me Deve",
+						"value": "```\nAplica Antibaixar guarda a um aliado. Remove efeitos de Controle de um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhaterguarddowns:950390811365867590> `𝙰𝙽𝚃𝙸𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Chefão dos Chefões",
+						"value": "```\nAplica Antibaixar guarda a todos os aliados. Remove Torturas de todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxhaterguarddowns:950390811365867590> `𝙰𝙽𝚃𝙸𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Meu Negócio",
+						"value": "```\nCausa dano de Luz moderado a um inimigo. Ativa todas as recargas de um inimigo. Aplica Baixar guarda a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Vendettinha",
+						"value": "```\nCausa dano de Luz moderado a um inimigo. Aplica Atordoar e Queimadura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Forte pra Cachorro!",
+						"value": "```\nCausa baixo dano de Luz a todos os inimigos. Aplica Baixar guarda e Queimadura a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Empréstimo em Aberto",
+						"value": "```\nAtiva todas as recargas em todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_don_canine_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DON CANINE",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

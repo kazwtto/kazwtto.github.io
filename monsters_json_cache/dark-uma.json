@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkUndead:878716125179940924><:bkSpirit:878716124097810483><:bkEAsia:878716018111963177><:bkCorrupted:878949315303858176>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicarmor_v1:878715312080560139>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Tanque de Escuridão com Provocação e efeitos positivos aleatórios para os aliados.",
+				"value": "```\nQuando Wangzhou era pequeno, ganhou uma estatueta de daruma da sua mãe, que disse que o boneco realizaria todos os seus desejos. Quando cresceu e se tornou o Imperador Corrompido Yaoguai Wangzhou, ele pegou seu velho daruma, brincou um pouco com ele... e o trouxe à vida! Agora, Dark-uma é um gênio a serviço do Imperador.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Jogo do Despertar",
+				"value": "```\nGera dano de Escuridão pesado a todos os inimigos. Aplica Cura reversa a todos os inimigos. Cura todos os inimigos em 50% duas vezes.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark-uma_3_v1.png"
+		},
+		"author": {
+			"name": "DARK-UMA",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkUndead:878716125179940924><:bkSpirit:878716124097810483><:bkEAsia:878716018111963177><:bkCorrupted:878949315303858176>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicarmor_v1:878715312080560139>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Tanque de Escuridão com Provocação e efeitos positivos aleatórios para os aliados.",
+						"value": "```\nQuando Wangzhou era pequeno, ganhou uma estatueta de daruma da sua mãe, que disse que o boneco realizaria todos os seus desejos. Quando cresceu e se tornou o Imperador Corrompido Yaoguai Wangzhou, ele pegou seu velho daruma, brincou um pouco com ele... e o trouxe à vida! Agora, Dark-uma é um gênio a serviço do Imperador.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Jogo do Despertar",
+						"value": "```\nGera dano de Escuridão pesado a todos os inimigos. Aplica Cura reversa a todos os inimigos. Cura todos os inimigos em 50% duas vezes.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark-uma_1_v1.png"
+				},
+				"author": {
+					"name": "DARK-UMA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 873**\n<:mlMythic:877987779185872906> <:mlDark:877986886780600371>\n>>> **TANK `&` TAUNTER**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:ttaunttmpt:950771697999564810>  `PROVOCAÇÃO`\n> **Ｒ１   **<:thardenedt:949339379279740978>  `REFORÇADO`\n> **Ｒ３   **<:tpositiverandomsct:949341480403763270>  `ED: EFEITO POSITIVO ALEATÓRIO DE ÁREA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUndead:878716125179940924> `MORIBUNDO`\n> <:bkSpirit:878716124097810483> `ESPÍRITOS`\n> <:bkEAsia:878716018111963177> `DOJO DA FÚRIA`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark-uma_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DARK-UMA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２０３     <:icMlPower:879715624115380284> ４７５   **\n> **<:icMlSpeed:879715530011971624> ３５６    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:ttaunttmpt:950771697999564810>  `RECEBE TODOS OS ATAQUES DE ALVO ÚNICO.`\n> **Ｒ１   **<:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ３   **<:tpositiverandomsct:949341480403763270>  `TODOS OS ALIADOS GANHAM UM EFEITO POSITIVO ALEATÓRIO NO INÍCIO DA BATALHA.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Daruma Sombrio",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo. Aplica um efeito positivo a si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Boneco do Imperador",
+						"value": "```\nCausa dano de Escuridão baixo a todos os inimigos. Bloqueia 50% de todo o dano recebido.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdamageprotection50s:950390799244345364> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙰𝙽𝚃𝙸𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark-uma_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DARK-UMA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE DARK-UMA:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Encorajamento",
+						"value": "```\nAplica Escudo fotofóbico e Regeneração de Vida a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxphobiclights:950390833025257502> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙵𝙾𝚃𝙾𝙵𝙾𝙱𝙸𝙲𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Desejos Sombrios",
+						"value": "```\nAplica Proteção à Escuridão a todos os aliados. Cura 30% de todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxprotectiondarks:950390798271262801> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙳𝙰 𝙴𝚂𝙲𝚄𝚁𝙸𝙳𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Boa Sorte",
+						"value": "```\nAplica Dobro de cura e Proteção de efeito positivo aleatório a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealingincreasedoubles:950390799068192849> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙲𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Desejos Ambiciosos",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Bloqueia 50% de todo o dano recebido por todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdamageprotection50s:950390799244345364> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙰𝙽𝚃𝙸𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Perseverança",
+						"value": "```\nDobra o máximo de Vida. Cura a si mesmo em 50%. Aplica Regeneração de Vida a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealthpoolincreasedouble3ts:950390851782189076> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Desejo Concedido",
+						"value": "```\nRemove todos os efeitos negativos de todos os aliados. Aplica um efeito positivo aleatório a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark-uma_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DARK-UMA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

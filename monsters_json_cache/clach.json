@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkWinter:878716273243095040><:bkFamily:878716018275528735><:bkSpirit:878716124097810483><:bkDoomsday:908101944302764042>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelicbanner_v1:878736171105144923>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Tanque de Água com habilidades com Provocação e Reflexo de habilidade",
+				"value": "```\nQuando Lord Inheritor roubou a Ambrosia do Pico da Conciliação, libertou uma onda de energia tão forte que parte da montanha se soltou e ganhou vida. O nome dele é Clach, e seu corpo é a lembrança viva do dia em que anjos e demônios baixaram suas armas em nome da paz – uma paz que durou séculos, até ser quebrada.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Toque Gelado do Aço",
+				"value": "```\nCausa dano de Água pesado a todos os inimigos. Aplica Megacongelamento a todos os inimigos e Reflexo de dano a todos os aliados.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolmegafreezes:950390794286690385> `𝙼𝙴𝙶𝙰 𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgmirror100s:950390807179952199> `100% 𝙳𝙴 𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_clach_3_v1.png"
+		},
+		"author": {
+			"name": "CLACH",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkWinter:878716273243095040><:bkFamily:878716018275528735><:bkSpirit:878716124097810483><:bkDoomsday:908101944302764042>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelicbanner_v1:878736171105144923>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Tanque de Água com habilidades com Provocação e Reflexo de habilidade",
+						"value": "```\nQuando Lord Inheritor roubou a Ambrosia do Pico da Conciliação, libertou uma onda de energia tão forte que parte da montanha se soltou e ganhou vida. O nome dele é Clach, e seu corpo é a lembrança viva do dia em que anjos e demônios baixaram suas armas em nome da paz – uma paz que durou séculos, até ser quebrada.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Toque Gelado do Aço",
+						"value": "```\nCausa dano de Água pesado a todos os inimigos. Aplica Megacongelamento a todos os inimigos e Reflexo de dano a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolmegafreezes:950390794286690385> `𝙼𝙴𝙶𝙰 𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgmirror100s:950390807179952199> `100% 𝙳𝙴 𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_clach_1_v1.png"
+				},
+				"author": {
+					"name": "CLACH",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 933**\n<:mlMythic:877987779185872906> <:mlWater:877986936227254272>\n>>> **TANK `&` TAUNTER**\n**DIRECT OFFER**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:ttaunttmpt:950771697999564810>  `PROVOCAÇÃO`\n> **Ｒ１   **<:ttought:949339405401870378>  `RESISTENTE`\n> **Ｒ３   **<:timmunityfreezesct:949341519775686716>  `ED: IMUNIDADE A CONGELAR`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`\n> <:btfilterrelicbanner_v1:878736171105144923> `BANDEIRA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkWinter:878716273243095040> `INVERNO`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> <:bkSpirit:878716124097810483> `ESPÍRITOS`\n> <:bkDoomsday:908101944302764042> `ERA APOCALÍPTICA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_clach_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "CLACH",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２６５     <:icMlPower:879715624115380284> ５８０   **\n> **<:icMlSpeed:879715530011971624> ４２２    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:ttaunttmpt:950771697999564810>  `RECEBE TODOS OS ATAQUES DE ALVO ÚNICO.`\n> **Ｒ１   **<:ttought:949339405401870378>  `TODOS OS EFEITOS TÊM 35% MENOS PRECISÃO CONTRA ESTE ALVO.`\n> **Ｒ３   **<:timmunityfreezesct:949341519775686716>  `NO INÍCIO DA BATALHA, APLICA IMUNIDADE A CONGELAR A SI MESMO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Paus e Pedras...",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Tontura a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> ... Não Machucam Pedra",
+						"value": "```\nCausa dano de Água baixo a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_clach_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "CLACH",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE CLACH:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Lâminas Molhadas",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Afogado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Punhos de Aço",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Tontura a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Duro Como Rocha",
+						"value": "```\nAplica Reflexo de dano e remove todas as Torturas de si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟺 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgmirror100s:950390807179952199> `100% 𝙳𝙴 𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Pisoteio de Aço",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Congelar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Pontas Afiadas",
+						"value": "```\nAplica Megaprovocação e 50% de Reflexo de dano a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtauntmegas:950390801404416051> `𝙼𝙴𝙶𝙰𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgmirror50s:950390817011417148> `50% 𝙳𝙴 𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Pisoteio de Pedra",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Causa dano de Água moderado a todos os inimigos. Aplica Imunidade a Congelar a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunityfreezes:950390769531912272> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃𝙵𝚁𝙴𝙴𝚉𝙴𝙸𝙼𝙼𝚄𝙽𝙸𝚃𝚈_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_clach_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "CLACH",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_doomsday_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

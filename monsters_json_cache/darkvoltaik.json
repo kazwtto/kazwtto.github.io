@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkVillains:878716125117026404><:bkMetropolitan:878716018812403813><:bkRevenge:878716019198296094><:bkELegion:878716018090975292>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicsword_v1:878715312596476004>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Atacante de Escuridão com habilidades com Evasão de área e Rodada extra",
+				"value": "```\nO Dark VoltaiK não sabe que é um supervilão. Ele acha que o reforço de poder que conseguiu graças à Corrupção fez com que ele voltasse a ser o super-herói favorito de todos... mas ele está enganado. Um monstro focado na sua própria glória jamais conseguirá colocar a proteção dos inocentes em primeiro lugar.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Blecaute",
+				"value": "```\nRemove os efeitos positivos de todos os inimigos. Causa dano de Escuridão pesado a todos os inimigos. Aplica Corrompido a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark_voltaik_3_v1.png"
+		},
+		"author": {
+			"name": "DARK VOLTAIK",
+			"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkVillains:878716125117026404><:bkMetropolitan:878716018812403813><:bkRevenge:878716019198296094><:bkELegion:878716018090975292>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicsword_v1:878715312596476004>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Atacante de Escuridão com habilidades com Evasão de área e Rodada extra",
+						"value": "```\nO Dark VoltaiK não sabe que é um supervilão. Ele acha que o reforço de poder que conseguiu graças à Corrupção fez com que ele voltasse a ser o super-herói favorito de todos... mas ele está enganado. Um monstro focado na sua própria glória jamais conseguirá colocar a proteção dos inocentes em primeiro lugar.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Blecaute",
+						"value": "```\nRemove os efeitos positivos de todos os inimigos. Causa dano de Escuridão pesado a todos os inimigos. Aplica Corrompido a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark_voltaik_1_v1.png"
+				},
+				"author": {
+					"name": "DARK VOLTAIK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 917**\n<:mlMythic:877987779185872906> <:mlDark:877986886780600371>\n>>> **ATTACKER `&` EXTRA TURNER**\n**MONSTER PASS**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `REFORÇADO`\n> **Ｒ１   **<:timmunitypossessiont:949339403409555516>  `IMUNE A POSSESSÃO`\n> **Ｒ３   **<:tareadodgesct:949339371042119700>  `ED: AUTOEVASÃO DE ÁREA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkVillains:878716125117026404> `VILÕES`\n> <:bkMetropolitan:878716018812403813> `ERA URBANA`\n> <:bkRevenge:878716019198296094> `ESQUADRÃO DA VINGANÇA`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark_voltaik_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DARK VOLTAIK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２３４     <:icMlPower:879715624115380284> ５９２   **\n> **<:icMlSpeed:879715530011971624> ４２５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ１   **<:timmunitypossessiont:949339403409555516>  `DÁ IMUNIDADE CONTRA POSSESSÃO`\n> **Ｒ３   **<:tareadodgesct:949339371042119700>  `EFEITO DISPERSADO: AUTOEVASÃO DE ÁREA – ESQUIVA-SE DE TODAS AS HABILIDADES DE ÁREA`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> A Volta do Herói",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Sede de Poder",
+						"value": "```\nCausa dano de Escuridão baixo a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark_voltaik_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DARK VOLTAIK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE DARK VOLTAIK:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> 20.000 Volts",
+						"value": "```\nCausa dano moderado de Trovão a um inimigo. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Energia Corrompida",
+						"value": "```\nDá 50% de Resistência e remove 50% da Vida total de si mesmo. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Neblina do Ressentimento",
+						"value": "```\nAplica Evasão de área a si mesmo e Fraqueza à Escuridão a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟾 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxareadodges:950390807817490482> `𝙴𝚅𝙰𝚂𝙰𝙾 𝙳𝙴 𝙰𝚁𝙴𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknessdarks:950390814222221372> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝚂𝙾𝙼𝙱𝚁𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Ataque Sombrio",
+						"value": "```\nCausa dano de Escuridão baixo a um inimigo. Concede 1 rodada extra a si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟷𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟻𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> 50.000 Volts",
+						"value": "```\nCausa dano pesado de Trovão a um inimigo. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Choques Sombrios",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo. Causa dano de Escuridão moderado a todos os inimigos. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟻𝟸 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_dark_voltaik_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "DARK VOLTAIK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}
