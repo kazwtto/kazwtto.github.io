@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlNature:877987160513470484>  <:bkSHeroes:878716124567572562><:bkGLegion:878716018359402566><:bkSpirit:878716124097810483><:bkPureGaia:948266175391993906>  <:btfilterrelicamulet_v1:878715312453857290><:btfilterrelicarmor_v1:878715312080560139>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> SUPORTE",
+				"value": "```\nLiving Forest encarna o poder da Natureza. E, como a própria Natureza, este monstro somente pode ser entendido e reconhecido pelos sábios. Sua velocidade incrível lhe permite estar pronto para dar poder a seus aliados sempre que precisarem!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlNature:877987160513470484> Taiga",
+				"value": "```\nCura todos os aliados em 50%. Duplica a Vida máxima de todos os aliados. Aplica Espelho a todos os aliados.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxhealthpoolincreasedoubles:950390824846364672> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxskillmirror1ts:950390749164367872> `𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙷𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_livingforest_3_v1.png"
+		},
+		"author": {
+			"name": "LIVING FOREST"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlNature:877987160513470484>  <:bkSHeroes:878716124567572562><:bkGLegion:878716018359402566><:bkSpirit:878716124097810483><:bkPureGaia:948266175391993906>  <:btfilterrelicamulet_v1:878715312453857290><:btfilterrelicarmor_v1:878715312080560139>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> SUPORTE",
+						"value": "```\nLiving Forest encarna o poder da Natureza. E, como a própria Natureza, este monstro somente pode ser entendido e reconhecido pelos sábios. Sua velocidade incrível lhe permite estar pronto para dar poder a seus aliados sempre que precisarem!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlNature:877987160513470484> Taiga",
+						"value": "```\nCura todos os aliados em 50%. Duplica a Vida máxima de todos os aliados. Aplica Espelho a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxhealthpoolincreasedoubles:950390824846364672> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxskillmirror1ts:950390749164367872> `𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙷𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_livingforest_1_v1.png"
+				},
+				"author": {
+					"name": "LIVING FOREST"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 477**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlNature:877987160513470484>\n>>> **SUPPORT**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:thardenedt:949339379279740978>  `REFORÇADO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`\n> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkGLegion:878716018359402566> `LEGIÕES DO BEM`\n> <:bkSpirit:878716124097810483> `ESPÍRITOS`\n> <:bkPureGaia:948266175391993906> `GAIA PURA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_livingforest_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LIVING FOREST"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７１　     <:icMlPower:879715624115380284> ２２１   **\n> **<:icMlSpeed:879715530011971624> ２２７    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Thao Kosa\t",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Dong Bang\t",
+						"value": "```\nCura a si mesmo em 35%.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_livingforest_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LIVING FOREST"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE LIVING FOREST:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Pardo",
+						"value": "```\nDobra a Vida máxima de um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealthpoolincreasedoubles:950390824846364672> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Campo de areia",
+						"value": "```\nCausa dano Especial moderado a um inimigo. 50% de chance de aplicar Redução de dano a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductionmajors:950390819637051392> `𝚂𝚃𝙰𝚃𝚄𝚂𝙴𝙵𝙵𝙴𝙲𝚃_𝙼𝙰𝙹𝙾𝚁𝙳𝙰𝙼𝙰𝙶𝙴𝚁𝙴𝙳𝚄𝙲𝚃𝙸𝙾𝙽_𝙽𝙰𝙼𝙴𝙺𝙴𝚈(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Chapada",
+						"value": "```\nCausa dano de Natureza moderado a um inimigo. Aplica Fraqueza da natureza a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxweaknessnatures:950390767459909722> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙳𝙰 𝙽𝙰𝚃𝚄𝚁𝙴𝚉𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Sinharaja",
+						"value": "```\nCura 30% em todos os aliados. Remove todos os efeitos negativos de status dos aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Tongass",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Aplica Redução de dano a todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Sundarbans",
+						"value": "```\nCausa dano de Natureza moderado a todos os inimigos. Aplica Veneno e remove os efeitos de status positivo de todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟺 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Daintree",
+						"value": "```\nDobra a Vida máxima de um aliado. Aplica Provocação a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealthpoolincreasedoubles:950390824846364672> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Kinabalu",
+						"value": "```\nAplica Reflexo de habilidade a um aliado. Remove todos os efeitos negativos de status de um aliado. Cura um aliado em 30%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxskillmirror1ts:950390749164367872> `𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙷𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Mindo-Nambillo",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Aplica Fraqueza contra Natureza a todos os inimigos. Aplica Fraqueza contra Água a todos os inimigos. Aplica Fraqueza contra Terra a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxweaknessnatures:950390767459909722> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙳𝙰 𝙽𝙰𝚃𝚄𝚁𝙴𝚉𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknesswaters:950390780441280532> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙰𝚀𝚄𝙰𝚃𝙸𝙲𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknessearths:950390784769818624> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙰 𝚃𝙴𝚁𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_nature_livingforest_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LIVING FOREST"
+				},
+				"footer": null
+			}
+		}
+	}
+}

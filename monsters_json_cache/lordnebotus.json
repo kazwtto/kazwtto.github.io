@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkExclusive:878716018137108550><:bkCorrupted:878949315303858176><:bkELegion:878716018090975292><:bkSLair:878716124139765801>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicarmor_v1:878715312080560139>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Atacante de Escuridão com Efeito Dispersado de Evasão e Característica de Antecipação.",
+				"value": "```\nEle passou anos no esquecimento. Só falavam dele se fosse pra tirar sarro. Levou tempo... Além de alianças inesperadas, uns problemas (como a descoberta da Purificação!) e um montão de servos Corrompidos. Mas, agora, Lord Nebotus chegou para governar todo o universo de Monster Legends!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Vilão Eterno",
+				"value": "```\nRemove todos os efeitos negativos e dá 100% de Vida e Resistência a si mesmo. Aplica Perfurar a si mesmo. Remove 50% da Vida Total de todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+				"value": "<:tnotfoundtraiticon:952195242617090148> `𝙲𝚄𝚁𝙰(𝟶 ᴛᴜʀɴᴏꜱ)`  <:tnotfoundtraiticon:952195242617090148> `𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟶 ᴛᴜʀɴᴏꜱ)`  <:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_lord_nebotus_3_v1.png"
+		},
+		"author": {
+			"name": "LORD NEBOTUS",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkExclusive:878716018137108550><:bkCorrupted:878949315303858176><:bkELegion:878716018090975292><:bkSLair:878716124139765801>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicarmor_v1:878715312080560139>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Atacante de Escuridão com Efeito Dispersado de Evasão e Característica de Antecipação.",
+						"value": "```\nEle passou anos no esquecimento. Só falavam dele se fosse pra tirar sarro. Levou tempo... Além de alianças inesperadas, uns problemas (como a descoberta da Purificação!) e um montão de servos Corrompidos. Mas, agora, Lord Nebotus chegou para governar todo o universo de Monster Legends!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Vilão Eterno",
+						"value": "```\nRemove todos os efeitos negativos e dá 100% de Vida e Resistência a si mesmo. Aplica Perfurar a si mesmo. Remove 50% da Vida Total de todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:tnotfoundtraiticon:952195242617090148> `𝙲𝚄𝚁𝙰(𝟶 ᴛᴜʀɴᴏꜱ)`  <:tnotfoundtraiticon:952195242617090148> `𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟶 ᴛᴜʀɴᴏꜱ)`  <:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_lord_nebotus_1_v1.png"
+				},
+				"author": {
+					"name": "LORD NEBOTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 858**\n<:mlMythic:877987779185872906> <:mlDark:877986886780600371>\n>>> **ATTACKER `&` HEAVY AREA HITTER**\n**MONSTER PASS**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:tbulwarkt:949339407553531935>  `BALUARTE`\n> **Ｒ１   **<:tanticipationtmpt:950771700969140245>  `ANTECIPAÇÃO`\n> **Ｒ３   **<:timmunitypossessiont:949339403409555516>  `ALIADOS IMUNES A POSSESSÃO E CORRUPÇÃO`\n> **Ｒ４   **<:ttorturenightmaressct:949341523986743347>  `ED: PESADELOS DE ÁREA`\n> **Ｒ５   **<:tevasionsct:949339335172448326>  `ED: AUTOEVASÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkExclusive:878716018137108550> `EXCLUSIVO`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkSLair:878716124139765801> `COVIL DAS ALMAS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_lord_nebotus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LORD NEBOTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １９０     <:icMlPower:879715624115380284> ５００   **\n> **<:icMlSpeed:879715530011971624> ３６２    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:tbulwarkt:949339407553531935>  `TODOS OS EFEITOS TÊM 50% MENOS PRECISÃO CONTRA TODOS OS MONSTROS DESTE TIPO.`\n> **Ｒ１   **<:tanticipationtmpt:950771700969140245>  `QUANDO UM INIMIGO EXECUTA UMA HABILIDADE COM UMA RODADA EXTRA, ESTE MONSTRO REALIZA UMA RODADA EXTRA LOGO ANTES.`\n> **Ｒ３   **<:timmunitypossessiont:949339403409555516>  `DÁ IMUNIDADE A POSSESSÃO E CORRUPÇÃO A TODOS OS ALIADOS.`\n> **Ｒ４   **<:ttorturenightmaressct:949341523986743347>  `APLICA PESADELOS A TODOS OS INIMIGOS NO INÍCIO DA BATALHA.`\n> **Ｒ５   **<:tevasionsct:949339335172448326>  `EFEITO DISPERSADO: EVITA ATAQUES A CAMINHO`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Corte Maligno",
+						"value": "```\nCausa dano Especial moderado a um inimigo. Aplica Sangrar a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> O Mestre",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Aplica Pesadelos a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_lord_nebotus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LORD NEBOTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE LORD NEBOTUS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Murmúrios Loucos",
+						"value": "```\nGera dano de Escuridão pesado a todos os inimigos. Pode Cegar todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxblinds:950390771293503498> `𝙲𝙴𝙶𝙰𝚁(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Thol-o-sarr",
+						"value": "```\nCausa dano Especial imenso a um inimigo. Aplica Sangrar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturebleedings:950390824808611930> `𝚂𝙰𝙽𝙶𝚁𝙰𝙼𝙴𝙽𝚃𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Voando Alto",
+						"value": "```\nAplica Evasão, Dobro de dano e Precisão a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxevasions:950390858254016532> `𝙴𝚅𝙰𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Sonhos Medonhos",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Aplica Pesadelos a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Impuro",
+						"value": "```\nRemove os efeitos positivos de um inimigo. Aplica Morte em 3 rodadas a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Lorde Corrompido",
+						"value": "```\nCausa dano de Escuridão pesado a um inimigo. Aplica Corrompido a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_lord_nebotus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LORD NEBOTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

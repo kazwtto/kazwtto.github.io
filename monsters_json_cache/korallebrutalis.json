@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkSea:878716019617722378><:bkFamily:878716018275528735><:bkAdventures:878951902925176842>  <:btfilterrelicshield_v1:878715312290279496><:btfilterrelicshield_v1:878715312290279496>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Tanque de Terra com Provocação e Atordoar",
+				"value": "```\nA guerra entre Varuna e Cavenfish gerou um grande impacto negativo no oceano, mais especificamente no fundo do mar e recifes de corais, que estão sendo destruídos por bombas perdidas de navios piratas. Cansado dessa situação, Koralle Brutalis está pronto para proteger os recifes e também revidar. ```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Barreia de Koralle",
+				"value": "```\nCura 100% e remove todos os efeitos de status negativo de si mesmo. Aplica Megaprovocação a si mesmo.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+				"value": "<:tnotfoundtraiticon:952195242617090148> `𝙲𝚄𝚁𝙰(𝟶 ᴛᴜʀɴᴏꜱ)`  <:sfxtauntmegas:950390801404416051> `𝙼𝙴𝙶𝙰𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_koralle_brutalis_3_v1.png"
+		},
+		"author": {
+			"name": "KORALLE BRUTALIS"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkSea:878716019617722378><:bkFamily:878716018275528735><:bkAdventures:878951902925176842>  <:btfilterrelicshield_v1:878715312290279496><:btfilterrelicshield_v1:878715312290279496>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Tanque de Terra com Provocação e Atordoar",
+						"value": "```\nA guerra entre Varuna e Cavenfish gerou um grande impacto negativo no oceano, mais especificamente no fundo do mar e recifes de corais, que estão sendo destruídos por bombas perdidas de navios piratas. Cansado dessa situação, Koralle Brutalis está pronto para proteger os recifes e também revidar. ```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Barreia de Koralle",
+						"value": "```\nCura 100% e remove todos os efeitos de status negativo de si mesmo. Aplica Megaprovocação a si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:tnotfoundtraiticon:952195242617090148> `𝙲𝚄𝚁𝙰(𝟶 ᴛᴜʀɴᴏꜱ)`  <:sfxtauntmegas:950390801404416051> `𝙼𝙴𝙶𝙰𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_koralle_brutalis_1_v1.png"
+				},
+				"author": {
+					"name": "KORALLE BRUTALIS"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 614**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>\n>>> **TANK `&` Taunter**\n**TEAM RACE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:ttaunttmpt:950771697999564810>  `PROVOCAÇÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`\n> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSea:878716019617722378> `MAR`\n> <:bkFamily:878716018275528735> `FAMÍLIAS`\n> <:bkAdventures:878951902925176842> `AVENTUREIROS`\n> undefined `CORRIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_koralle_brutalis_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KORALLE BRUTALIS"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １０５     <:icMlPower:879715624115380284> ２２３   **\n> **<:icMlSpeed:879715530011971624> ２１８    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:ttaunttmpt:950771697999564810>  `RECEBE TODOS OS ATAQUES DE ALVO ÚNICO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Tufão Tubbataha",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Vórtice Aquático",
+						"value": "```\nCausa dano de Terra moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_koralle_brutalis_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KORALLE BRUTALIS"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE KORALLE BRUTALIS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Redemoinho subaquático",
+						"value": "```\nCausa dano de Terra moderado a um inimigo. 50% de chance de aplicar Areia movediça a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Abate de Atol",
+						"value": "```\nCausa dano Especial moderado a um inimigo. 50% de chance de aplicar Redução de dano a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Captura de Gorgonian",
+						"value": "```\nCausa dano Especial moderado a um inimigo. 50% de chance de aplicar Atordoamento a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Duna de areia subaquática",
+						"value": "```\nCausa dano de Terra moderado a um inimigo. Aplica Areia movediça e Tontura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Redução de diploria",
+						"value": "```\nCausa dano de Terra moderado a um inimigo. Aplica Redução de dano a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟺 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Urtiga constritiva",
+						"value": "```\n50% de chance de aplicar Atordoamento a um inimigo. Causa dano Especial moderado a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Barreira Brutalis",
+						"value": "```\nAplica Redução de dano a todos os inimigos. Aplica Megaprovocação a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtauntmegas:950390801404416051> `𝙼𝙴𝙶𝙰𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Diminuição do coral mole",
+						"value": "```\nCausa dano de Terra moderado a todos os inimigos. Aplica Areia movediça e Tontura a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Emboscada Elkhorn",
+						"value": "```\nCausa dano de Terra pesado a um inimigo. Pode Atordoar todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟾 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_koralle_brutalis_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KORALLE BRUTALIS"
+				},
+				"footer": null
+			}
+		}
+	}
+}

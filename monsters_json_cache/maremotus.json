@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkUnderworld:908101788870279230><:bkUndead:878716125179940924><:bkSea:878716019617722378><:bkMetropolitan:878716018812403813>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelicamulet_v1:878715312453857290>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Tanque de Escuridão com habilidades com Megaprovocação e Cararacterística de Provocação",
+				"value": "```\n​​Don Canine aprendeu da pior maneira que, quando resíduos tóxicos são lançados ao mar sem ninguém conferir o que há embaixo, podem acontecer acidentes... como Maremotus. Desde que esse esponja-zumbi gigante emergiu do oceano, ele vem gerando caos e calamidade por onde passa!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Recife Mortal",
+				"value": "```\nCausa dano de Escuridão muito pesado a todos os inimigos. Aplica Afogado, Mega-atordoamento e Congelar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_maremotus_3_v1.png"
+		},
+		"author": {
+			"name": "MAREMOTUS",
+			"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkUnderworld:908101788870279230><:bkUndead:878716125179940924><:bkSea:878716019617722378><:bkMetropolitan:878716018812403813>  <:btfilterrelicarmor_v1:878715312080560139><:btfilterrelicamulet_v1:878715312453857290>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Tanque de Escuridão com habilidades com Megaprovocação e Cararacterística de Provocação",
+						"value": "```\n​​Don Canine aprendeu da pior maneira que, quando resíduos tóxicos são lançados ao mar sem ninguém conferir o que há embaixo, podem acontecer acidentes... como Maremotus. Desde que esse esponja-zumbi gigante emergiu do oceano, ele vem gerando caos e calamidade por onde passa!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Recife Mortal",
+						"value": "```\nCausa dano de Escuridão muito pesado a todos os inimigos. Aplica Afogado, Mega-atordoamento e Congelar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_maremotus_1_v1.png"
+				},
+				"author": {
+					"name": "MAREMOTUS",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 923**\n<:mlMythic:877987779185872906> <:mlDark:877986886780600371>\n>>> **TANK `&` TAUNTER**\n**TALES**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:ttaunttmpt:950771697999564810>  `PROVOCAÇÃO`\n> **Ｒ１   **<:tabominationtmpt:950771671424434186>  `ABOMINAÇÃO`\n> **Ｒ３   **<:ttauntmegasct:949339375320309790>  `ED: MEGAPROVOCAÇÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`\n> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkUndead:878716125179940924> `MORIBUNDO`\n> <:bkSea:878716019617722378> `MAR`\n> <:bkMetropolitan:878716018812403813> `ERA URBANA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_maremotus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MAREMOTUS",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２４５     <:icMlPower:879715624115380284> ５７０   **\n> **<:icMlSpeed:879715530011971624> ４０５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:ttaunttmpt:950771697999564810>  `RECEBE TODOS OS ATAQUES DE ALVO ÚNICO.`\n> **Ｒ１   **<:tabominationtmpt:950771671424434186>  `DÁ IMUNIDADE A POSSESSÃO, CORRUPÇÃO, PESADELOS E SANGRAMENTO.`\n> **Ｒ３   **<:ttauntmegasct:949339375320309790>  `EFEITO DISPERSADO: RECEBE TODO O DANO E STATUS DE ATAQUES INIMIGOS (INCLUINDO ATAQUES DE ÁREA)`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Esponja Submarina",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Afogado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Calamidade Abismal",
+						"value": "```\nCausa dano de Escuridão baixo a todos os inimigos. Aplica Vazamento de Resistência a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_maremotus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MAREMOTUS",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MAREMOTUS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Banho Gelado",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Congelar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟾𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Corrente Salgada",
+						"value": "```\nAplica Regeneração de Resistência e dá 50% de Resistência a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxstaminaregenerations:950390803803566152> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾 𝙳𝙴 𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Profundeza Morta",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Aplica Pesadelos a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Inundação Gelada",
+						"value": "```\nCausa dano de Água pesado a um inimigo. Aplica Megacongelamento a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟸𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolmegafreezes:950390794286690385> `𝙼𝙴𝙶𝙰 𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Onda do Mar Vermelho",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Afogado e Vazamento de Resistência a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Grande Barreira",
+						"value": "```\nAplica Megaprovocação e da 50% de Resistência a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtauntmegas:950390801404416051> `𝙼𝙴𝙶𝙰𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_maremotus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MAREMOTUS",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

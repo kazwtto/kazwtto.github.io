@@ -1,0 +1,332 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlLight:877987351069081620>  <:bkUnderworld:908101788870279230><:bkVillains:878716125117026404><:bkUndead:878716125179940924><:bkExclusive:878716018137108550>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicarmor_v1:878715312080560139>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Controlador de Luz com habilidades de Corrupção e Evasão de área",
+				"value": "```\nKorruptus era o governante de um reino pequeno, mas muito próspero. Ele era amado e respeitado por seus súditos, mas quando o reino começou a receber ataques dos vizinhos que tentavam roubar seu ouro, Korruptus se voltou para a magia negra para se defender. Essa prática o levou à loucura, então ele teve que ser deposto. Agora, Korruptus perdeu a coroa e está furioso!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Eclipse",
+				"value": "```\nDesabilita Característica e remove efeitos positivos de todos os inimigos. Aplica Megacorrupto e Queimadura a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegapossessions:950390805435150437> `𝙼𝙴𝙶𝙰𝙲𝙾𝚁𝚁𝚄𝙿𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_korruptus_3_v1.png"
+		},
+		"author": {
+			"name": "KORRUPTUS",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_forsaken_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlLight:877987351069081620>  <:bkUnderworld:908101788870279230><:bkVillains:878716125117026404><:bkUndead:878716125179940924><:bkExclusive:878716018137108550>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicarmor_v1:878715312080560139>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Controlador de Luz com habilidades de Corrupção e Evasão de área",
+						"value": "```\nKorruptus era o governante de um reino pequeno, mas muito próspero. Ele era amado e respeitado por seus súditos, mas quando o reino começou a receber ataques dos vizinhos que tentavam roubar seu ouro, Korruptus se voltou para a magia negra para se defender. Essa prática o levou à loucura, então ele teve que ser deposto. Agora, Korruptus perdeu a coroa e está furioso!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Eclipse",
+						"value": "```\nDesabilita Característica e remove efeitos positivos de todos os inimigos. Aplica Megacorrupto e Queimadura a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegapossessions:950390805435150437> `𝙼𝙴𝙶𝙰𝙲𝙾𝚁𝚁𝚄𝙿𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_korruptus_1_v1.png"
+				},
+				"author": {
+					"name": "KORRUPTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_forsaken_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 678**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlLight:877987351069081620>\n>>> **CONTROL `&` Possession**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:tareadodget:949339300292616202>  `EVASÃO DE ÁREA`\n> **Ｒ１   **<:thardenedt:949339379279740978>  `REFORÇADO`\n> **Ｒ３   **<:ttought:949339405401870378>  `RESISTENTE`\n> **Ｒ５   **<:ttorturesunburnsct:949341510221070438>  `ED: QUEIMADURA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicarmor_v1:878715312080560139> `ARMADURA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkVillains:878716125117026404> `VILÕES`\n> <:bkUndead:878716125179940924> `MORIBUNDO`\n> <:bkExclusive:878716018137108550> `EXCLUSIVO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_korruptus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KORRUPTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_forsaken_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ８５　     <:icMlPower:879715624115380284> ２２０   **\n> **<:icMlSpeed:879715530011971624> ２３３    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:tareadodget:949339300292616202>  `ESQUIVA-SE DE TODAS AS HABILIDADES DE ÁREA`\n> **Ｒ１   **<:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ３   **<:ttought:949339405401870378>  `TODOS OS EFEITOS TÊM 35% MENOS PRECISÃO CONTRA ESTE ALVO.`\n> **Ｒ５   **<:ttorturesunburnsct:949341510221070438>  `APLICA QUEIMADURA A TODOS OS INIMIGOS NO INÍCIO DA BATALHA. CAUSA BAIXO DANO DE LUZ A CADA RODADA. A PRECISÃO FICA REDUZIDA EM 15%.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Velho Rei",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> ? <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Luz Corrompida",
+						"value": "```\nCausa dano de Luz moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> ? <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_korruptus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KORRUPTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_forsaken_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE KORRUPTUS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Sombras",
+						"value": "```\nAplica Pesadelos a todos os inimigos e a si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Golpe Negro",
+						"value": "```\nAplica um efeito de Tortura aleatório a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Inferno Ardente",
+						"value": "```\nAplica Queimadura a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Amaldiçoado",
+						"value": "```\nAplica Queimadura, Tontura e Pesadelos a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturesunburns:950390823290282046> `𝚀𝚄𝙴𝙸𝙼𝙰𝙳𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxdazes:950390807280648253> `𝚃𝙾𝙽𝚃𝚄𝚁𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Meio-polido",
+						"value": "```\nRemove todos os efeitos negativos de si mesmo. Aplica Pesadelos a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Anoitecer",
+						"value": "```\nCausa dano de Escuridão pesado a um inimigo. Ativa todas as recargas e aplica Corrompido a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Crepúsculo",
+						"value": "```\nAplica Cura Reversa a um inimigo. Aplica duas habilidades aleatórias de tortura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Sol Brilhante",
+						"value": "```\nAplica Imunidade a Controle e Regeneração de Vida a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Mente Assombrada",
+						"value": "```\nCausa dano de Escuridão moderado a todos os inimigos. Aplica Corrompido e Pesadelos a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolcorrupteds:950390753643884544> `𝙲𝙾𝚁𝚁𝙾𝙼𝙿𝙸𝙳𝙰(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Luz na Escuridão",
+						"value": "```\nRemove todos os efeitos negativos de um aliado. Cura um aliado em 50%. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Consumido",
+						"value": "```\nCausa dano Especial baixo a todos os inimigos. Aplica Cura Reversa e um efeito de Tortura aleatório a todos os inimigos. Concede 1 rodada extra a si mesmo.  Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxhealingreverses:950390775311634513> `𝙲𝚄𝚁𝙰 𝚁𝙴𝚅𝙴𝚁𝚂𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Alma Melancólica",
+						"value": "```\nCausa dano de Luz pesado a um inimigo. Desativa Características de um inimigo. Aplica Pesadelos a si mesmo. Concede 1 rodada extra a si mesmo.  Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_light_korruptus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "KORRUPTUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_forsaken_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

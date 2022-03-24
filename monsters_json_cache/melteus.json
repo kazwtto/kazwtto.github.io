@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlFire:877986746883788800>  <:bkAdventures:878951902925176842><:bkGLegion:878716018359402566><:bkMechanical:878716018359410729><:bkCorrupted:878949315303858176><:bkFieryPits:948266231255937084>  <:btfilterrelicshield_v1:878715312290279496><:btfilterrelicsword_v1:878715312596476004>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Artefato Atacante Bruto de Fogo e monstro de Suporte com Torturas e capacidade de defender a equipe",
+				"value": "```\nO trabalho de Melteus é desentupir as crateras de vulcões. Ele mantém as erupções sadias e sob controle, assim não há nenhuma surpresa desagradável para os monstros que moram por ali perto. Ele é muito eficiente no trabalho, mas está acostumado a trabalhar sozinho. Então, quando tem que ir a algum evento social, Melteus se sente bem desconfortável e pode se tornar bem explosivo.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlFire:877986746883788800> Vulcano e Marte",
+				"value": "```\nAplica Vulnerável a todos os inimigos. Aplica Fraqueza a Fogo a todos os inimigos. Causa dano de Fogo insano a todos os inimigos. Aplica Incendiar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknessfires:950390851551510608> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝙵𝙾𝙶𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_fire_melteus_3_v1.png"
+		},
+		"author": {
+			"name": "MELTEUS",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlFire:877986746883788800>  <:bkAdventures:878951902925176842><:bkGLegion:878716018359402566><:bkMechanical:878716018359410729><:bkCorrupted:878949315303858176><:bkFieryPits:948266231255937084>  <:btfilterrelicshield_v1:878715312290279496><:btfilterrelicsword_v1:878715312596476004>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Artefato Atacante Bruto de Fogo e monstro de Suporte com Torturas e capacidade de defender a equipe",
+						"value": "```\nO trabalho de Melteus é desentupir as crateras de vulcões. Ele mantém as erupções sadias e sob controle, assim não há nenhuma surpresa desagradável para os monstros que moram por ali perto. Ele é muito eficiente no trabalho, mas está acostumado a trabalhar sozinho. Então, quando tem que ir a algum evento social, Melteus se sente bem desconfortável e pode se tornar bem explosivo.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlFire:877986746883788800> Vulcano e Marte",
+						"value": "```\nAplica Vulnerável a todos os inimigos. Aplica Fraqueza a Fogo a todos os inimigos. Causa dano de Fogo insano a todos os inimigos. Aplica Incendiar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknessfires:950390851551510608> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝙵𝙾𝙶𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_fire_melteus_1_v1.png"
+				},
+				"author": {
+					"name": "MELTEUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 864**\n<:mlMythic:877987779185872906> <:mlFire:877986746883788800>\n>>> **ATTACKER `&` HEAVY HITTER**\n**BOUNTY HUNT**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:tartifacttmpt:950771668752683079>  `ARTEFATO`\n> **Ｒ１   **<:ttruevisiont:948776533957431386>  `VISÃO REAL`\n> **Ｒ３   **<:ttortureignitesct:949339383008473108>  `ED: APLICA INCENDIAR A TODOS OS INIMIGOS NO INÍCIO DA BATALHA.`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`\n> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkAdventures:878951902925176842> `AVENTUREIROS`\n> <:bkGLegion:878716018359402566> `LEGIÕES DO BEM`\n> <:bkMechanical:878716018359410729> `MECÂNICO`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`\n> <:bkFieryPits:948266231255937084> `FORÇAS ÍGNEAS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_fire_melteus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MELTEUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １９５     <:icMlPower:879715624115380284> ４９７   **\n> **<:icMlSpeed:879715530011971624> ３６０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:tartifacttmpt:950771668752683079>  `ARTEFATOS NÃO ESTÃO VIVOS. IMUNE A TODOS OS EFEITOS DE STATUS.`\n> **Ｒ１   **<:ttruevisiont:948776533957431386>  `DOBRO DE PRECISÃO`\n> **Ｒ３   **<:ttortureignitesct:949339383008473108>  `APLICA INCENDIAR A TODOS OS INIMIGOS NO INÍCIO DA BATALHA.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Embate de Scutum",
+						"value": "```\nRemove o Escudo de um inimigo. Causa dano de Metal pesado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Fogo Grego",
+						"value": "```\nCausa dano de Fogo pesado a um inimigo. Aplica Queimar a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_fire_melteus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MELTEUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MELTEUS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Dolabra de Batalha",
+						"value": "```\nCausa dano de Terra moderado a todos os inimigos. Aplica Areia movediça a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Marcha de Batalha",
+						"value": "```\nAplica 50% de Escudo de Vida a todos os aliados. Aplica Dobro de dano a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Balista Explosiva",
+						"value": "```\nRemove o Escudo de todos os inimigos. Causa dano de Fogo pesado a todos os inimigos. Aplica Queimar a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Formação Tartaruga",
+						"value": "```\nCura todos os aliados em 25%. Aplica 50% de Escudo de Vida e 50% de Reflexo de dano a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxshield50s:950390780688756746> `𝙴𝚂𝙲𝚄𝙳𝙾 𝙼𝙴𝙳𝙸𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgmirror50s:950390817011417148> `50% 𝙳𝙴 𝚁𝙴𝙵𝙻𝙴𝚇𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Chamas de Pompeia",
+						"value": "```\nCausa dano de Terra moderado a todos os inimigos. Aplica Areia movediça e Incendiar a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturequicksandss:950390792189513811> `𝙰𝚁𝙴𝙸𝙰 𝙼𝙾𝚅𝙴𝙳𝙸𝙲𝙰(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Pilo Incinerador",
+						"value": "```\nCausa dano de Metal muito pesado a um inimigo. Aplica Queimar e Incendiar a um inimigo. 25% de chance de eliminar um inimigo. 5% de chance para Chefes. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureignites:950390848720359514> `𝙸𝙶𝙽𝙸𝙲𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_fire_melteus_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MELTEUS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

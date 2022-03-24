@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkSea:878716019617722378><:bkSHeroes:878716124567572562><:bkExclusive:878716018137108550><:bkCorrupted:878949315303858176>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicamulet_v1:878715312453857290>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Controlador de Água com habilidades de Congelar",
+				"value": "```\nEle não é um lobo em pele de cordeiro, mas exatamente o oposto! Esse super-herói se veste de tubarão e aparece sempre que um monstro marinho inocente precisa de resgate. Ele teve essa ideia quando desmascarou Sphyrnus, que fingiu ser um super-herói marinho durante anos, roubando os monstros que ele deveria salvar. Desde então, é em Marley que todos podem confiar.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> You're a Waffler",
+				"value": "```\nCausa dano de Água pesado a todos os inimigos. Aplica Baixar guarda e Megacongelamento a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegafreezes:950390794286690385> `𝙼𝙴𝙶𝙰 𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_marley_3_v1.png"
+		},
+		"author": {
+			"name": "MARLEY",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkSea:878716019617722378><:bkSHeroes:878716124567572562><:bkExclusive:878716018137108550><:bkCorrupted:878949315303858176>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelicamulet_v1:878715312453857290>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Controlador de Água com habilidades de Congelar",
+						"value": "```\nEle não é um lobo em pele de cordeiro, mas exatamente o oposto! Esse super-herói se veste de tubarão e aparece sempre que um monstro marinho inocente precisa de resgate. Ele teve essa ideia quando desmascarou Sphyrnus, que fingiu ser um super-herói marinho durante anos, roubando os monstros que ele deveria salvar. Desde então, é em Marley que todos podem confiar.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> You're a Waffler",
+						"value": "```\nCausa dano de Água pesado a todos os inimigos. Aplica Baixar guarda e Megacongelamento a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegafreezes:950390794286690385> `𝙼𝙴𝙶𝙰 𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_marley_1_v1.png"
+				},
+				"author": {
+					"name": "MARLEY",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 818**\n<:mlMythic:877987779185872906> <:mlWater:877986936227254272>\n>>> **CONTROL `&` Freeze**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:timmunitypossessiont:949339403409555516>  `IMUNE A POSSESSÃO`\n> **Ｒ１   **<:timmunitysunburnt:949341544203296799>  `IMUNIDADE A QUEIMADURA`\n> **Ｒ３   **<:ttruevisionsct:949341536011825203>  `ED: TRAIT_SCTRUEVISION_NAMEKEY`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSea:878716019617722378> `MAR`\n> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkExclusive:878716018137108550> `EXCLUSIVO`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_marley_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MARLEY",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １８０     <:icMlPower:879715624115380284> ４５５   **\n> **<:icMlSpeed:879715530011971624> ３６１    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:timmunitypossessiont:949339403409555516>  `DÁ IMUNIDADE CONTRA POSSESSÃO`\n> **Ｒ１   **<:timmunitysunburnt:949341544203296799>  `IMUNE A QUEIMADURA`\n> **Ｒ３   **<:ttruevisionsct:949341536011825203>  `DOBRO DE PRECISÃO`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Eu Sou um Tubarão",
+						"value": "```\nCausa dano de Água moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> 100% Real no Fake",
+						"value": "```\nCausa dano de Água baixo a todos os inimigos. Aplica Afogado a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_marley_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MARLEY",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MARLEY:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Balão Black Ice",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Congelar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Abrindo o Pack",
+						"value": "```\nCausa dano de Água pesado a um inimigo. Aplica Baixar guarda a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Modo Bomba",
+						"value": "```\nCausa dano de Água baixo a todos os inimigos. Aplica Baixar guarda a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Balão Arco-íris",
+						"value": "```\nCausa dano de Água pesado a um inimigo. Aplica Congelar e Afogado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Hacks Liberados",
+						"value": "```\nAplica Visão real e Proteção de efeitos positivos a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtruevisions:950390814356410368> `𝚅𝙸𝚂𝙰𝙾 𝚁𝙴𝙰𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxprotectpositives:950390751316045854> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙳𝙴 𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Granadas de Água",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Congelamento e Afogado a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟻𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtorturedrowneds:950390750561071164> `𝙰𝙵𝙾𝙶𝙰𝙳𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_marley_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MARLEY",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlLight:877987351069081620>  <:bkGLegion:878716018359402566><:bkAdventures:878951902925176842><:bkCorrupted:878949315303858176><:bkHDojo:878716017969336352>  <:btfilterrelicamulet_v1:878715312453857290><:btfilterrelicstaff_v1:878715312336433204>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Suporte de Luz que faz os inimigos receberem dano maior",
+				"value": "```\nDepois que a Corrupção purificou Master Rat, ele foi tomado por sabedoria e fez de sua missão usar seu conhecimento para entender como a Corrupção deixa alguns monstros completamente maus e, outros, completamente bons. Só então ele poderá controlá-la e impedir que o mal se espalhe pelo universo de Monster Legends. ```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLight:877987351069081620> É Preciso Habilidade pra Vencer",
+				"value": "```\nAplica Dano triplo a todos os aliados por 1 rodada. Dá 100% de Resistência a todos os aliados.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxdmgincreasetriples:950390742906445826> `𝙳𝙰𝙽𝙾 𝚃𝚁𝙸𝙿𝙻𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_master_rat_3_v1.png"
+		},
+		"author": {
+			"name": "MASTER RAT",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlLight:877987351069081620>  <:bkGLegion:878716018359402566><:bkAdventures:878951902925176842><:bkCorrupted:878949315303858176><:bkHDojo:878716017969336352>  <:btfilterrelicamulet_v1:878715312453857290><:btfilterrelicstaff_v1:878715312336433204>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Suporte de Luz que faz os inimigos receberem dano maior",
+						"value": "```\nDepois que a Corrupção purificou Master Rat, ele foi tomado por sabedoria e fez de sua missão usar seu conhecimento para entender como a Corrupção deixa alguns monstros completamente maus e, outros, completamente bons. Só então ele poderá controlá-la e impedir que o mal se espalhe pelo universo de Monster Legends. ```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLight:877987351069081620> É Preciso Habilidade pra Vencer",
+						"value": "```\nAplica Dano triplo a todos os aliados por 1 rodada. Dá 100% de Resistência a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgincreasetriples:950390742906445826> `𝙳𝙰𝙽𝙾 𝚃𝚁𝙸𝙿𝙻𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_master_rat_1_v1.png"
+				},
+				"author": {
+					"name": "MASTER RAT",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 809**\n<:mlMythic:877987779185872906> <:mlLight:877987351069081620>\n>>> **SUPPORT `&` WEAKENER**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `REFORÇADO`\n> **Ｒ１   **<:ttruevisiont:948776533957431386>  `VISÃO REAL`\n> **Ｒ３   **<:tstaminaregenerationsct:949341404272934953>  `ED: REGENERAÇÃO DE RESISTÊNCIA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`\n> <:btfilterrelicstaff_v1:878715312336433204> `BASTÃO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkGLegion:878716018359402566> `LEGIÕES DO BEM`\n> <:bkAdventures:878951902925176842> `AVENTUREIROS`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`\n> <:bkHDojo:878716017969336352> `DOJO DA HONRA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_master_rat_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MASTER RAT",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １８０     <:icMlPower:879715624115380284> ４５１   **\n> **<:icMlSpeed:879715530011971624> ３６３    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:thardenedt:949339379279740978>  `TODOS OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE.`\n> **Ｒ１   **<:ttruevisiont:948776533957431386>  `DOBRO DE PRECISÃO`\n> **Ｒ３   **<:tstaminaregenerationsct:949341404272934953>  `APLICA REGENERAÇÃO DE RESISTÊNCIA A TODOS OS ALIADOS NO INÍCIO DA BATALHA.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Discípulo de Choy Gar",
+						"value": "```\nCausa dano de Luz moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Trio Inseparável",
+						"value": "```\nGera baixo dano de Luz a todos os inimigos. Aplica Fraqueza a Água, Luz e Fogo a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxweaknesswaters:950390780441280532> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙰𝚀𝚄𝙰𝚃𝙸𝙲𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknesslights:950390757280321576> `𝙻𝚄𝚉 𝙳𝙰 𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxweaknessfires:950390851551510608> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝙵𝙾𝙶𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_master_rat_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MASTER RAT",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MASTER RAT:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Curto e Rápido",
+						"value": "```\nRemove todos os efeitos negativos de um aliado. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> O Rato e a Cobra",
+						"value": "```\nCausa dano de Luz pesado a um inimigo. Remove os efeitos positivos de um inimigo. Aplica Vulnerável a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Técnica do Elefante",
+						"value": "```\nAplica Dobro de dano a um aliado. Dá 50% de Resistência a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Ágil e Mutante",
+						"value": "```\nRemove todos os efeitos negativos dos aliados. Aplica Precisão a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Forma de Bastão",
+						"value": "```\nAplica Regeneração de Resistência e Incentivo de dano a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟻𝟹 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxstaminaregenerations:950390803803566152> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾 𝙳𝙴 𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLight:877987351069081620> Cabeças de Cobra",
+						"value": "```\nCausa dano de Luz moderado a todos os inimigos. Aplica Vulnerável a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟻𝟹 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_light_master_rat_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MASTER RAT",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

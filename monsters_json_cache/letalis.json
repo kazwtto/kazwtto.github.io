@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkUnderworld:908101788870279230><:bkCosmic:878716018422317177><:bkSpirit:878716124097810483><:bkUndead:878716125179940924>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Controlador de Escuridão com habilidades de Atordoar, Congelar e Contagem regressiva",
+				"value": "```\nLetalis era um profeta, mas foi sentenciado e morto por um rei que não gostou do futuro que Letalis previu para ele. Porém, como não estava destinado a morrer, ele voltou dos mortos para cumprir seu destino e prever a morte dos outros.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Desgraça Anunciada",
+				"value": "```\nRemove os efeitos positivos de todos os inimigos. Desativa Característica de todos os inimigos. Aplica Morte com contagem regressiva de 3 rodadas e Mega-atordoar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_letalis_3_v1.png"
+		},
+		"author": {
+			"name": "LETALIS",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_stardust_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlDark:877986886780600371>  <:bkUnderworld:908101788870279230><:bkCosmic:878716018422317177><:bkSpirit:878716124097810483><:bkUndead:878716125179940924>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Controlador de Escuridão com habilidades de Atordoar, Congelar e Contagem regressiva",
+						"value": "```\nLetalis era um profeta, mas foi sentenciado e morto por um rei que não gostou do futuro que Letalis previu para ele. Porém, como não estava destinado a morrer, ele voltou dos mortos para cumprir seu destino e prever a morte dos outros.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlDark:877986886780600371> Desgraça Anunciada",
+						"value": "```\nRemove os efeitos positivos de todos os inimigos. Desativa Característica de todos os inimigos. Aplica Morte com contagem regressiva de 3 rodadas e Mega-atordoar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtraitdisableds:950390856819540029> `𝙲𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝙸𝚂𝚃𝙸𝙲𝙰 𝙳𝙴𝚂𝙰𝚃𝙸𝚅𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_letalis_1_v1.png"
+				},
+				"author": {
+					"name": "LETALIS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_stardust_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 773**\n<:mlMythic:877987779185872906> <:mlDark:877986886780600371>\n>>> **CONTROL `&` STUN**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:timmunitybleedt:949339365983789137>  `IMUNIDADE A SANGRAMENTO`\n> **Ｒ１   **<:tabominationtmpt:950771671424434186>  `ABOMINAÇÃO`\n> **Ｒ３   **<:ttruevisionsct:949341536011825203>  `ED: TRAIT_SCTRUEVISION_NAMEKEY`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkCosmic:878716018422317177> `ERA CÓSMICA`\n> <:bkSpirit:878716124097810483> `ESPÍRITOS`\n> <:bkUndead:878716125179940924> `MORIBUNDO`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_letalis_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LETALIS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_stardust_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １４５     <:icMlPower:879715624115380284> ４２０   **\n> **<:icMlSpeed:879715530011971624> ３３２    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:timmunitybleedt:949339365983789137>  `CONCEDE IMUNIDADE A SANGRAMENTO.`\n> **Ｒ１   **<:tabominationtmpt:950771671424434186>  `DÁ IMUNIDADE A POSSESSÃO, CORRUPÇÃO, PESADELOS E SANGRAMENTO.`\n> **Ｒ３   **<:ttruevisionsct:949341536011825203>  `DOBRO DE PRECISÃO`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Visões Fatais",
+						"value": "```\nCausa dano Especial muito baixo a um inimigo. 50% de chance de aplicar Atordoar a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟷𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Acidentes Não Existem",
+						"value": "```\nAplica Morte com contagem regressiva de 3 rodadas a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_letalis_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LETALIS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_stardust_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE LETALIS:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Arrepio na Espinha",
+						"value": "```\nCausa dano Especial baixo a um inimigo. Aplica Congelar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> O Último Destino",
+						"value": "```\nCausa dano de Escuridão muito baixo a todos os inimigos. Aplica Morte com contagem regressiva de 3 rodadas a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟷𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Passeio no Cemitério",
+						"value": "```\nCausa dano Especial muito baixo a todos os inimigos. Aplica Congelar a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟷𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Faseamento para a Escuridão",
+						"value": "```\nAplica Tempo-espaço e Visão real a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxspacetimes:950390757322272799> `𝚃𝙴𝙼𝙿𝙾-𝙴𝚂𝙿𝙰𝙲𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxtruevisions:950390814356410368> `𝚅𝙸𝚂𝙰𝙾 𝚁𝙴𝙰𝙻(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Os Planos da Morte",
+						"value": "```\n50% de chance de aplicar Atordoar a todos os inimigos. Aplica Morte com contagem regressiva de 3 rodadas a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> 66 segundos",
+						"value": "```\nCausa dano de Escuridão moderado a um inimigo. Aplica Congelar e Morte com contagem regressiva de 3 rodadas a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟷 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_dark_letalis_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "LETALIS",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_stardust_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}
