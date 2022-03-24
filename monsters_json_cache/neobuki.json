@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>  <:bkSHeroes:878716124567572562><:bkSpirit:878716124097810483>  <:btfilterrelicshield_v1:878715312290279496><:btfilterrelicshield_v1:878715312290279496>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Monstro versátil de Suporte com imunidades e ataques de dano pesado",
+				"value": "```\nA rápida e cintilante Neobuki estava viajando pelo universo quando foi sugada por um buraco negro. Ela não conseguiu evitá-lo, e ainda não conseguiu sair de lá, mas ao mesmo tempo ela achou maneira de se projetar no campo de batalha!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Forma Final",
+				"value": "```\nGera médio dano de Trovão a todos os inimigos. Aplica Dobro de dano a si mesmo. Dobra sua própria capacidade de Vida Máxima. Perde todos os efeitos de status negativo.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxhealthpoolincreasedoubles:950390824846364672> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_neobuki_3_v1.png"
+		},
+		"author": {
+			"name": "NEOBUKI"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>  <:bkSHeroes:878716124567572562><:bkSpirit:878716124097810483>  <:btfilterrelicshield_v1:878715312290279496><:btfilterrelicshield_v1:878715312290279496>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Monstro versátil de Suporte com imunidades e ataques de dano pesado",
+						"value": "```\nA rápida e cintilante Neobuki estava viajando pelo universo quando foi sugada por um buraco negro. Ela não conseguiu evitá-lo, e ainda não conseguiu sair de lá, mas ao mesmo tempo ela achou maneira de se projetar no campo de batalha!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlThunder:877987116024479774> Forma Final",
+						"value": "```\nGera médio dano de Trovão a todos os inimigos. Aplica Dobro de dano a si mesmo. Dobra sua própria capacidade de Vida Máxima. Perde todos os efeitos de status negativo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxhealthpoolincreasedoubles:950390824846364672> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_neobuki_1_v1.png"
+				},
+				"author": {
+					"name": "NEOBUKI"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 595**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlThunder:877987116024479774>\n>>> **SUPPORT**\n**TEAM RACE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tnotfoundtraiticon:952195242617090148>  `PROTEÇÃO DE EFEITO POSITIVO E REFORÇADO`:\n> 　<:thardenedt:949339379279740978>  `REFORÇADO`\n> 　<:tprotectionpositivet:949339361168748575>  `PROTEÇÃO DE EFEITOS POSITIVOS`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`\n> <:btfilterrelicshield_v1:878715312290279496> `ESCUDO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkSpirit:878716124097810483> `ESPÍRITOS`\n> undefined `CORRIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_neobuki_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NEOBUKI"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ８８　     <:icMlPower:879715624115380284> ２２２   **\n> **<:icMlSpeed:879715530011971624> ２３１    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tnotfoundtraiticon:952195242617090148>  `PROTEÇÃO DE EFEITO POSITIVO E REFORÇADO`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Kawaii!",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟽 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Golpe Neon",
+						"value": "```\nCausa dano de Trovão moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_neobuki_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NEOBUKI"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE NEOBUKI:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Golpe Xenon",
+						"value": "```\nCausa dano de Trovão baixo a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Forma Shinigami",
+						"value": "```\nRemove os efeitos positivos e aplica Dobro de dano a si mesmo. Remove todos os efeitos negativos de status dos aliados. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟷 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Akira",
+						"value": "```\nCausa dano de Trovão pesado a um inimigo. Aplica Incentivo de dano e Precisão a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreases:950390794341191680> `𝙸𝙽𝙲𝙴𝙽𝚃𝙸𝚅𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxprecisions:950390790474051655> `𝙿𝚁𝙴𝙲𝙸𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Izanagi",
+						"value": "```\nCausa dano Especial muito pesado a um inimigo. Aplica Dobro de dano a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟿 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Kaminari",
+						"value": "```\nGera médio dano de Trovão a todos os inimigos. Aplica Regeneração de Resistência a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxstaminaregenerations:950390803803566152> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾 𝙳𝙴 𝚁𝙴𝚂𝙸𝚂𝚃𝙴𝙽𝙲𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Forma Yokodzuna",
+						"value": "```\nAplica Evasão a todos os aliados. Remove efeitos positivos de si mesmo. Dobra sua própria capacidade de Vida Máxima. Aplica Provocação a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟷 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxevasions:950390858254016532> `𝙴𝚅𝙰𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxhealthpoolincreasedouble3ts:950390851782189076> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝚅𝙸𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtaunts:950390750804340766> `𝙿𝚁𝙾𝚅𝙾𝙲𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Sekiwake",
+						"value": "```\nCausa dano Especial muito pesado a um inimigo. Aplica Regeneração a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Maegashira",
+						"value": "```\nCausa dano de Escuridão imenso a um inimigo. Aplica Imunidade a Tortura a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitytortures:950390781796044862> `𝙸𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝚃𝙾𝚁𝚃𝚄𝚁𝙰𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlThunder:877987116024479774> Hikari",
+						"value": "```\nCausa dano de Trovão muito pesado a um inimigo. Remove todos os efeitos negativos e aplica Imunidade para Controlar a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_thunder_neobuki_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NEOBUKI"
+				},
+				"footer": null
+			}
+		}
+	}
+}

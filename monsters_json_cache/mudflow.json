@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlRare:877987692971954187> <:mlEarth:877986837669486652><:mlWater:877986936227254272>  <:bkPureGaia:948266175391993906>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicessence_v1:878715312445460490>​",
+		"url": null,
+		"timestamp": null,
+		"color": 14767952,
+		"fields": [
+			{
+				"name": "> CONTROLE",
+				"value": "```\nMudflow é o chefe dos druidas no maior pântano de Monster Legends. É um especialista em feitiços e poções, mas também um grande percussionista - sabe executar a dança da chuva como ninguém.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Granizada Raivosa",
+				"value": "```\nCausa dano de Água muito pesado a todos os inimigos. Remove 25% de Resistência de todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_earth_water_mudflow_3_v1.png"
+		},
+		"author": {
+			"name": "MUDFLOW"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlRare:877987692971954187> <:mlEarth:877986837669486652><:mlWater:877986936227254272>  <:bkPureGaia:948266175391993906>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicessence_v1:878715312445460490>​",
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "> CONTROLE",
+						"value": "```\nMudflow é o chefe dos druidas no maior pântano de Monster Legends. É um especialista em feitiços e poções, mas também um grande percussionista - sabe executar a dança da chuva como ninguém.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Granizada Raivosa",
+						"value": "```\nCausa dano de Água muito pesado a todos os inimigos. Remove 25% de Resistência de todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_earth_water_mudflow_1_v1.png"
+				},
+				"author": {
+					"name": "MUDFLOW"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 312**\n<:mlRare:877987692971954187> <:mlEarth:877986837669486652><:mlWater:877986936227254272>\n>>> **DEFAULT**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunitystunt:949339313450135622>  `IMUNE A ATORDOAMENTO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkPureGaia:948266175391993906> `GAIA PURA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟸𝟼ｈ  <:icMlCraftTime:898444916273860618> 𝟸𝟼ｈ  <:icMlRankUpTime:898444858954489857> 𝟷𝟷ｈ\n<:icMlBreedingTime:898444766541414400> 𝟸𝟸ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟽ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_earth_water_mudflow_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MUDFLOW"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ６５　     <:icMlPower:879715624115380284> ２２６   **\n> **<:icMlSpeed:879715530011971624> １９８    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunitystunt:949339313450135622>  `DÁ IMUNIDADE A ATORDOAR.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Soco Maturado",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Gelo Rochoso",
+						"value": "```\nCausa dano de Água baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_earth_water_mudflow_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MUDFLOW"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MUDFLOW:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Pancada de Rocha",
+						"value": "```\nCausa dano de Terra moderado. 50% de chance de Atordoar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Proteção Antiga",
+						"value": "```\nCausa dano de Terra moderado. Ganha 20% de Escudo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield25s:950390743908896778> `𝙴𝚂𝙲𝚄𝙳𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Nevada",
+						"value": "```\nCausa dano de Água moderado. 50% de chance de Congelar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Barreira de Rochedos",
+						"value": "```\nGanha 30% de Escudo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxshield25s:950390743908896778> `𝙴𝚂𝙲𝚄𝙳𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Deslizamento Congelante",
+						"value": "```\nCausa dano de Terra moderado. Pode Atordoar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Explosão Congelada",
+						"value": "```\nGera grande dano de Água.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Fortaleza Montanhosa",
+						"value": "```\nDá 50% de Escudo a todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxshield25s:950390743908896778> `𝙴𝚂𝙲𝚄𝙳𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Choque Epicêntrico",
+						"value": "```\nCausa dano de Terra pesado. Pode Atordoar todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Ataque Avalanche",
+						"value": "```\nPode Congelar todos os alvos. Aplica Vazamento de Resistência a todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolfreezes:950390773646516284> `𝙲𝙾𝙽𝙶𝙴𝙻𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_earth_water_mudflow_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MUDFLOW"
+				},
+				"footer": null
+			}
+		}
+	}
+}

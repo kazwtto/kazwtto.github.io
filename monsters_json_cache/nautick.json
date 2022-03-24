@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkSea:878716019617722378><:bkAdventures:878951902925176842><:bkELegion:878716018090975292><:bkMetropolitan:878716018812403813>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicmask_v1:878715312453873674>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Controlador de Água com Atordoar e Cegueira total.",
+				"value": "```\nO projeto de Malairion está indo conforme o planejado. Sua ideia mais recente foi instalar um dispositivo sob o casco de Nautick para colher os raios de sol que chegam à superficie dos oceanos de Elektra. Os poderes psiônicos de Nautick permitem que ele transmita, telepaticamente, toda aquela energia diretamente para o multiplicador de Nébula de Malairion.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Invasão Mental",
+				"value": "```\nCausa dano de Água muito pesado a todos os inimigos. Remove os efeitos positivos de todos os inimigos. Aplica Veneno e Mega-atordoar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_nautick_3_v1.png"
+		},
+		"author": {
+			"name": "NAUTICK",
+			"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlWater:877986936227254272>  <:bkSea:878716019617722378><:bkAdventures:878951902925176842><:bkELegion:878716018090975292><:bkMetropolitan:878716018812403813>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicmask_v1:878715312453873674>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Controlador de Água com Atordoar e Cegueira total.",
+						"value": "```\nO projeto de Malairion está indo conforme o planejado. Sua ideia mais recente foi instalar um dispositivo sob o casco de Nautick para colher os raios de sol que chegam à superficie dos oceanos de Elektra. Os poderes psiônicos de Nautick permitem que ele transmita, telepaticamente, toda aquela energia diretamente para o multiplicador de Nébula de Malairion.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlWater:877986936227254272> Invasão Mental",
+						"value": "```\nCausa dano de Água muito pesado a todos os inimigos. Remove os efeitos positivos de todos os inimigos. Aplica Veneno e Mega-atordoar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_nautick_1_v1.png"
+				},
+				"author": {
+					"name": "NAUTICK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 900**\n<:mlMythic:877987779185872906> <:mlWater:877986936227254272>\n>>> **CONTROL `&` STUN**\n**TALES**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:timmunitycontrolt:949339326666395690>  `IMUNE AO CONTROLE`\n> **Ｒ１   **<:ttought:949339405401870378>  `RESISTENTE`\n> **Ｒ３   **<:tblindminorsct:949341490654642266>  `ED: CEGUEIRA LEVE`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSea:878716019617722378> `MAR`\n> <:bkAdventures:878951902925176842> `AVENTUREIROS`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkMetropolitan:878716018812403813> `ERA URBANA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_nautick_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NAUTICK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ２３３     <:icMlPower:879715624115380284> ５５２   **\n> **<:icMlSpeed:879715530011971624> ４２６    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:timmunitycontrolt:949339326666395690>  `CONCEDE IMUNIDADE A ATORDOAR, CONGELAR, POSSESSÃO E CORRUPÇÃO, E TODAS SUAS VERSÕES \"MEGA\".`\n> **Ｒ１   **<:ttought:949339405401870378>  `TODOS OS EFEITOS TÊM 35% MENOS PRECISÃO CONTRA ESTE ALVO.`\n> **Ｒ３   **<:tblindminorsct:949341490654642266>  `EFEITO DISPERSADO: LANÇA CEGUEIRA LEVE EM TODOS OS INIMIGOS`",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Lula Psiônica",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Veneno a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Fumaça de Tinta",
+						"value": "```\nAplica Cegar a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxblinds:950390771293503498> `𝙲𝙴𝙶𝙰𝚁(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_nautick_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NAUTICK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE NAUTICK:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Bomba de Tinta",
+						"value": "```\nPode Cegar todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxblinds:950390771293503498> `𝙲𝙴𝙶𝙰𝚁(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Ondas Mentais",
+						"value": "```\nCausa dano de Água moderado a um inimigo. Aplica Atordoar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟼 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Poluição Marinha",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Veneno a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Explosão Cerebral",
+						"value": "```\nCausa dano de Água pesado a um inimigo. Aplica Mega-atordoamento a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlDark:877986886780600371> Overdose de Tinta",
+						"value": "```\nCausa dano de Escuridão pesado a um inimigo. Aplica Veneno e Cegueira total a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxblindtotals:950390816411623464> `𝙲𝙴𝙶𝚄𝙴𝙸𝚁𝙰 𝚃𝙾𝚃𝙰𝙻(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlWater:877986936227254272> Desordem Interna",
+						"value": "```\nCausa dano de Água moderado a todos os inimigos. Aplica Atordoar a todos os inimigos duas vezes. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_water_nautick_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NAUTICK",
+					"icon_url": "https://i.ibb.co/prv5fH7/badge-metropolitan-small-v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}

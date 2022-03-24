@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkSHeroes:878716124567572562><:bkUnderworld:908101788870279230><:bkELegion:878716018090975292><:bkQuest:878952454601986068><:bkBarbarians:908101884001284146>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicmask_v1:878715312453873674>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Atacante de Terra com Antecipação. Remove a Resistência e os efeitos positivos dos inimigos.",
+				"value": "```\nNarok foi escravo do Lord Mammoth e sua tribo por muitos anos. Cansado de caçar somente para trazer comida para a mesa dos banquetes do Lord, ele se rebelou contra Mammoth e venceu! Agora Narok vive sozinho e livre na Terra Devastada, onde pode caçar apenas para si próprio.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Gincana",
+				"value": "```\nRemove os efeitos de status positivos de todos os inimigos. Causa dano de Terra imenso a todos os inimigos. Aplica Superatordoar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟽𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_narok_3_v1.png"
+		},
+		"author": {
+			"name": "NAROK"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkSHeroes:878716124567572562><:bkUnderworld:908101788870279230><:bkELegion:878716018090975292><:bkQuest:878952454601986068><:bkBarbarians:908101884001284146>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicmask_v1:878715312453873674>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Atacante de Terra com Antecipação. Remove a Resistência e os efeitos positivos dos inimigos.",
+						"value": "```\nNarok foi escravo do Lord Mammoth e sua tribo por muitos anos. Cansado de caçar somente para trazer comida para a mesa dos banquetes do Lord, ele se rebelou contra Mammoth e venceu! Agora Narok vive sozinho e livre na Terra Devastada, onde pode caçar apenas para si próprio.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Gincana",
+						"value": "```\nRemove os efeitos de status positivos de todos os inimigos. Causa dano de Terra imenso a todos os inimigos. Aplica Superatordoar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxcontrolmegastuns:950390722874449941> `𝙼𝙴𝙶𝙰-𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝙼𝙴𝙽𝚃𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_narok_1_v1.png"
+				},
+				"author": {
+					"name": "NAROK"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 635**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>\n>>> **ATTACKER**\n**QUEST**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tanticipationtmpt:950771700969140245>  `TRAIT_ANTICIPATION-STUNIMMUNITY_NAMEKEY`:\n> 　<:tanticipationtmpt:950771700969140245>  `ANTECIPAÇÃO`\n> 　<:timmunitystunt:949339313450135622>  `IMUNE A ATORDOAMENTO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkUnderworld:908101788870279230> `SUBMUNDO`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> <:bkQuest:878952454601986068> `MISSÃO`\n> <:bkBarbarians:908101884001284146> `BÁRBAROS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_narok_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NAROK"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ９２　     <:icMlPower:879715624115380284> ２３９   **\n> **<:icMlSpeed:879715530011971624> ２２５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tanticipationtmpt:950771700969140245>  `TRAIT_ANTICIPATION-STUNIMMUNITY_DESCRIPTIONKEY`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Escravizado",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> O monstro saiu da jaula!",
+						"value": "```\nCausa dano de Terra moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_narok_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NAROK"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE NAROK:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Metabolismo rápido",
+						"value": "```\nRemove todos os efeitos negativos e aplica Regeneração de Vida a si mesmo. Concede 1 rodada extra a si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxregenerations:950390755258671155> `𝚁𝙴𝙶𝙴𝙽𝙴𝚁𝙰𝙲𝙰𝙾(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Noites frias",
+						"value": "```\nCausa dano Especial moderado a um inimigo. Aplica Pesadelos a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Ataque ardiloso",
+						"value": "```\nRemove os efeitos de status positivos de um inimigo. Causa dano de Terra moderado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Perseguição cansativa",
+						"value": "```\nRetira 100% de Resistência e aplica Pesadelos a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenightmaress:950390811781132298> `𝙿𝙴𝚂𝙰𝙳𝙴𝙻𝙾𝚂(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Lança de The Savannah",
+						"value": "```\nCausa dano Especial moderado a todos os inimigos. Aplica Maldição e Vazamento de Resistência a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturecurseminors:950390787244458024> `𝙼𝙰𝙻𝙳𝙸𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Assombrando a caça",
+						"value": "```\nCausa dano de Terra pesado a um inimigo. Remove 25% de Resistência de um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Risada maligna",
+						"value": "```\nAplica Dobro de dano e 1 rodada extra a si mesmo. Remove 25% de Resistência de si mesmo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgincreasedoubles:950390841011216435> `𝙳𝙾𝙱𝚁𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Poder de Kaftar",
+						"value": "```\nCausa dano Especial pesado a um inimigo. Remove 50% de Resistência de um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> O Rei de Savannah",
+						"value": "```\nCausa dano de Terra muito pesado a um inimigo. Aplica Maldição e Vazamento de Resistência a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturecurseminors:950390787244458024> `𝙼𝙰𝙻𝙳𝙸𝙲𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)`  <:sfxstaminaleaks:950390836439449620> `𝚅𝙰𝚉𝙰𝙼𝙴𝙽𝚃𝙾 𝙳𝙴 𝙴𝙽𝙴𝚁𝙶𝙸𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_narok_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "NAROK"
+				},
+				"footer": null
+			}
+		}
+	}
+}

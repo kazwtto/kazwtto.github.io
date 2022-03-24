@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkDragon:878716017973551134><:bkELegion:878716018090975292><:bkBarbarians:908101884001284146>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicamulet_v1:878715312453857290>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Controle de Terra com Ativação de Recarga e Possessão",
+				"value": "```\nMontezuma é o líder divino, o xamã e o protetor de seu próprio império réptil dentro da civilização asteca. Ele assume todas as três funções porque considera todos inferiores a ele; até mesmo Kulkan, que ele considera apenas um simples guarda, apesar de suas habilidades comprovadas.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Energia divina da Terra",
+				"value": "```\nCausa dano Especial muito pesado a todos os inimigos. Pode Envenenar todos os alvos. Pode aplicar Redução de Dano a todos os alvos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_mountezuma_3_v1.png"
+		},
+		"author": {
+			"name": "MOUNTEZUMA"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>  <:bkDragon:878716017973551134><:bkELegion:878716018090975292><:bkBarbarians:908101884001284146>  <:btfilterrelicessence_v1:878715312445460490><:btfilterrelicamulet_v1:878715312453857290>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Controle de Terra com Ativação de Recarga e Possessão",
+						"value": "```\nMontezuma é o líder divino, o xamã e o protetor de seu próprio império réptil dentro da civilização asteca. Ele assume todas as três funções porque considera todos inferiores a ele; até mesmo Kulkan, que ele considera apenas um simples guarda, apesar de suas habilidades comprovadas.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlEarth:877986837669486652> Energia divina da Terra",
+						"value": "```\nCausa dano Especial muito pesado a todos os inimigos. Pode Envenenar todos os alvos. Pode aplicar Redução de Dano a todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_mountezuma_1_v1.png"
+				},
+				"author": {
+					"name": "MOUNTEZUMA"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 471**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlEarth:877986837669486652>\n>>> **CONTROL**\n**TEAM RACE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:tmountaintmpt:950771678693171220>  `MONTANHA`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`\n> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkDragon:878716017973551134> `DRAGÕES`\n> <:bkELegion:878716018090975292> `LEGIÕES DO MAL`\n> undefined `CORRIDA`\n> <:bkBarbarians:908101884001284146> `BÁRBAROS`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_mountezuma_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MOUNTEZUMA"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ７３　     <:icMlPower:879715624115380284> ２１９   **\n> **<:icMlSpeed:879715530011971624> ２２５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:tmountaintmpt:950771678693171220>  `DÁ IMUNIDADE A ATORDOAR E CONGELAR.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Primeiro conselho",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Controle das pedras",
+						"value": "```\nCausa dano de Terra moderado.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_mountezuma_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MOUNTEZUMA"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MOUNTEZUMA:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Saliva tóxica",
+						"value": "```\nCausa dano de Terra moderado. 50% de chance de Envenenar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Infecção de Zuma",
+						"value": "```\nCausa dano Especial moderado. Pode aplicar Redução de Dano ao alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Ameaça de Mountezuma",
+						"value": "```\nCausa dano de Terra moderado. Ativa todas as recargas de habilidades do inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Golpe de fadiga",
+						"value": "```\nPode Envenenar o alvo. Ganha 1 rodada extra. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Tempestade de lama",
+						"value": "```\nCausa dano de Terra moderado a todos os inimigos. Pode aplicar Redução de Dano a todos os alvos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟽 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxdmgreductions:950390821331550208> `𝚁𝙴𝙳𝚄𝙲𝙰𝙾 𝙳𝙴 𝙳𝙰𝙽𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Doença tóxica",
+						"value": "```\nCausa dano de Terra moderado. Pode Envenenar o alvo. Pode Possuir o alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟷 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolpossessions:950390846879068161> `𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Maldição do ancião",
+						"value": "```\nCausa dano Especial pesado. Pode Possuir o alvo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟻𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟾 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolmegapossessions:950390805435150437> `𝙼𝙴𝙶𝙰𝙿𝙾𝚂𝚂𝙴𝚂𝚂𝙰𝙾(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Chuva ácida",
+						"value": "```\nGera grande dano da Terra a todos os inimigos. Pode Envenenar todos os alvos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturepoisons:950390748904325140> `𝚅𝙴𝙽𝙴𝙽𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlEarth:877986837669486652> Vingança de Mountezuma",
+						"value": "```\nAtiva todas as recargas de habilidades dos inimigos. Ativa todas as recargas de suas próprias habilidades. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_earth_mountezuma_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MOUNTEZUMA"
+				},
+				"footer": null
+			}
+		}
+	}
+}

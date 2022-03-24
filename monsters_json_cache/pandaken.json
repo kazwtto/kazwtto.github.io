@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlRare:877987692971954187> <:mlNature:877987160513470484><:mlFire:877986746883788800>  <:bkBeginners:878716017906438194><:bkHDojo:878716017969336352>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicessence_v1:878715312445460490>​",
+		"url": null,
+		"timestamp": null,
+		"color": 14767952,
+		"fields": [
+			{
+				"name": "> MONSTRO",
+				"value": "```\nPandaken tem o poder do fogo, paixão pela natureza e uma quedinha por uma cerveja gelada. Ele dedica a vida a treinar nas montanhas de Wang Sun, adquirindo uma força monstruosa e reflexos incríveis.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlFire:877986746883788800> Fúria Zen",
+				"value": "```\nMedita por uma rodada para causar alto dano de Fogo a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+				"value": "​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_nature_fire_pandaken_2018_3_v1.png"
+		},
+		"author": {
+			"name": "PANDAKEN"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlRare:877987692971954187> <:mlNature:877987160513470484><:mlFire:877986746883788800>  <:bkBeginners:878716017906438194><:bkHDojo:878716017969336352>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicessence_v1:878715312445460490>​",
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "> MONSTRO",
+						"value": "```\nPandaken tem o poder do fogo, paixão pela natureza e uma quedinha por uma cerveja gelada. Ele dedica a vida a treinar nas montanhas de Wang Sun, adquirindo uma força monstruosa e reflexos incríveis.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlFire:877986746883788800> Fúria Zen",
+						"value": "```\nMedita por uma rodada para causar alto dano de Fogo a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_nature_fire_pandaken_2018_1_v1.png"
+				},
+				"author": {
+					"name": "PANDAKEN"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 4**\n<:mlRare:877987692971954187> <:mlNature:877987160513470484><:mlFire:877986746883788800>\n>>> **DEFAULT**\n**Old**",
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:timmunityburningt:949339350452285440>  `IMUNE À COMBUSTÃO`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicessence_v1:878715312445460490> `ESSÊNCIA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkBeginners:878716017906438194> `INICIANTE`\n> <:bkHDojo:878716017969336352> `DOJO DA HONRA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟷m  <:icMlCraftTime:898444916273860618> 𝟷m  <:icMlRankUpTime:898444858954489857> 𝟷𝟻s\n<:icMlBreedingTime:898444766541414400> 𝟷m  <:icMlExtractionBaseTime:898444829527277568> 𝟽s",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_nature_fire_pandaken_2018_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "PANDAKEN"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ５０　     <:icMlPower:879715624115380284> ２２５   **\n> **<:icMlSpeed:879715530011971624> ２００    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:timmunityburningt:949339350452285440>  `DÁ IMUNIDADE À COMBUSTÃO.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Ritmo do Panda",
+						"value": "```\nCausa dano Físico baixo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Patas Peludas",
+						"value": "```\nCausa dano baixo de Natureza.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟻 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_nature_fire_pandaken_2018_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "PANDAKEN"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 14767952,
+				"fields": [
+					{
+						"name": "HABILIDADES DE PANDAKEN:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Soco Repentino",
+						"value": "```\nGera dano baixo de Natureza. 50% de chance de atordoar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Chuva de Fogo",
+						"value": "```\nGera baixo dano de Fogo. Pode queimar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Aroma de Eucalipto",
+						"value": "```\nGera baixo dano da Natureza. Cura a si mesmo em 20% da vida. ```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟾 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Combustão",
+						"value": "```\nGera baixo dano de Fogo. Pode queimar o alvo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟸 <:icMlStamina:879715590032461874> 𝟸𝟷 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Nuclearita",
+						"value": "```\nGera pouco dano da Natureza. Pode atordoar o alvo. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟽 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Planta nervosinha",
+						"value": "```\nCausa dano de Natureza baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlNature:877987160513470484> Meditação Zen",
+						"value": "```\nCura a si mesmo em 40% da vida Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟷𝟼 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Cascata de Fogo",
+						"value": "```\nGera grande dano de Fogo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟸 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Soco de 3 Polegadas",
+						"value": "```\nCausa dano de Fogo moderado. Pode Queimar e Atordoar o alvo. Precisa de recarga.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟿 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`  <:sfxcontrolstuns:950390800158691358> `𝙰𝚃𝙾𝚁𝙳𝙾𝙰𝚁(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_nature_fire_pandaken_2018_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "PANDAKEN"
+				},
+				"footer": null
+			}
+		}
+	}
+}

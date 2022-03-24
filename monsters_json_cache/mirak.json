@@ -1,0 +1,297 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>  <:bkSHeroes:878716124567572562><:bkMechanical:878716018359410729><:bkFemale:878716018309087272>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelictrap_v1:878715312697122816>​",
+		"url": null,
+		"timestamp": null,
+		"color": 13064663,
+		"fields": [
+			{
+				"name": "> Monstro de Controle de Metal, com movimentos de Suporte e Proteção",
+				"value": "```\nCom o campo de batalha cada vez mais acirrado, todos os monstros lutam pela excelência, mas há dois criadores, em particular, que fizeram de seu objetivo vencer todas as lutas! Ingenica e Hackster juntaram forças num laboratório de pesquisas secreto e criaram um ser de inteligência artificial imbatível: Mirak!```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Admirável Mundo Novo",
+				"value": "```\nRemove todos os efeitos negativos de status dos aliados. Aplica Imunidade a Controle, Imunidade a Torturas e Proteção de Efeitos Positivos a todos os aliados.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfximmunitytortures:950390781796044862> `𝙸𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝚃𝙾𝚁𝚃𝚄𝚁𝙰𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxprotectpositives:950390751316045854> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙳𝙴 𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_mirak_3_v1.png"
+		},
+		"author": {
+			"name": "MIRAK"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>  <:bkSHeroes:878716124567572562><:bkMechanical:878716018359410729><:bkFemale:878716018309087272>  <:btfilterrelicmask_v1:878715312453873674><:btfilterrelictrap_v1:878715312697122816>​",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "> Monstro de Controle de Metal, com movimentos de Suporte e Proteção",
+						"value": "```\nCom o campo de batalha cada vez mais acirrado, todos os monstros lutam pela excelência, mas há dois criadores, em particular, que fizeram de seu objetivo vencer todas as lutas! Ingenica e Hackster juntaram forças num laboratório de pesquisas secreto e criaram um ser de inteligência artificial imbatível: Mirak!```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlLegendary:877987390495531099> Admirável Mundo Novo",
+						"value": "```\nRemove todos os efeitos negativos de status dos aliados. Aplica Imunidade a Controle, Imunidade a Torturas e Proteção de Efeitos Positivos a todos os aliados.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfximmunitytortures:950390781796044862> `𝙸𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝚃𝙾𝚁𝚃𝚄𝚁𝙰𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxprotectpositives:950390751316045854> `𝙿𝚁𝙾𝚃𝙴𝙲𝙰𝙾 𝙳𝙴 𝙴𝙵𝙴𝙸𝚃𝙾𝚂 𝙿𝙾𝚂𝙸𝚃𝙸𝚅𝙾𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_mirak_1_v1.png"
+				},
+				"author": {
+					"name": "MIRAK"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 629**\n<:mlLegend:877987747770556487> <:mlLegendary:877987390495531099><:mlMetal:877987198765523024>\n>>> **CONTROL `&` Random Control**\n**TEAM RACE**",
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> <:thardenedt:949339379279740978>  `REFORÇADO. ED: PROTEÇÃO DE ÁREA ALEATÓRIA`:\n> 　<:thardenedt:949339379279740978>  `REFORÇADO`\n> 　<:tprotectionrandomt:949341488087711845>  `ED: TRAIT_RANDOMPROTECTION_NAMEKEY`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicmask_v1:878715312453873674> `MÁSCARA`\n> <:btfilterrelictrap_v1:878715312697122816> `ARMADILHA`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkMechanical:878716018359410729> `MECÂNICO`\n> <:bkFemale:878716018309087272> `FÊMEA`\n> undefined `CORRIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_mirak_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MIRAK"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> ８５　     <:icMlPower:879715624115380284> ２１１   **\n> **<:icMlSpeed:879715530011971624> ２３０    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> <:thardenedt:949339379279740978>  `OS EFEITOS TÊM 20% MENOS PRECISÃO CONTRA ELE. APLICA PROTEÇÃO ALEATÓRIA A TODOS OS ALIADOS NO INÍCIO DA BATALHA.`",
+						"inline": false
+					},
+					{
+						"name": "<:mlPhysical:897717756458336297> Eu, Robô",
+						"value": "```\nCausa dano Físico baixo a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟸𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟹 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Orgulho em ser Robô",
+						"value": "```\nCausa dano de Metal moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟺 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_mirak_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MIRAK"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 13064663,
+				"fields": [
+					{
+						"name": "HABILIDADES DE MIRAK:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Calculado",
+						"value": "```\nAplica duas habilidades aleatórias de tortura a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Dobrador Temporal",
+						"value": "```\nRemove todos os efeitos negativos de status de um aliado. Aplica dois efeitos de status positivo aleatório a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Contando robôs para dormir",
+						"value": "```\nDesativa todas as recargas em si mesmo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Vai, Robô!",
+						"value": "```\nRemove os efeitos de status positivos de um inimigo. Aplica Nanovírus e Cegueira Total a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟷𝟾 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxblindtotals:950390816411623464> `𝙲𝙴𝙶𝚄𝙴𝙸𝚁𝙰 𝚃𝙾𝚃𝙰𝙻(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Destruidor de Micróbios",
+						"value": "```\nRemove todos os efeitos negativos de status dos aliados. Aplica um efeito de status positivo aleatório a um aliado. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟸𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Não Tenho Boca",
+						"value": "```\nCausa dano de Metal moderado a um inimigo. Aplica uma habilidade de controle aleatória e Fraqueza Metálica a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxweaknessmetals:950390826524086342> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙼𝙴𝚃𝙰𝙻𝙸𝙲𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> A Primeira Lei",
+						"value": "```\nAplica Imunidade a Controle e Imunidade a Torturas a todos os aliados. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfximmunitycontrols:950390793103896586> `𝙸𝙼𝚄𝙽𝙴 𝙰𝙾 𝙲𝙾𝙽𝚃𝚁𝙾𝙻𝙴(𝟸 ᴛᴜʀɴᴏꜱ)`  <:sfximmunitytortures:950390781796044862> `𝙸𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 𝙲𝙾𝙽𝚃𝚁𝙰 𝚃𝙾𝚁𝚃𝚄𝚁𝙰𝚂(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Pensamento profundo",
+						"value": "```\nRemove os efeitos de status positivos de todos os inimigos. Aplica Nanovírus e Cegueira total a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟸𝟽 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtorturenanoviruss:950390777857601596> `𝙽𝙰𝙽𝙾𝚅𝙸𝚁𝚄𝚂(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxblindtotals:950390816411623464> `𝙲𝙴𝙶𝚄𝙴𝙸𝚁𝙰 𝚃𝙾𝚃𝙰𝙻(𝟷 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMetal:877987198765523024> Preciso Gritar",
+						"value": "```\nCausa dano de Metal moderado a todos os inimigos. Aplica uma habilidade de controle aleatória e Fraqueza Metálica a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟸 <:icMlTimer:888583693814345728> 𝟹 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxweaknessmetals:950390826524086342> `𝙵𝚁𝙰𝚀𝚄𝙴𝚉𝙰 𝙼𝙴𝚃𝙰𝙻𝙸𝙲𝙰(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_legendary_metal_mirak_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "MIRAK"
+				},
+				"footer": null
+			}
+		}
+	}
+}
