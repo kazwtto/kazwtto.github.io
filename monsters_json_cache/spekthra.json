@@ -1,0 +1,272 @@
+{
+	"baseEmbed": {
+		"title": null,
+		"type": "rich",
+		"description": "<:mlMythic:877987779185872906> <:mlMagic:877987316529000568>  <:bkSHeroes:878716124567572562><:bkMechanical:878716018359410729><:bkFemale:878716018309087272><:bkCorrupted:878949315303858176>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicamulet_v1:878715312453857290>​",
+		"url": null,
+		"timestamp": null,
+		"color": 16684120,
+		"fields": [
+			{
+				"name": "> Canhão de vidro de Magia com Perfurar e remoção de efeitos negativos",
+				"value": "```\nCampeã em arco e flecha, Spekthra era cobiçada por muitos, como Malair, que tentou recrutá-la diversas vezes. Chegou um ponto em que ele se sentiu tão humilhado pelas rejeições dela, que enviou todo seu esquadrão de Supervilões até o centro de treinamento para tentar matá-la! Ele teve certo sucesso, mas Spekthra sobreviveu como um espírito. Até hoje ela continua sozinha no centro de treinamento, planejando sua vingança contra os Supervilões.```",
+				"inline": false
+			},
+			{
+				"name": "> HABILIDADE ESPECIAL:\n<:mlFire:877986746883788800> Fogo dos Céus",
+				"value": "```\nAplica Perfurar a si mesmo. Causa dano de Fogo insano a todos os inimigos. Aplica Queimar a todos os inimigos.```",
+				"inline": false
+			},
+			{
+				"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+				"value": "<:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+				"inline": false
+			}
+		],
+		"thumbnail": null,
+		"image": {
+			"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_spekthra_3_v1.png"
+		},
+		"author": {
+			"name": "SPEKTHRA",
+			"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+		},
+		"footer": null
+	},
+	"pages": {
+		"📒": {
+			"reactions": [
+				"🗒️",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "<:mlMythic:877987779185872906> <:mlMagic:877987316529000568>  <:bkSHeroes:878716124567572562><:bkMechanical:878716018359410729><:bkFemale:878716018309087272><:bkCorrupted:878949315303858176>  <:btfilterrelicsword_v1:878715312596476004><:btfilterrelicamulet_v1:878715312453857290>​",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "> Canhão de vidro de Magia com Perfurar e remoção de efeitos negativos",
+						"value": "```\nCampeã em arco e flecha, Spekthra era cobiçada por muitos, como Malair, que tentou recrutá-la diversas vezes. Chegou um ponto em que ele se sentiu tão humilhado pelas rejeições dela, que enviou todo seu esquadrão de Supervilões até o centro de treinamento para tentar matá-la! Ele teve certo sucesso, mas Spekthra sobreviveu como um espírito. Até hoje ela continua sozinha no centro de treinamento, planejando sua vingança contra os Supervilões.```",
+						"inline": false
+					},
+					{
+						"name": "> HABILIDADE ESPECIAL:\n<:mlFire:877986746883788800> Fogo dos Céus",
+						"value": "```\nAplica Perfurar a si mesmo. Causa dano de Fogo insano a todos os inimigos. Aplica Queimar a todos os inimigos.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟽𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟸𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)`​",
+						"inline": false
+					}
+				],
+				"thumbnail": null,
+				"image": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_spekthra_1_v1.png"
+				},
+				"author": {
+					"name": "SPEKTHRA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗒️": {
+			"reactions": [
+				"📒",
+				"🗡️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": "**MONSTERDEX N°: 827**\n<:mlMythic:877987779185872906> <:mlMagic:877987316529000568>\n>>> **ATTACKER `&` SUDDEN KILLER**\n**MAZE**",
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "CARACTÉRISTICAS DE EVOLUÇÃO:",
+						"value": "> **Ｒ０   **<:ttruevisiont:948776533957431386>  `VISÃO REAL`\n> **Ｒ１   **<:tenergizedt:949339391791358032>  `ENERGIZADO`\n> **Ｒ３   **<:tpiercesct:949341498078543912>  `ED: EFEITO DISPERSADO: PERFURAR`",
+						"inline": false
+					},
+					{
+						"name": "SLOTS DE RELIQUIAS:",
+						"value": "> <:btfilterrelicsword_v1:878715312596476004> `ESPADA`\n> <:btfilterrelicamulet_v1:878715312453857290> `AMULETO`",
+						"inline": false
+					},
+					{
+						"name": "MEMBRO DOS LIVROS:",
+						"value": "> <:bkSHeroes:878716124567572562> `SUPER-HERÓIS`\n> <:bkMechanical:878716018359410729> `MECÂNICO`\n> <:bkFemale:878716018309087272> `FÊMEA`\n> <:bkCorrupted:878949315303858176> `ERA CORROMPIDA`",
+						"inline": false
+					},
+					{
+						"name": "TEMPOS:",
+						"value": ">>> <:icMlHatchingTime:898444796857823292> 𝟻𝟶ｈ  <:icMlCraftTime:898444916273860618> 𝟻𝟶ｈ  <:icMlRankUpTime:898444858954489857> 𝟸𝟻ｈ\n<:icMlBreedingTime:898444766541414400> 𝟺𝟼ｈ  <:icMlExtractionBaseTime:898444829527277568> 𝟸𝟻ｈ",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_spekthra_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "SPEKTHRA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"🗡️": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"⚔️"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "STATUS BASE:",
+						"value": "> **<:icMlLife:879715449942728734> １７５     <:icMlPower:879715624115380284> ４９０   **\n> **<:icMlSpeed:879715530011971624> ３６５    <:icMlStamina:879715590032461874>  １００   **",
+						"inline": false
+					},
+					{
+						"name": "DESCRIÇÃO DAS CARACTERISTICAS:",
+						"value": "> **Ｒ０   **<:ttruevisiont:948776533957431386>  `DOBRO DE PRECISÃO`\n> **Ｒ１   **<:tenergizedt:949339391791358032>  `20% EXTRA RESISTÊNCIA.`\n> **Ｒ３   **<:tpiercesct:949341498078543912>  `AS HABILIDADES PERFURAM OS EFEITOS DE DEFESA (EVASÃO, ESPELHOS, ESCUDOS, PROVOCAÇÕES, EVASÃO DE ÁREA...)`",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Ataque Mortal",
+						"value": "```\nCausa dano de Magia moderado a um inimigo.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟶 <:icMlTimer:888583693814345728> 𝟶 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": " \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Tiro Esperto",
+						"value": "```\nCausa dano de Magia moderado a um inimigo. Aplica Baixar guarda a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟶 <:icMLAccuracy:897553011906330624> 𝟷𝟶𝟶 <:icMlStamina:879715590032461874> 𝟷𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_spekthra_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "SPEKTHRA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		},
+		"⚔": {
+			"reactions": [
+				"📒",
+				"🗒️",
+				"🗡"
+			],
+			"embed": {
+				"title": null,
+				"type": "rich",
+				"description": null,
+				"url": null,
+				"timestamp": null,
+				"color": 16684120,
+				"fields": [
+					{
+						"name": "HABILIDADES DE SPEKTHRA:",
+						"value": "`TIER 1 — TIER 3`",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Raio de Fogo",
+						"value": "```\nCausa dano de Fogo moderado a um inimigo. Aplica Queimar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟸𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Na Mosca!",
+						"value": "```\nAplica Perfurar a si mesma. Causa dano Especial pesado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟺𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟹𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Fogo dos Céus",
+						"value": "```\nCausa dano de Magia moderado a todos os inimigos. Aplica Queimar a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟹𝟻 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟺𝟻 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlFire:877986746883788800> Marque o Alvo",
+						"value": "```\nAplica Vulnerável a um inimigo. Aplica Cura anulada a um inimigo. Aplica Queimar a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟸 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxhealingnegates:950390773675864144> `𝙲𝚄𝚁𝙰 𝙰𝙽𝚄𝙻𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxtortureburns:950390746379329597> `𝙲𝙾𝙼𝙱𝚄𝚂𝚃𝙰𝙾(𝟺 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlLegendary:877987390495531099> Uma Morte Por Tiro",
+						"value": "```\nAplica Perfurar a si mesma. Causa dano Especial muito pesado a um inimigo. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟼𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟻 <:icMlStamina:879715590032461874> 𝟺𝟶 <:icMlTimer:888583693814345728> 𝟷 <:icMLTarget:897548214029389866> ᴜᴍ ɪɴɪᴍɪɢᴏ",
+						"value": "<:sfxpierces:950390819934851132> `𝙿𝙴𝚁𝙵𝚄𝚁𝙰𝚁(𝟹 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					},
+					{
+						"name": "<:mlMagic:877987316529000568> Abate dos Fracos",
+						"value": "```\nAplica Cura anulada a todos os inimigos. Aplica Vulnerável a todos os inimigos. Aplica Baixar guarda a todos os inimigos. Precisa recarregar.```",
+						"inline": false
+					},
+					{
+						"name": "<:icMLSword:897553071104733264> 𝟶 <:icMLAccuracy:897553011906330624> 𝟿𝟶 <:icMlStamina:879715590032461874> 𝟻𝟶 <:icMlTimer:888583693814345728> 𝟺 <:icMLTarget:897548214029389866> ɪɴɪᴍɪɢᴏꜱ ᴠᴀʀɪᴀᴅᴏꜱ",
+						"value": "<:sfxhealingnegates:950390773675864144> `𝙲𝚄𝚁𝙰 𝙰𝙽𝚄𝙻𝙰𝙳𝙰(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxvulnerables:950390851488583690> `𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝚅𝙴𝙻(𝟹 ᴛᴜʀɴᴏꜱ)`  <:sfxguarddowns:950390779149426708> `𝙱𝙰𝙸𝚇𝙰𝚁 𝙶𝚄𝙰𝚁𝙳𝙰(𝟸 ᴛᴜʀɴᴏꜱ)` \n​",
+						"inline": false
+					}
+				],
+				"thumbnail": {
+					"url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/monsters/ui_mythic_magic_spekthra_1_v1.png"
+				},
+				"image": null,
+				"author": {
+					"name": "SPEKTHRA",
+					"icon_url": "https://www.socialpointgames.com/static/monstercity/mobile/ui/backgrounds/HD/badge_corrupted_v1.png"
+				},
+				"footer": null
+			}
+		}
+	}
+}
