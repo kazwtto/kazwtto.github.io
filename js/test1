@@ -1,0 +1,182 @@
+// ==MiruExtension==
+// @name         AnimesOnlineCC
+// @version      v0.0.1
+// @author       kazwtto
+// @lang         all
+// @license      MIT
+// @icon         https://animesonlinecc.to/favicon.ico
+// @package      animesonlinecc.to
+// @type         bangumi
+// @webSite      https://animesonlinecc.to
+// @description  Extension for accessing animesonlinecc.to content
+// ==/MiruExtension==
+
+export default class AnimesOnlineCCExtension extends Extension {
+    constructor() {
+        super();
+        this.baseUrl = 'https://animesonlinecc.to';
+    }
+
+    async latest(page) {
+        const res = await this.request(`/episodios/page/${page}`);
+        const animePattern = /<article[^>]*(?:class="[^"]*items[^"]*"|class="[^"]*animation-2[^"]*")?[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*>[\s\S]*?<img[^>]*(?:src|data-src)="([^"]+)"[^>]*alt="([^"]*)"[^>]*>[\s\S]*?<\/article>/gs;
+        const animes = [];
+        let match;
+        
+        while ((match = animePattern.exec(res.data)) !== null) {
+            const [_, url, cover, title] = match;
+            const fullUrl = url.startsWith('http') ? url : `${this.baseUrl}/${url.replace(/^\//, '')}`;
+            const fullCover = cover.startsWith('http') ? cover : `${this.baseUrl}/${cover.replace(/^\//, '')}`;
+            
+            if (fullUrl && fullCover) {
+                animes.push({
+                    title: title.trim() || 'Sem título',
+                    url: fullUrl.replace(this.baseUrl + '/', ''),
+                    cover: fullCover,
+                });
+            }
+        }
+        
+        return animes;
+    }
+
+    async search(kw, page) {
+        const res = await this.request(`/?s=${encodeURIComponent(kw)}`);
+        const animePattern = /<article[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*>[\s\S]*?<img[^>]*(?:src|data-src)="([^"]+)"[^>]*alt="([^"]*)"[^>]*>[\s\S]*?<\/a>[\s\S]*?<\/article>/gs;
+        const animes = [];
+        let match;
+        
+        while ((match = animePattern.exec(res.data)) !== null) {
+            const [_, url, cover, title] = match;
+            const fullUrl = url.startsWith('http') ? url : `${this.baseUrl}/${url.replace(/^\//, '')}`;
+            const fullCover = cover.startsWith('http') ? cover : `${this.baseUrl}/${cover.replace(/^\//, '')}`;
+            
+            if (fullUrl && fullCover) {
+                animes.push({
+                    title: title.trim() || 'Sem título',
+                    url: fullUrl.replace(this.baseUrl + '/', ''),
+                    cover: fullCover,
+                });
+            }
+        }
+        
+        return animes;
+    }
+
+    async detail(url) {
+        const res = await this.request(`/${url}`);
+        
+        const titleMatch = /<div[^>]*class="[^"]*data[^"]*"[^>]*>[\s\S]*?<h1[^>]*>([^<]+)<\/h1>/i.exec(res.data);
+        const title = titleMatch ? titleMatch[1].trim() : "";
+        
+        const coverMatch = /<div[^>]*class="[^"]*poster[^"]*"[^>]*>[\s\S]*?<img[^>]*(?:src|data-src)="([^"]+)"/i.exec(res.data);
+        const cover = coverMatch ? coverMatch[1] : "";
+        
+        const descMatch = /<div[^>]*class="[^"]*wp-content[^"]*"[^>]*>([\s\S]*?)<\/div>/i.exec(res.data);
+        const desc = descMatch ? descMatch[1].trim() : "";
+        
+        const genresMatch = /<div[^>]*class="[^"]*sgeneros[^"]*"[^>]*>([\s\S]*?)<\/div>/i.exec(res.data);
+        let genres = "";
+        if (genresMatch) {
+            const genrePattern = /<a[^>]*>([^<]+)<\/a>/g;
+            const genreList = [];
+            let genreMatch;
+            while ((genreMatch = genrePattern.exec(genresMatch[1])) !== null) {
+                genreList.push(genreMatch[1]);
+            }
+            genres = genreList.join(', ');
+        }
+        
+        const iframePattern = /<iframe[^>]*src="([^"]+)"/g;
+        const videos = [];
+        let iframeMatch;
+        let videoCount = 1;
+        while ((iframeMatch = iframePattern.exec(res.data)) !== null) {
+            videos.push({
+                name: `Filme/OVA ${videoCount}`,
+                url: url
+            });
+            videoCount++;
+        }
+        
+        const episodePattern = /<div[^>]*class="[^"]*(?:pag_episodes|episodios)[^"]*"[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gs;
+        const episodes = [];
+        const seen = new Set();
+        let episodeMatch;
+        
+        while ((episodeMatch = episodePattern.exec(res.data)) !== null) {
+            const [_, episodeUrl, episodeTitle] = episodeMatch;
+            const cleanTitle = episodeTitle.replace(/<[^>]+>/g, '').trim();
+            const fullEpisodeUrl = episodeUrl.startsWith('http') ? episodeUrl : `${this.baseUrl}/${episodeUrl.replace(/^\//, '')}`;
+            
+            if (fullEpisodeUrl && cleanTitle && !seen.has(fullEpisodeUrl)) {
+                seen.add(fullEpisodeUrl);
+                episodes.push({
+                    name: cleanTitle,
+                    url: fullEpisodeUrl.replace(this.baseUrl + '/', '')
+                });
+            }
+        }
+        
+        const episodeList = episodes.reverse().map(ep => ({
+            title: ep.name,
+            urls: [{ name: ep.name, url: ep.url }]
+        }));
+        
+        if (videos.length > 0) {
+            episodeList.unshift({
+                title: "Filme/OVA",
+                urls: videos
+            });
+        }
+        
+        return {
+            title,
+            cover,
+            desc: desc + (genres ? `\n\nGêneros: ${genres}` : ''),
+            episodes: episodeList.length > 0 ? episodeList : [
+                {
+                    title: "Assista",
+                    urls: [{ name: "Assistir Agora", url: url }]
+                }
+            ]
+        };
+    }
+    
+    async watch(url) {
+        const res = await this.request(`/${url}`);
+        const iframePattern = /<iframe[^>]*src="([^"]+)"[^>]*>/g;
+        const videos = [];
+        let match;
+        let playerCount = 1;
+        
+        while ((match = iframePattern.exec(res.data)) !== null) {
+            const [_, src] = match;
+            const parentIdMatch = /<div[^>]*id="([^"]+)"[^>]*>[\s\S]*?<iframe[^>]*src="\Q${src}\E"/i;
+            let label = `Player ${playerCount}`;
+            
+            if (parentIdMatch) {
+                const tabPattern = new RegExp(`<a[^>]*href="#${parentIdMatch[1]}"[^>]*>([^<]+)<\/a>`, 'i');
+                const tabMatch = tabPattern.exec(res.data);
+                if (tabMatch) {
+                    label = tabMatch[1].trim();
+                }
+            }
+            
+            videos.push({
+                name: label,
+                url: src
+            });
+            playerCount++;
+        }
+        
+        if (videos.length > 0) {
+            return {
+                type: 'hls',
+                url: videos[0].url,
+            };
+        }
+        
+        return null;
+    }
+}
