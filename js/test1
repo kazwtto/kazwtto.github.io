@@ -1,7 +1,7 @@
 // ==MiruExtension==
 // @name         AnimesOnlineCC
 // @version      v0.0.1
-// @author       kazwtto
+// @author       adapted
 // @lang         all
 // @license      MIT
 // @icon         https://animesonlinecc.to/favicon.ico
@@ -152,11 +152,13 @@ export default class AnimesOnlineCCExtension extends Extension {
         
         while ((match = iframePattern.exec(res.data)) !== null) {
             const [_, src] = match;
-            const parentIdMatch = /<div[^>]*id="([^"]+)"[^>]*>[\s\S]*?<iframe[^>]*src="\Q${src}\E"/i;
+            const parentIdPattern = new RegExp(`<div[^>]*id="([^"]+)"[^>]*>[\\s\\S]*?<iframe[^>]*src="${src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`, 'i');
+            const parentIdMatch = parentIdPattern.exec(res.data);
             let label = `Player ${playerCount}`;
             
             if (parentIdMatch) {
-                const tabPattern = new RegExp(`<a[^>]*href="#${parentIdMatch[1]}"[^>]*>([^<]+)<\/a>`, 'i');
+                const parentId = parentIdMatch[1];
+                const tabPattern = new RegExp(`<a[^>]*href="#${parentId}"[^>]*>([^<]+)<\/a>`, 'i');
                 const tabMatch = tabPattern.exec(res.data);
                 if (tabMatch) {
                     label = tabMatch[1].trim();
