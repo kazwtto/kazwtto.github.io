@@ -386,6 +386,14 @@
             }
         }
     </style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RZEKT6TCDW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-RZEKT6TCDW');
+    </script>
 </head>
 <body>
 
@@ -667,9 +675,9 @@
             {
                 title: "VERSÃO COMPLETA",
                 version: "v1.0.0",
-                description: "Port Android com tradução PT-BR + todos os mods incluídos.",
-                directLink: "#",
-                shortLink: "#"
+                description: "Use o LINK CURTO caso queira me ajudar de alguma forma a continuar com o projeto. Caso não queria passar pelos anúncios, siga pelo LINK DIRETO.",
+                directLink: "https://www.mediafire.com/folder/eeryqkeg7wtg8/DELTARUNE_ANDROID_2026",
+                shortLink: "https://encurtalink.online/deltarunefigurante"
             }
         ];
 
@@ -681,7 +689,6 @@
                         <span class="download-name">${d.title}</span>
                         <span class="download-version">${d.version}</span>
                     </div>
-                    <div class="download-desc">${d.description}</div>
                     <div class="download-actions">
                         <a class="dl-btn primary" href="${d.directLink}" target="_blank">
                             <i class="fa-solid fa-download"></i> LINK DIRETO
@@ -690,6 +697,7 @@
                             <i class="fa-solid fa-link"></i> LINK CURTO
                         </a>
                     </div>
+                    <div class="download-desc">${d.description}</div>
                 </div>
             `;
         });
