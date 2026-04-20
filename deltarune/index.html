@@ -1,1 +1,731 @@
-<h1>teste</h1>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DELTARUNE MOBILE</title>
+    <link rel="icon" type="image/png" href="https://cdn2.steamgriddb.com/icon_thumb/00283999ebb74c7052f962400b51af1b.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        @font-face {
+            font-family: '8bitOperatorPlus';
+            src: url('fonts/8bitOperatorPlusSC-Bold.ttf') format('truetype');
+            font-weight: bold;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --accent: #fde047;
+            --bg: #000;
+            --text: #fff;
+            --muted: #888;
+            --card: #0d0d0d;
+            --border: #222;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: '8bitOperatorPlus', monospace;
+            font-size: 11px;
+            line-height: 1.9;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .hero {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 48px 20px 32px;
+            gap: 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .DELTARUNE {
+            width: 30vw;
+            height: auto;
+        }
+
+        .hero h1 {
+            font-size: 13px;
+            color: var(--accent);
+            letter-spacing: 3px;
+            text-align: center;
+        }
+
+        .main {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 40px 24px;
+            background: rgba(0, 0, 0, 0.7);
+        }
+
+        .block {
+            margin-bottom: 40px;
+        }
+
+        .block-title {
+            font-size: 10px;
+            color: var(--accent);
+            letter-spacing: 2px;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .desc {
+            font-size: 10px;
+            line-height: 2;
+            color: #bbb;
+        }
+
+        .desc p + p {
+            margin-top: 12px;
+        }
+
+        .steam-embed {
+            margin-top: 16px;
+            overflow: hidden;
+        }
+
+        .steam-embed iframe {
+            display: block;
+            width: 100%;
+            border: none;
+        }
+
+        .credit-group {
+            margin-bottom: 28px;
+        }
+
+        .credit-group-label {
+            font-size: 9px;
+            color: var(--muted);
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .credit-row {
+            display: flex;
+            align-items: centert;
+            justify-content: space-between;
+            gap: 12px;
+            padding: 10px 0;
+            border-bottom: 1px solid #111;
+        }
+
+        .credit-row:last-child {
+            border-bottom: none;
+        }
+
+        .credit-body {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex: 1;
+        }
+
+        .credit-avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 4px;
+            object-fit: cover;
+            border: 1px solid var(--border);
+            flex-shrink: 0;
+        }
+
+        .credit-info {
+            flex: 1;
+        }
+
+        .credit-name {
+            font-size: 10px;
+            color: var(--text);
+            display: block;
+            margin-bottom: 3px;
+        }
+
+        .credit-sub {
+            font-size: 8px;
+            color: var(--muted);
+            line-height: 1.9;
+            display: block;
+        }
+
+        .credit-links {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            align-items: flex-end;
+            flex-shrink: 0;
+        }
+
+        .link-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 10px;
+            font-family: '8bitOperatorPlus', monospace;
+            font-size: 8px;
+            color: #000;
+            background: var(--accent);
+            white-space: nowrap;
+            cursor: pointer;
+            transition: background 0.1s;
+        }
+
+        .link-btn:hover {
+            background: #fff;
+        }
+
+        .link-btn i {
+            font-size: 8px;
+        }
+
+        .carousel {
+            border: 1px solid var(--border);
+            overflow: hidden;
+        }
+
+        .carousel-track {
+            display: flex;
+            transition: transform 0.15s steps(3);
+        }
+
+        .carousel-slide {
+            min-width: 100%;
+            aspect-ratio: 16/9;
+            background: #080808;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #333;
+            font-size: 9px;
+            overflow: hidden;
+            letter-spacing: 1px;
+        }
+
+        .carousel-slide.one-by-one {
+            aspect-ratio: 1/1;
+        }
+
+        .carousel-slide img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .carousel-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 12px;
+            background: #080808;
+            border-top: 1px solid var(--border);
+        }
+
+        .carousel-arrows {
+            display: flex;
+            gap: 8px;
+        }
+
+        .carousel-btn {
+            background: none;
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-family: '8bitOperatorPlus', monospace;
+            font-size: 10px;
+            padding: 3px 10px;
+            cursor: pointer;
+        }
+
+        .carousel-btn img {
+            height: 15px;
+        }
+
+        .carousel-btn:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .carousel-btn:hover img {
+            filter: brightness(0) saturate(100%) invert(79%) sepia(98%) saturate(361%) hue-rotate(342deg) brightness(101%) contrast(99%);
+        }
+
+        .carousel-dots {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+
+        .carousel-dot {
+            width: 6px;
+            height: 6px;
+            background: #333;
+            cursor: pointer;
+        }
+
+        .carousel-dot.active {
+            background: var(--accent);
+        }
+
+        .download-item {
+            border: 1px solid var(--border);
+            margin-bottom: 12px;
+        }
+
+        .download-head {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .download-name {
+            font-size: 11px;
+            color: var(--accent);
+        }
+
+        .download-version {
+            font-size: 8px;
+            color: var(--muted);
+        }
+
+        .download-desc {
+            padding: 10px 16px;
+            font-size: 9px;
+            color: var(--muted);
+            line-height: 2;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .download-actions {
+            padding: 12px 16px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .dl-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 18px;
+            font-family: '8bitOperatorPlus', monospace;
+            font-size: 9px;
+            cursor: pointer;
+            text-decoration: none;
+            border: none;
+        }
+
+        .dl-btn.primary {
+            background: var(--accent);
+            color: #000;
+        }
+
+        .dl-btn.primary:hover {
+            background: #fff;
+        }
+
+        .dl-btn.secondary {
+            background: none;
+            border: 1px solid var(--border);
+            color: var(--text);
+        }
+
+        .dl-btn.secondary:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .bg {
+            position: fixed;
+            z-index: -1;
+            height: 100%;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0.4;
+        }
+
+        footer {
+            border-top: 1px solid var(--border);
+            padding: 32px 24px;
+            text-align: center;
+        }
+
+        footer p {
+            font-size: 8px;
+            color: var(--muted);
+            line-height: 2.5;
+        }
+
+        footer .accent {
+            color: var(--accent);
+        }
+
+        @media (max-width: 500px) {
+            .DELTARUNE {
+                width: 90dvw;
+            }
+            .download-head {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="hero">
+        <svg class="DELTARUNE" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="220" viewBox="0 0 1080 220" version="1.1" xml:space="preserve" preserveAspectRatio="xMinYMin meet" shape-rendering="crispEdges" style="fill-rule:nonzero;clip-rule:evenodd;">
+            <g style="fill:white;">
+                <path d="M99.034,33.431l35.056,-0l0,153.138l-98.71,0l0,-107.012l63.654,-0l0,-46.126Z"/>
+                <rect x="278.926" y="33.431" width="35.056" height="153.139"/>
+                <path d="M369.333,33.431l35.056,-0l0,45.203l26.753,0l0,44.281l-26.753,0l0,63.654l-35.056,0l0,-63.654l-26.753,0l0,-43.358l26.753,-0l0,-46.126Z"/>
+                <path d="M161.766,79.557l89.484,-0l0,52.584l-54.428,-0l-0,27.675l54.428,0l0,26.753l-89.484,0l-0,-107.012Z"/>
+                <path d="M459.741,79.557l115.315,-0l-0,107.012l-43.359,0l0,-18.45l-28.598,-0l0,18.45l-43.358,0l-0,-107.012Z"/>
+                <path d="M603.654,79.557l88.562,-0l0,52.584l-25.83,-0l-0,-26.754l-27.676,0l-0,81.182l-35.056,0l0,-107.012Z"/>
+                <path d="M720.814,79.557l25.831,-0l0,53.506l28.598,0l0,-53.506l35.056,-0l0,107.012l-89.485,0l0,-107.012Z"/>
+                <path d="M837.975,79.557l89.484,-0l0,107.012l-25.83,0l-0,-54.428l-28.598,-0l-0,54.428l-35.056,0l-0,-107.012Z"/>
+                <path d="M955.135,79.557l89.485,-0l-0,52.584l-54.429,-0l-0,27.675l54.429,0l-0,26.753l-89.485,0l0,-107.012Z"/>
+            </g>
+            <path d="M495.719,106.31l16.605,-0l0,8.303l10.148,-0l0,-8.303l16.605,-0l0,25.831l-8.302,-0l-0,9.225l-9.225,-0l-0,8.302l-8.303,0l-0,-8.302l-9.225,-0l-0,-9.225l-8.303,-0l-0,-25.831Z" style="fill:rgb(237,34,39);"/>
+        </svg>
+        <h1>MOBILE PT-BR</h1>
+    </div>
+
+    <div class="main">
+
+        <div class="block">
+            <div class="block-title">SOBRE O JOGO</div>
+            <div class="desc">
+                <p>DELTARUNE é um RPG de Toby Fox, criador de UNDERTALE. A história acompanha KRIS, um humano que cai no MUNDO SOMBRIO junto com SUSIE e o misterioso RALSEI, onde precisam fechar uma fonte de trevas antes que seja tarde demais.</p>
+                <p>Este projeto reúne o port Android do jogo com tradução completa em português do Brasil e modificações da comunidade — músicas customizadas, animações e mais — em um único pacote, feito por fãs para fãs.</p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="block-title">JOGO ORIGINAL</div>
+            <div class="credit-row">
+                <div class="credit-body">
+                    <div class="credit-info">
+                        <span class="credit-name">Toby Fox</span>
+                    </div>
+                </div>
+                <div class="credit-links" style="flex-direction: row; flex-wrap: wrap;">
+                    <a class="link-btn" href="https://store.steampowered.com/app/1671210/DELTARUNE/" target="_blank"><i class="fa-brands fa-steam"></i> STEAM</a>
+                    <a class="link-btn" href="https://www.nintendo.com/us/store/products/deltarune-switch/" target="_blank"><i class="fa-brands fa-switch"></i> SWITCH</a>
+                    <a class="link-btn" href="https://www.nintendo.com/us/store/products/deltarune-switch-2/" target="_blank"><i class="fa-brands fa-switch"></i> SWITCH 2</a>
+                    <a class="link-btn" href="https://store.playstation.com/en-us/concept/233495" target="_blank"><i class="fa-brands fa-playstation"></i> PLAYSTATION</a>
+                </div>
+            </div>
+            <div class="steam-embed">
+                <iframe src="https://store.steampowered.com/widget/1671210/" height="190" frameborder="0"></iframe>
+            </div>
+        </div>
+
+        <div class="block" id="creditsSection">
+            <div class="block-title">CRÉDITOS</div>
+            <div id="creditsContainer"></div>
+        </div>
+
+        <div class="block">
+            <div class="block-title">GALERIA</div>
+            <div class="carousel">
+                <div class="carousel-track">
+                    <div class="carousel-slide"><img src="imgs/screenshots/screenshot_1.png" ></div>
+                    <div class="carousel-slide"><img src="imgs/screenshots/screenshot_2.png" ></div>
+                    <div class="carousel-slide"><img src="imgs/screenshots/screenshot_3.png" ></div>
+                    <div class="carousel-slide"><img src="imgs/screenshots/screenshot_4.png" ></div>
+                    <div class="carousel-slide"><img src="imgs/screenshots/screenshot_5.png" ></div>
+                    <div class="carousel-slide"><img src="imgs/screenshots/screenshot_6.png" ></div>
+                </div>
+                <div class="carousel-nav">
+                    <div class="carousel-dots"></div>
+                    <div class="carousel-arrows">
+                        <button class="carousel-btn prev-btn"><img src="imgs/icon_arrow_left.png" /></button>
+                        <button class="carousel-btn next-btn"><img src="imgs/icon_arrow_right.png" /></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="block-title">DOWNLOAD</div>
+            <div id="downloadSection"></div>
+        </div>
+
+        <div class="block">
+            <div class="block-title">COMO ACESSAR OS SAVES</div>
+            <div class="carousel" data-autoscroll="false">
+                <div class="carousel-track">
+                    <div class="carousel-slide one-by-one"><img src="imgs/tutorial/tutorial_1.png" ></div>
+                    <div class="carousel-slide one-by-one"><img src="imgs/tutorial/tutorial_2.png" ></div>
+                    <div class="carousel-slide one-by-one"><img src="imgs/tutorial/tutorial_3.png" ></div>
+                    <div class="carousel-slide one-by-one"><img src="imgs/tutorial/tutorial_4.png" ></div>
+                    <div class="carousel-slide one-by-one"><img src="imgs/tutorial/tutorial_5.png" ></div>
+                    <div class="carousel-slide one-by-one"><img src="imgs/tutorial/tutorial_6.png" ></div>
+                </div>
+                <div class="carousel-nav">
+                    <div class="carousel-dots"></div>
+                    <div class="carousel-arrows">
+                        <button class="carousel-btn prev-btn"><img src="imgs/icon_arrow_left.png" /></button>
+                        <button class="carousel-btn next-btn"><img src="imgs/icon_arrow_right.png" /></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <img class="bg" src="https://deltarune.com/assets/images/bg.gif">
+
+    <footer>
+        <p>Todos os direitos reservados a <span class="accent">TOBY FOX</span>.</p>
+        <p>NÃO APOIAMOS PIRATARIA.  |  Projeto de fã para fãs.</p>
+        <p style="margin-top:8px;font-size:7px;color:#444">DELTARUNE © Toby Fox  ·  Este projeto não é afiliado a Toby Fox, Hopes&Dreams Team ou TEIARRUMA.</p>
+
+        <div>
+            <frame src="https://widget.livepix.gg/embed/2a15dd16-a740-447f-b3ea-4cdc956e008a"></frame>
+        </div>
+    </footer>
+
+    <script>
+        const creditsData = [
+            {
+                groupLabel: "BASE DO PORT MOBILE",
+                items: [
+                    {
+                        name: "Hopes & Dreams Team",
+                        sub: "",
+                        image: "https://yt3.googleusercontent.com/dfNRDOboj9Eh53qr-uqstS-p42pE-k6FvcRq-gPNvE8bD9RoAoNr_5ZDjBY7Ot6kUaMU9v-nNw=s160-c-k-c0x00ffffff-no-rj",
+                        links: [
+                            { label: "YOUTUBE", icon: "fa-brands fa-youtube", url: "https://www.youtube.com/@HnD_official" }
+                        ]
+                    }
+                ]
+            },
+            {
+                groupLabel: "TRADUÇÃO PT-BR",
+                items: [
+                    {
+                        name: "TEIARRUMA",
+                        sub: "",
+                        image: "https://pbs.twimg.com/profile_images/1970254888257966080/n1h8uMms_400x400.jpg",
+                        links: [
+                            { label: "LINKTREE", icon: "fa-solid fa-link", url: "https://linktr.ee/teiarruma" }
+                        ]
+                    }
+                ]
+            },
+            {
+                groupLabel: "MODS",
+                items: [
+                    {
+                        name: "thej01",
+                        sub: "TV WORLD Plays in Battles",
+                        image: "",
+                        links: [ { label: "GAMEBANANA", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/3026446" } ]
+                    },
+                    {
+                        name: "FlurpNurp",
+                        sub: "Fun Gang Running Animations",
+                        image: "https://images.gamebanana.com/img/av/685643cc18711.gif",
+                        links: [ { label: "GAMEBANANA", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/2206844" } ]
+                    },
+                    {
+                        name: "Timkho06 & soniccooler",
+                        sub: "Enhanced Rhythm Songs",
+                        image: "https://images.gamebanana.com/img/av/66d5956959fbf.png",
+                        links: [
+                            { label: "Timkho06", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/2539128" },
+                            { label: "soniccooler", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/2248647" }
+                        ]
+                    }
+                ]
+            },
+            {
+                groupLabel: "MÚSICAS CUSTOMIZADAS",
+                items: [
+                    {
+                        name: "XyxanDraws",
+                        sub: "TV Time! Defernull AU • ECHO • Through the Fires and Flames • Spoken For • The Fallen Star • Bad Apple!! • The One Who's Running the Show • Peace and Tranquility • FNF x Deltarune • Megalo Strikes Back • Off The Air • Undertale • Money - Mystery Skull • Hopes and Dreams + SAVE the World • Your Best Nightmare + FINALE • Hammer of Justice • ANTONYMPH (SiIvaGunner) • Some Real Fun",
+                        image: "https://images.gamebanana.com/img/av/68818fd7dad0f.png",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/4640570" } ]
+                    },
+                    {
+                        name: "soniccooler",
+                        sub: "Checker Dance • Metal Crusher • Chaos King • CORE • Death By Glamour",
+                        image: "https://images.gamebanana.com/img/av/66afad1520599.png",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/2248647" } ]
+                    },
+                    {
+                        name: "MrPole_",
+                        sub: "Guns Blazing • Forlorn • Retribution • Enemy Retreating • Remedy",
+                        image: "https://images.gamebanana.com/img/av/697ddf4550349.png",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/1771582" } ]
+                    },
+                    {
+                        name: "Krilledram",
+                        sub: "Melee Opening Movie",
+                        image: "https://images.gamebanana.com/img/av/67a305376ecb1.png",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/4203973" } ]
+                    },
+                    {
+                        name: "Kris the Dog",
+                        sub: "MEGALOVANIA",
+                        image: "https://images.gamebanana.com/img/av/663a646161ca6.jpg",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/1960424" } ]
+                    },
+                    {
+                        name: "SalsichaReverso & Salsicha Invertido",
+                        sub: "Zoio Eu Te Desafio",
+                        image: "https://yt3.googleusercontent.com/a_7S3ZCwjGiwG9h6gNoVPHenG53_OlP1oc1V7du5JNs1mfrXILMPtAYBWlv50rQ-BAFjNaa_8A=s160-c-k-c0x00ffffff-no-rj",
+                        links: [
+                            { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/5179969" },
+                            { label: "YouTube", icon: "fa-brands fa-youtube", url: "https://www.youtube.com/watch?v=Q9SwSQZedIU" }
+                        ]
+                    },
+                    {
+                        name: "Goinging",
+                        sub: "Big Shot",
+                        image: "",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/4642955" } ]
+                    },
+                    {
+                        name: "KloudDoesStuff",
+                        sub: "Whiplash",
+                        image: "",
+                        links: [ { label: "GameBanana", icon: "fa-solid fa-leaf", url: "https://gamebanana.com/members/5212286" } ]
+                    }
+                ]
+            }
+        ];
+
+        const creditsContainer = document.getElementById('creditsContainer');
+        let creditsHTML = '';
+
+        creditsData.forEach(group => {
+            creditsHTML += `
+                <div class="credit-group">
+                    <div class="credit-group-label">${group.groupLabel}</div>
+            `;
+
+            group.items.forEach(item => {
+                let linksHTML = '';
+                item.links.forEach(link => {
+                    linksHTML += `
+                        <a class="link-btn" href="${link.url}" target="_blank">
+                            ${link.label} <i class="${link.icon}"></i>
+                        </a>
+                    `;
+                });
+
+                const avatarHTML = item.image 
+                    ? `<img src="${item.image}" class="credit-avatar" alt="Avatar">` 
+                    : '';
+
+                const subHTML = item.sub 
+                    ? `<span class="credit-sub">${item.sub}</span>` 
+                    : '';
+
+                creditsHTML += `
+                    <div class="credit-row">
+                        <div class="credit-body">
+                            ${avatarHTML}
+                            <div class="credit-info">
+                                <span class="credit-name">${item.name}</span>
+                                ${subHTML}
+                            </div>
+                        </div>
+                        <div class="credit-links">
+                            ${linksHTML}
+                        </div>
+                    </div>
+                `;
+            });
+
+            creditsHTML += `</div>`;
+        });
+
+        creditsContainer.innerHTML = creditsHTML;
+
+        const downloads = [
+            {
+                title: "VERSÃO COMPLETA",
+                version: "v1.0.0",
+                description: "Port Android com tradução PT-BR + todos os mods incluídos.",
+                directLink: "#",
+                shortLink: "#"
+            }
+        ];
+
+        const dlSection = document.getElementById('downloadSection');
+        downloads.forEach(d => {
+            dlSection.innerHTML += `
+                <div class="download-item">
+                    <div class="download-head">
+                        <span class="download-name">${d.title}</span>
+                        <span class="download-version">${d.version}</span>
+                    </div>
+                    <div class="download-desc">${d.description}</div>
+                    <div class="download-actions">
+                        <a class="dl-btn primary" href="${d.directLink}" target="_blank">
+                            <i class="fa-solid fa-download"></i> LINK DIRETO
+                        </a>
+                        <a class="dl-btn secondary" href="${d.shortLink}" target="_blank">
+                            <i class="fa-solid fa-link"></i> LINK CURTO
+                        </a>
+                    </div>
+                </div>
+            `;
+        });
+
+        const carousels = document.querySelectorAll('.carousel');
+
+        carousels.forEach(carousel => {
+            const track = carousel.querySelector('.carousel-track');
+            const dotsContainer = carousel.querySelector('.carousel-dots');
+            const prevBtn = carousel.querySelector('.prev-btn');
+            const nextBtn = carousel.querySelector('.next-btn');
+            
+            const total = track.children.length;
+            let current = 0;
+
+            for (let i = 0; i < total; i++) {
+                const dot = document.createElement('div');
+                dot.className = 'carousel-dot' + (i === 0 ? ' active' : '');
+                dot.onclick = () => goTo(i);
+                dotsContainer.appendChild(dot);
+            }
+
+            function goTo(n) {
+                current = (n + total) % total;
+                track.style.transform = `translateX(-${current * 100}%)`;
+                dotsContainer.querySelectorAll('.carousel-dot').forEach((d, i) =>
+                    d.classList.toggle('active', i === current));
+            }
+
+            if (prevBtn) prevBtn.onclick = () => goTo(current - 1);
+            if (nextBtn) nextBtn.onclick = () => goTo(current + 1);
+
+            if (carousel.getAttribute('data-autoscroll') !== 'false') {
+                setInterval(() => goTo(current + 1), 5000);
+            }
+        });
+    </script>
+</body>
+</html>
