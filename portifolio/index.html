@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- <meta name="description" content="Portfólio de kazwtto — desenvolvimento web, experiências interativas e coisas." /> -->
+        <title>kazwtto — Portfolio</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css" />
+        <link rel="stylesheet" href="./styles.css" />
+        <script type="module">
+            import { animate, inView, stagger } from "https://cdn.jsdelivr.net/npm/motion@12.35.0/+esm";
+            window.motion = { animate, inView, stagger };
+        </script>
+    </head>
+    <body class="motion-ready">
+        <canvas id="shader-canvas" aria-hidden="true"></canvas>
+        <div class="shader-fallback" aria-hidden="true"></div>
+
+        <header class="site-header">
+            <nav class="main-nav" aria-label="Navegação principal">
+                <a href="#about" data-i18n="navAbout">Sobre</a>
+                <a href="#projects" data-i18n="navProjects">Projetos</a>
+            </nav>
+
+            <div class="controls" aria-label="Preferências">
+                <div class="language-switcher" aria-label="Idioma">
+                    <button
+                        type="button"
+                        data-language="pt"
+                        aria-label="Português"
+                    >
+                        PT
+                    </button>
+                    <button
+                        type="button"
+                        data-language="en"
+                        aria-label="English"
+                    >
+                        EN
+                    </button>
+                </div>
+                <button
+                    class="theme-toggle icon-control"
+                    type="button"
+                    aria-label="Alternar tema"
+                    title="Alternar tema"
+                >
+                    <i class="fa-solid fa-moon" aria-hidden="true"></i>
+                </button>
+            </div>
+        </header>
+
+        <main>
+            <section class="hero layout" id="home" aria-labelledby="hero-title">
+                <div class="hero-copy">
+                    <p class="overline motion-intro">
+                        <i class="fa-solid fa-circle"></i
+                        ><span data-i18n="availability"
+                            >Disponível para projetos</span
+                        >
+                    </p>
+                    <h1 id="hero-title" class="motion-intro">
+                        <span data-i18n="heroLine1">kazwtto</span>
+                        <em data-i18n="heroAccent">developer</em>
+                    </h1>
+                    <section
+                        class="tech-overview motion-intro"
+                        id="technologies"
+                        aria-label="Tecnologias"
+                    >
+                        <div class="tech-overview-heading">
+                            <p class="overline" data-i18n="stackMarker">
+                                TECNOLOGIAS
+                            </p>
+                        </div>
+                        <div class="tech-compact-grid">
+                            <article class="tech-card" tabindex="0">
+                                <div class="tech-card-top">
+                                    <i class="fa-solid fa-code"></i>
+                                    <h3 data-i18n="stackMain">Linguagens</h3>
+                                    <i class="fa-solid fa-arrow-down-up"></i>
+                                </div>
+                                <p>
+                                    JavaScript · Python · TypeScript · Rust ·
+                                    HTML/CSS · Kotlin
+                                </p>
+                            </article>
+                            <article class="tech-card" tabindex="0">
+                                <div class="tech-card-top">
+                                    <i class="fa-solid fa-layer-group"></i>
+                                    <h3 data-i18n="stackFrameworks">
+                                        Frameworks
+                                    </h3>
+                                    <i class="fa-solid fa-arrow-down-up"></i>
+                                </div>
+                                <p>
+                                    React · Express · Vue · Svelte · Next.js ·
+                                    GameMaker · Electron · Tauri · Gradle
+                                </p>
+                            </article>
+                            <article class="tech-card" tabindex="0">
+                                <div class="tech-card-top">
+                                    <i class="fa-solid fa-cubes-stacked"></i>
+                                    <h3 data-i18n="stackLibraries">
+                                        Bibliotecas
+                                    </h3>
+                                    <i class="fa-solid fa-arrow-down-up"></i>
+                                </div>
+                                <p>
+                                    Framer Motion · Three.js · GSAP · Canvas ·
+                                    Chart.js · Tailwind
+                                </p>
+                            </article>
+                            <article class="tech-card" tabindex="0">
+                                <div class="tech-card-top">
+                                    <i
+                                        class="fa-solid fa-screwdriver-wrench"
+                                    ></i>
+                                    <h3 data-i18n="stackTools">Ferramentas</h3>
+                                    <i class="fa-solid fa-arrow-down-up"></i>
+                                </div>
+                                <p>
+                                    Git · Vite · Webpack · Electron · MongoDB ·
+                                    Netlify
+                                </p>
+                            </article>
+                        </div>
+                    </section>
+                    <p
+                        class="hero-description motion-intro"
+                        data-i18n="heroDescription"
+                    >
+                        Projetos em JavaScript, WebGL, aplicações web e
+                        ferramentas para a comunidade.
+                    </p>
+                    <div class="hero-actions motion-intro">
+                        <a class="button button-primary" href="#projects"
+                            ><span data-i18n="seeProjects">Ver projetos</span
+                            ><i class="fa-solid fa-arrow-down"></i
+                        ></a>
+                        <a
+                            class="button button-quiet"
+                            href="https://github.com/kazwtto"
+                            target="_blank"
+                            rel="noreferrer"
+                            ><i class="fa-brands fa-github"></i> GitHub
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square"
+                            ></i
+                        ></a>
+                    </div>
+                </div>
+
+                <div
+                    class="hero-panel motion-intro"
+                    aria-label="Resumo profissional"
+                >
+                    <div class="panel-topline">
+                        <span data-i18n="panelLabel">EM CONSTRUÇÃO</span
+                        ><span>2026</span>
+                    </div>
+                    <div class="panel-identity">
+                        <img
+                            src="https://avatars.githubusercontent.com/u/77172419?v=4"
+                            alt="Avatar público de kazwtto no GitHub"
+                        /><span
+                            ><i class="fa-brands fa-github"></i> @kazwtto</span
+                        >
+                    </div>
+                    <div class="panel-copy">
+                        <strong data-i18n="panelTitle"
+                            >Programo por hobby, mesmo sendo
+                            estressante.</strong
+                        >
+                        <span data-i18n="panelDescription"
+                            >Repositórios e projetos publicados no GitHub.</span
+                        >
+                    </div>
+                </div>
+            </section>
+
+            <section class="facts layout motion-reveal" aria-label="Resumo">
+                <div>
+                    <span class="fact-number">01</span>
+                    <p data-i18n="factOne">
+                        Web, produto e experiências interativas.
+                    </p>
+                </div>
+                <div>
+                    <span class="fact-number">02</span>
+                    <p data-i18n="factTwo">
+                        Do front-end ao back-end, com foco em clareza.
+                    </p>
+                </div>
+                <div>
+                    <span class="fact-number">03</span>
+                    <p data-i18n="factThree">Brasil · Ceará · trabalho remoto.</p>
+                </div>
+            </section>
+
+            <section
+                class="about layout section motion-reveal"
+                id="about"
+                aria-labelledby="about-title"
+            >
+                <div class="section-marker">
+                    <span>01</span><span data-i18n="aboutMarker">SOBRE</span>
+                </div>
+                <div class="section-content">
+                    <h2 id="about-title" data-i18n="aboutTitle">
+                        Desenvolvedor web e criador de projetos independentes.
+                    </h2>
+                    <p class="lead" data-i18n="aboutText">
+                        Experiência com front-end, back-end em Node.js,
+                        automação com Python e experimentos em Rust. Também
+                        trabalho com interfaces responsivas, WebGL, Canvas e
+                        ferramentas para a comunidade.
+                    </p>
+                    <div class="focus-list" aria-label="Áreas de foco">
+                        <span
+                            ><i class="fa-solid fa-terminal"></i>
+                            JavaScript</span
+                        >
+                        <span><i class="fa-solid fa-cubes"></i> WebGL</span>
+                        <span
+                            ><i class="fa-solid fa-mobile-screen-button"></i>
+                            Mobile</span
+                        >
+                        <span
+                            ><i class="fa-solid fa-wand-magic-sparkles"></i>
+                            Motion</span
+                        >
+                    </div>
+                </div>
+            </section>
+
+            <section
+                class="projects layout section"
+                id="projects"
+                aria-labelledby="projects-title"
+            >
+                <div class="section-marker motion-reveal">
+                    <span>02</span
+                    ><span data-i18n="projectsMarker">PROJETOS</span>
+                </div>
+                <div class="section-content">
+                    <div class="section-heading motion-reveal">
+                        <h2 id="projects-title" data-i18n="projectsTitle">
+                            Projetos
+                        </h2>
+                        <p data-i18n="projectsText">
+                            Produtos profissionais, ferramentas educacionais e
+                            projetos independentes.
+                        </p>
+                    </div>
+
+                    <div class="project-list">
+                        <a
+                            class="project-card motion-reveal"
+                            href="https://sween.com.br/"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <span class="project-index">01</span>
+                            <div>
+                                <div class="project-kicker">
+                                    <i class="fa-solid fa-graduation-cap"></i
+                                    ><span data-i18n="professional"
+                                        >PROFISSIONAL</span
+                                    >
+                                </div>
+                                <h3>Academia de Pitágoras</h3>
+                                <p data-i18n="sweenText">
+                                    Plataforma de treinamento para estudantes
+                                    que buscam medalhas na OBMEP.
+                                </p>
+                            </div>
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square project-arrow"
+                            ></i>
+                        </a>
+                        <a
+                            class="project-card motion-reveal"
+                            href="https://sween.com.br/calendario/"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <span class="project-index">02</span>
+                            <div>
+                                <div class="project-kicker">
+                                    <i class="fa-solid fa-calendar-days"></i
+                                    ><span data-i18n="professional"
+                                        >PROFISSIONAL</span
+                                    >
+                                </div>
+                                <h3 data-i18n="olympicTitle">Via Olímpica</h3>
+                                <p data-i18n="olympicText">
+                                    Calendário, ranking e login para as
+                                    principais olimpíadas estudantis do Brasil.
+                                </p>
+                            </div>
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square project-arrow"
+                            ></i>
+                        </a>
+                        <a
+                            class="project-card motion-reveal"
+                            href="https://figurante.netlify.app/deltarune"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <span class="project-index">03</span>
+                            <div>
+                                <div class="project-kicker">
+                                    <i class="fa-solid fa-gamepad"></i
+                                    ><span data-i18n="personal">PESSOAL</span>
+                                </div>
+                                <h3>DELTARUNE MOBILE</h3>
+                                <p data-i18n="deltaruneText">
+                                    Exemplo de Landpage
+                                </p>
+                            </div>
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square project-arrow"
+                            ></i>
+                        </a>
+                        <a
+                            class="project-card motion-reveal"
+                            href="https://undertaleengine-fandocs.netlify.app/"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <span class="project-index">04</span>
+                            <div>
+                                <div class="project-kicker">
+                                    <i class="fa-solid fa-book-open"></i
+                                    ><span data-i18n="personal">PESSOAL</span>
+                                </div>
+                                <h3>UndertaleEngine Fan Docs</h3>
+                                <p data-i18n="undertaleText">
+                                    Exemplo de Landpage
+                                </p>
+                            </div>
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square project-arrow"
+                            ></i>
+                        </a>
+                        <a
+                            class="project-card motion-reveal"
+                            href="https://novajs.netlify.app/"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <span class="project-index">05</span>
+                            <div>
+                                <div class="project-kicker">
+                                    <i class="fa-solid fa-bolt"></i
+                                    ><span data-i18n="personal">PESSOAL</span>
+                                </div>
+                                <h3>NOVAjs</h3>
+                                <p data-i18n="novaText">
+                                    Linguagem própria que transpila para
+                                    JavaScript, com DOM e Canvas nativos.
+                                </p>
+                            </div>
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square project-arrow"
+                            ></i>
+                        </a>
+                        <a
+                            class="project-card motion-reveal"
+                            href="https://github.com/kazwtto/NekoTune"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <span class="project-index">06</span>
+                            <div>
+                                <div class="project-kicker">
+                                    <i class="fa-solid fa-music"></i
+                                    ><span data-i18n="personal">PESSOAL</span>
+                                </div>
+                                <h3>NekoTune</h3>
+                                <p data-i18n="nekoText">
+                                    Wrapper do YouTube Music baseado em
+                                    InnerTune/OuterTune.
+                                </p>
+                            </div>
+                            <i
+                                class="fa-solid fa-arrow-up-right-from-square project-arrow"
+                            ></i>
+                        </a>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer layout">
+            <p>
+                <span data-i18n="footerText"
+                    >Feito com NovaJS, Motion e curiosidade.</span
+                >
+            </p>
+            <div>
+                <a
+                    href="https://github.com/kazwtto"
+                    target="_blank"
+                    rel="noreferrer"
+                    ><i class="fa-brands fa-github"></i> GitHub</a
+                ><a href="#home" id="back-to-top" data-i18n="backToTop">Voltar ao topo ↑</a>
+            </div>
+        </footer>
+
+        <script src="https://cdn.jsdelivr.net/gh/kazwtto/novajs@main/src/nova.min.js"></script>
+        <script type="text/novajs">
+            # Deveria haver comentarios engraçadinhos por aqui mas não tenho criatividade para esse tipo de coisa- foi mal, mister curioso
+            dom.ready(() => {
+              BODY = dom.body
+              ROOT = dom.root
+              LANGUAGE_BUTTONS = dom.getAll('[data-language]')
+              TRANSLATABLE = dom.getAll('[data-i18n]')
+              THEME_BUTTON = dom.get('.theme-toggle')
+              THEME_ICON = THEME_BUTTON.find('i')
+              HEADER = dom.get('.site-header')
+              BACK_TO_TOP = dom.id('back-to-top')
+
+              TRANSLATIONS = file('./translations.json')
+
+              fn setLanguage(language, persist = true) {
+                dictionary = TRANSLATIONS[language]
+                TRANSLATABLE.forEach(element => element.text(dictionary[element.data('i18n')]))
+                LANGUAGE_BUTTONS.forEach(button => button.attr('aria-pressed', button.data('language') == language))
+                ROOT.attr('lang', language == 'pt' ? 'pt-BR' : 'en')
+                if persist localStorage.setItem('portfolio-language', language)
+              }
+
+              fn setTheme(theme, persist = true) {
+                light = theme == 'light'
+                BODY.class.toggle('light', light)
+                THEME_ICON.class(light ? 'fa-solid fa-sun' : 'fa-solid fa-moon')
+                if persist localStorage.setItem('portfolio-theme', theme)
+              }
+
+              # O idioma do sistema é usado na primeira visita; escolhas posteriores são lembradas.
+              systemLanguage = navigator.language.lower().startsWith('pt') ? 'pt' : 'en'
+              selectedLanguage = localStorage.getItem('portfolio-language') or systemLanguage
+              selectedTheme = localStorage.getItem('portfolio-theme') or (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark')
+              setLanguage(selectedLanguage, false)
+              setTheme(selectedTheme, false)
+
+              LANGUAGE_BUTTONS.on('click', event => setLanguage(event.currentTarget.dataset.language))
+              THEME_BUTTON.on('click', () => setTheme(BODY.class.has('light') ? 'dark' : 'light'))
+              BACK_TO_TOP.on('click', event => {
+                event.preventDefault()
+                window.scrollTo(0, 0)
+              })
+
+              window.addEventListener('scroll', () => HEADER.class.toggle('is-scrolled', window.scrollY > 16), { passive: true })
+
+              # Animações DOM com Motion/Framer.
+              if window.motion {
+                window.motion.animate('.motion-intro', { opacity: [0, 1], y: [18, 0] }, { delay: window.motion.stagger(.1, { startDelay: .08 }), duration: .68, ease: [.22, 1, .36, 1] })
+                window.motion.inView('.motion-reveal, .project-card', element => {
+                  window.motion.animate(element, { opacity: [0, 1], y: [20, 0] }, { duration: .55, ease: [.22, 1, .36, 1] })
+                }, { amount: .16 })
+              } else {
+                BODY.class.remove('motion-ready')
+              }
+
+              # Shader WebGL leve: 30 fps, DPR limitado e frame estático para reduce-motion.
+              CANVAS = dom.id('shader-canvas')
+              GL = CANVAS.el.getContext('webgl', { alpha: true, antialias: false, powerPreference: 'low-power' })
+              if GL {
+                VERTEX = `attribute vec2 position; void main() { gl_Position = vec4(position, 0.0, 1.0); }`
+                FRAGMENT = `precision mediump float;
+                  uniform vec2 u_resolution; uniform float u_time; uniform float u_light;
+                  void main() {
+                    vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+                    vec2 p = uv - .5; p.x *= u_resolution.x / u_resolution.y;
+                    float wave = sin(p.x * 3.0 + u_time * .20) * cos(p.y * 3.0 - u_time * .14);
+                    float glow = smoothstep(.75, -.20, length(p - vec2(.18 * sin(u_time * .10), .12 * cos(u_time * .08))));
+                    vec3 dark = vec3(.045, .030, .070) + vec3(.09, .035, .14) * (wave * .5 + .5) + vec3(.13, .06, .22) * glow;
+                    vec3 bright = vec3(.98, .95, 1.0) + vec3(.07, .035, .13) * (wave * .5 + .5) + vec3(.16, .09, .24) * glow;
+                    gl_FragColor = vec4(mix(dark, bright, u_light), .94);
+                  }`
+                fn compile(type, source) {
+                  shader = GL.createShader(type)
+                  GL.shaderSource(shader, source)
+                  GL.compileShader(shader)
+                  shader
+                }
+                PROGRAM = GL.createProgram()
+                GL.attachShader(PROGRAM, compile(GL.VERTEX_SHADER, VERTEX))
+                GL.attachShader(PROGRAM, compile(GL.FRAGMENT_SHADER, FRAGMENT))
+                GL.linkProgram(PROGRAM)
+                GL.useProgram(PROGRAM)
+                BUFFER = GL.createBuffer()
+                GL.bindBuffer(GL.ARRAY_BUFFER, BUFFER)
+                GL.bufferData(GL.ARRAY_BUFFER, new Float32Array([-1, -1, 3, -1, -1, 3]), GL.STATIC_DRAW)
+                position = GL.getAttribLocation(PROGRAM, 'position')
+                GL.enableVertexAttribArray(position)
+                GL.vertexAttribPointer(position, 2, GL.FLOAT, false, 0, 0)
+                resolutionLocation = GL.getUniformLocation(PROGRAM, 'u_resolution')
+                timeLocation = GL.getUniformLocation(PROGRAM, 'u_time')
+                lightLocation = GL.getUniformLocation(PROGRAM, 'u_light')
+
+                fn resizeShader() {
+                  dpr = window.devicePixelRatio > 1.35 ? 1.35 : window.devicePixelRatio
+                  width = Math.floor(window.innerWidth * dpr)
+                  height = Math.floor(window.innerHeight * dpr)
+                  if CANVAS.el.width != width or CANVAS.el.height != height {
+                    CANVAS.el.width = width
+                    CANVAS.el.height = height
+                    GL.viewport(0, 0, width, height)
+                  }
+                }
+
+                lastFrame = 0
+                REDUCED = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+                fn draw(now) {
+                  if REDUCED or now - lastFrame > 32 {
+                    lastFrame = now
+                    resizeShader()
+                    GL.uniform2f(resolutionLocation, CANVAS.el.width, CANVAS.el.height)
+                    GL.uniform1f(timeLocation, now * .001)
+                    GL.uniform1f(lightLocation, BODY.class.has('light') ? 1 : 0)
+                    GL.drawArrays(GL.TRIANGLES, 0, 3)
+                  }
+                  if not REDUCED requestAnimationFrame(draw)
+                }
+                window.addEventListener('resize', resizeShader, { passive: true })
+                draw(0)
+              }
+            })
+        </script>
+    </body>
+</html>
